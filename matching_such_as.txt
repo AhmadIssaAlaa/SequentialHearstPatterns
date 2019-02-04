@@ -1,0 +1,136 @@
+<s>
+influences may be drawn from genres_hyper such as experimental_rock_hypo , avant-garde_music_hypo , classical_music_hypo , and jazz_hypo .
+[(experimental rock, genres), (avant-garde music, genres), (classical music, genres), (jazz, genres)]
+</s>
+<s>
+=== growth of the scene ( 1990spresent ) === by the 1990s , genres_hyper such as house_hypo , trance , acid house_hypo , acid trance , oldschool_jungle_hypo , breakbeat hardcore_hypo , hardcore_hypo , techno_hypo and electronica_hypo were all being featured at raves , both large and small .
+[(house, genres), (, genres), (oldschool jungle, genres), (hardcore, genres), (hardcore, genres), (techno, genres), (electronica, genres)]
+</s>
+<s>
+the ramones also influenced musicians_hyper associated with other genres , such as heavy_metal_hypo .
+[(heavy metal, musicians)]
+</s>
+<s>
+the band has always been outspoken regarding issues_hyper such as anarchism_hypo , animal_rights_hypo , the_anti-war_movement_hypo and in their support for the organisation class war , and a number of their gigs during the 1980s were followed by riots and disturbances .
+[(anarchism, issues), (animal rights, issues), (the anti-war movement, issues)]
+</s>
+<s>
+other artists have taken lounge music to new heights by recombining_rock_hyper with pop , such as jon_brion_hypo , the bird and the_bee_hypo , pink martini , the buddha-lounge series , and the surrounding regulars of caf largo .
+[(jon brion, recombining rock), (the bee, recombining rock)]
+</s>
+<s>
+other instruments_hyper such as a piano_hypo or an accordion_hypo are used too .
+[(piano, instruments), (accordion, instruments)]
+</s>
+<s>
+as a genre it blends the sound of western_musical_styles_hyper such as country_hypo with that of rhythm and blues , leading to what is considered `` classic '' rock and roll .
+[(country, western musical styles)]
+</s>
+<s>
+rockabilly has left a legacy , spawning a variety of sub-styles and influencing other genres_hyper such as punk_rock_hypo .
+[(punk rock, genres)]
+</s>
+<s>
+`` by the 1930s , african_american_musicians_hyper , such as cab_calloway_hypo , fletcher henderson and duke_ellington_hypo , were developing swing music , essentially jazz played for dancing , and in some areas such as new york city processes of social integration were taking place .
+[(cab calloway, african american musicians), (duke ellington, african american musicians)]
+</s>
+<s>
+sister rosetta tharpe was also recording shouting , stomping music in the 1930s_hyper and 1940s , such as `` strange_things_hypo happening every day '' ( 1944 ) , that in some ways contained major elements of mid-1950s rock and roll .
+[(strange things, 1930s)]
+</s>
+<s>
+a modern corps of drums may thus have a range of percussion_instruments_hyper such as a bass_hypo drum , single tenor drums and cymbals in addition to the snare drum , flute and bugle .
+[(bass, percussion instruments)]
+</s>
+<s>
+unlike many electronic music acts , the group also includes traditional_rock_instruments_hyper such as electric bass_hypo and guitar , which acknowledges a punk rock influence .
+[(bass, traditional rock instruments)]
+</s>
+<s>
+in the classical music era , the minuet was frequently used as a third movement in four-movement non-vocal works_hyper such as sonatas_hypo , string quartets , and symphonies_hypo , although in this context it would not accompany any dancing .
+[(sonatas, works), (symphonies, works)]
+</s>
+<s>
+invariably these performers choose to accompany themselves on instruments_hyper such as guitar_hypo and banjo_hypo .
+[(guitar, instruments), (banjo, instruments)]
+</s>
+<s>
+auxiliary percussion such as claves_hypo , bongos or maracas_hypo can also be used , especially in music influenced by strains from latin america such as salsa and samba .
+[(claves, auxiliary percussion), (maracas, auxiliary percussion)]
+</s>
+<s>
+in the 1970s , chordal instruments_hyper such as the electric_hypo and/or acoustic guitar_hypo and various keyboards ( piano , electric_hypo piano , hammond organ , clavinet ) continued to be used to augment the bass and drums in soul , funk , and reggae groups .
+[(electric, instruments), (guitar, instruments)]
+</s>
+<s>
+in some pop_styles_hyper , such as 1980s-era_pop_hypo and musical_theater_hypo , the bass sometimes plays a relatively simple part , and the music forefronts the vocals and melody instruments .
+[(1980s-era pop, pop styles), (musical theater, pop styles)]
+</s>
+<s>
+in genres_hyper such as progressive_rock_hypo , art_rock_hypo , or progressive_metal_hypo , the rhythm section members may play complicated parts along with the lead guitar ( or vocalist ) and perform extended solos .
+[(progressive rock, genres), (art rock, genres), (progressive metal, genres)]
+</s>
+<s>
+major changes occurred through the evolution of established performers_hyper such as bob_dylan_hypo , joan_baez_hypo , judy_collins_hypo , the seekers_hypo and peter paul and mary_hypo , and also through the creation of new fusion genres with rock and pop .
+[(bob dylan, performers), (joan baez, performers), (judy collins, performers), (seekers, performers), (mary, performers)]
+</s>
+<s>
+major changes occurred through the evolution of established performers_hyper such as bob_dylan_hypo , joan_baez_hypo , judy_collins_hypo , the seekers_hypo and peter paul and mary_hypo , and also through the creation of new fusion genres with rock and pop .
+[(bob dylan, performers), (joan baez, performers), (judy collins, performers), (seekers, performers), (mary, performers)]
+</s>
+<s>
+the importance of music_hyper in taoist ceremony is demonstrated by revealing how central beliefs are reflected through elements of music_hyper such as harmony_hypo , instrumentation and rhythm_hypo .
+[(harmony, music), (rhythm, music)]
+</s>
+<s>
+afrobeat is a music_genre_hyper which developed in the 1970s out of a combination of west african_musical_styles_hyper , such as highlife_hypo and yoruba , with american funk and jazz , with a focus on chanted vocals and percussion .
+[(highlife, african musical styles), (afrobeat, music genre)]
+</s>
+<s>
+the band helped define the genre with releases_hyper such as black_sabbath_hypo ( 1970 ) , paranoid_hypo ( 1970 ) and master_hypo of reality ( 1971 ) .
+[(black sabbath, releases), (paranoid, releases), (master, releases)]
+</s>
+<s>
+the band helped to create the genre with ground-breaking_releases_hyper such as paranoid_hypo , an album that rolling stone magazine said `` changed music forever '' , and called the band `` the beatles of heavy metal '' .
+[(paranoid, ground-breaking releases)]
+</s>
+<s>
+=== music composed and performed by computers === later , composers_hyper such as gottfried_michael_koenig_hypo had computers generate the sounds of the composition as well as the score .
+[(gottfried michael koenig, composers)]
+</s>
+<s>
+in addition , while the majority_hypo of filk songs are in the folk_style_hyper , other styles_hyper such as blues_hypo , calypso , and even_rock_hypo appear from time to time .
+[(blues, styles), (even rock, styles), (majority, folk style)]
+</s>
+<s>
+this type of folk music also includes fusion_genres_hyper such as folk_rock_hypo , folk_metal_hypo , electric_folk_hypo , and others_hypo .
+[(folk rock, fusion genres), (folk metal, fusion genres), (electric folk, fusion genres), (others, fusion genres)]
+</s>
+<s>
+trova and son_hypo are styles_hyper of traditional cuban music originating in the province of oriente that includes influences from spanish song_hyper and dance such as bolero_hypo and contradanza_hypo as well as afro-cuban rhythm_hypo and percussion elements .
+[(bolero, song), (contradanza, song), (rhythm, song), (trova, styles), (son, styles)]
+</s>
+<s>
+because of its size and portability , the fiddle_hypo was the core_hyper of early oklahoma anglo music , but other instruments_hyper such as the guitar , mandolin , banjo_hypo , and steel guitar were added later .
+[(banjo, instruments), (fiddle, core)]
+</s>
+<s>
+by the mid-1960s , several of these acts espoused an approach based on art and originality , where previously they had been absorbed solely in authentic_interpretation_hyper of us-derived musical styles , such as rock_hypo 'n ' roll and r & b .
+[(rock, authentic interpretation)]
+</s>
+<s>
+however , numan 's career had begun to experience a gradual decline , and he was eclipsed initially by acts_hyper such as adam_ant_hypo , and later by the human league , duran duran , and depeche mode .
+[(adam ant, acts)]
+</s>
+<s>
+nol was a christmas_album_hyper of traditional material , while baptism was akin to a concept album , featuring baez reading and singing poems written by celebrated_poets_hyper such as james_hypo joyce , federico garca lorca_hypo , and walt_whitman_hypo .
+[(james, celebrated poets), (lorca, celebrated poets), (walt whitman, celebrated poets), (nol, christmas album)]
+</s>
+<s>
+capp had this character singing bizarre songs_hyper such as `` a tale_hypo of bagels and bacon '' and `` molotov_cocktails_hypo for two '' .
+[(tale, songs), (molotov cocktails, songs)]
+</s>
+<s>
+english operetta continued into the 1890s , with works by composers_hyper such as edward german , ivan caryll_hypo and sidney jones .
+[(caryll, composers)]
+</s>
