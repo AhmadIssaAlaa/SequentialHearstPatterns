@@ -1,0 +1,8395 @@
+acid trance	genres
+hardcore	genres
+breakbeat	genres
+breakbeat	genre
+UK garage	genres
+garage	genre
+free tekno	genres
+tekno	genre
+roots	styles
+root	style
+sousaphone	several brass instruments
+single tenor drums	percussion instruments
+cymbals	percussion instruments
+guitar	traditional rock instruments
+heavy metal	the louder genres
+punk rock	the louder genres
+rhythm guitarists	the louder genres
+bongos	Auxiliary percussion
+bongo	percussion
+maracas	Auxiliary percussion
+maraca	percussion
+art rock	genres
+progressive metal	genres
+the rhythm section members	genres
+member	genre
+electric folk	Fusion genres
+others	Fusion genres
+others	genre
+American folk	genres
+gospel	genres
+Simmons	drums
+Simmons	drum
+modules	drums
+module	drum
+the samba	Latin rhythms
+samba	rhythm
+the cha	Latin rhythms
+cha	rhythm
+folk metal	fusion genres
+electric folk	fusion genres
+others	fusion genres
+country music	music
+old time music	music
+jug bands	music
+band	music
+Appalachian folk	music
+blues	music
+Cajun	music
+Native American music	music
+lyre	instruments
+lute	instruments
+lute	instrument
+cymbals	instruments
+bebop	styles
+Thrash metal	styles
+jazz music	popular music genres
+a lick	popular music genres
+lick	genre
+electronic dance	popular music
+dance	music
+chiptune	popular music
+chiptune	music
+game music	popular music
+piano	instruments
+electronic keyboard	instruments
+keyboard	instrument
+guitar	instruments
+other accompaniment	instruments
+accompaniment	instrument
+heavy metal	extreme music
+symphony	instrumental music
+sonata	instrumental music
+British punk	genres
+post	genres
+post	genre
+oboes	instruments
+clarinets	instruments
+hip hop	popular music
+hop	music
+psychedelia	genres
+psychedelia	genre
+heavy metal	genres
+hardcore punk	genres
+alternative rock	genres
+Bossa Nova	genres
+Nova	genre
+Cumbia	genres
+Cumbia	genre
+Boleros	genres
+Boleros	genre
+accordions	additional folk instruments
+banjos	additional folk instruments
+violins	additional folk instruments
+blues	styles
+spoken word	styles
+word	style
+heavy metal	styles
+folk rock	music
+blues rock	genres
+punk	genres
+rock	styles
+rhythm	styles
+Latin jazz	styles
+saxophone	woodwind instruments
+crash cymbals	percussion instruments
+marimba	keyboard percussion
+bells	keyboard percussion
+bell	percussion
+tambourines	orchestral percussion
+maracas	orchestral percussion
+cowbells	orchestral percussion
+cowbell	percussion
+congas	orchestral percussion
+wood blocks	orchestral percussion
+block	percussion
+marimbas	orchestral percussion
+xylophones	orchestral percussion
+bongos	orchestral percussion
+vibraphones	orchestral percussion
+timbales	orchestral percussion
+claves	orchestral percussion
+guiros	orchestral percussion
+guiros	percussion
+chimes	orchestral percussion
+chime	percussion
+popular music	music
+a matrix	music
+matrix	music
+pop	genres
+folk	genres
+funk	other popular music genres
+clarinet	various woodwind instruments
+saxophone	various woodwind instruments
+bassoon	various woodwind instruments
+ocarina	various woodwind instruments
+recorder	various woodwind instruments
+dancehall	genres
+dancehall	genre
+hip hop	genres
+hop	genre
+funk	genres
+rock	genres
+fusion	genres
+soul	genres
+jazz piano	a chordal instrument
+Hammond organ	a chordal instrument
+electric bass	instruments
+blues	popular music genres
+jazz	popular music genres
+electric bass	a rhythm section instrument
+a percussion instrument	a rhythm section instrument
+vibraphone	keyboard percussion
+opera	European art music
+film scores	play genres
+score	genre
+pop	play genres
+cymbals	other percussion instruments
+various hand	other percussion instruments
+hand	instrument
+breakcore	electronic music
+breakcore	music
+drum	electronic music
+drum	music
+bass	electronic music
+bass	music
+jungle	electronic music
+jungle	music
+glitch	electronic music
+glitch	music
+industrial rock	electronic music
+soul	styles
+electronic dance music	styles
+free improvisation	styles
+improvisation	style
+a cappella	styles
+cappella	style
+isicathamiya	styles
+isicathamiya	style
+zydeco	styles
+mbaqanga	styles
+mbaqanga	style
+congas	percussion instruments
+show tunes	genres
+tune	genre
+roll	popular music
+roll	music
+EDM	genres
+EDM	genre
+blues	genres
+jazz	genres
+the latter	genres
+latter	genre
+folk	styles
+traditional jazz	styles
+funk	styles
+electronic music	styles
+disco	styles
+noise	styles
+noise	style
+free jazz	styles
+world music	styles
+the avant	styles
+avant	style
+electropunk	genres
+electropunk	genre
+indie rock	genres
+power pop	genres
+No Wave	genres
+Wave	genre
+noise	genres
+noise	genre
+Puerto Rican folk	genres
+indie rock	music
+math rock	music
+alternative rock	other music genres
+funk	other music genres
+grunge	other music genres
+grunge	genre
+hip hop	other music genres
+gothic rock	genres
+rap metal	heavy metal music
+groove metal	heavy metal music
+funk metal	heavy metal music
+thrash metal	heavy metal music
+thrash metal	styles
+death metal	genres
+gospel	popular music styles
+thrash	genres
+thrash	genre
+the cuatro	rhythm instruments
+cuatro	instrument
+percussion	rhythm instruments
+percussion	instrument
+ska	genres
+dance	genres
+film soundtracks	genres
+a chorale prelude	a short liturgical composition
+punk	popular music genres
+hip hop	popular music genres
+EDM	popular music genres
+pop music	popular music genres
+maracas	unpitched percussion instruments
+the raggamuffin sound	genres
+sound	genre
+MC chants	genres
+dub basslines	genres
+basslines	genre
+krautrock	genres
+new wave	genres
+synthpop	genres
+synthpop	genre
+rap	genres
+metal and	genres
+new wave	Genres
+wave	Genres
+punk rock	Genres
+rock	Genres
+grunge music	Genres
+music	Genres
+ambient	genres
+prog rock	genres
+space rock	genres
+math rock	genres
+tape music	genres
+recorded music	the only instrument
+music	instrument
+funk	musics
+jazz	musics
+r	musics
+a chorale cantata	a sacred composition
+dub	music
+post	styles
+post	style
+black metal	subsequent extreme genres
+black metal	underground metal genres
+a sonata	work
+minimal tech	crossover electronic music
+tech	music
+dark trance	crossover electronic music
+electronica	various electronic music genres
+dubstep	various electronic music genres
+others	various electronic music genres
+trance	other electronic music genres
+dubstep	other electronic music genres
+electro	other electronic music genres
+electro	genre
+dance	other electronic music genres
+cajun	styles
+cajun	style
+jazz	styles
+mountain	styles
+mountain	style
+bluegrass	styles
+roll	styles
+roll	style
+electronic dance music	genres
+operetta	an extended musical work
+masque	an extended musical work
+masque	work
+oratorio	an extended musical work
+cantata	an extended musical work
+progressive rock	rock genres
+Taiwanese opera	music
+Noh	music
+Musical theatre	music
+theatre	music
+the timpani	drum
+timpani	drum
+tom	drum
+piano	Keyboard instruments
+music drama	music theatre
+musical comedy	music theatre
+comedy	theatre
+western swing	styles
+ragtime	styles
+musical theater	styles
+theater	style
+the harpsichord	some keyboard instruments
+harpsichord	instrument
+the veena	instruments
+veena	instrument
+viola	some string instruments
+cello	some string instruments
+the double bass	some string instruments
+guitar	strings
+guitar	string
+the player	strings
+player	string
+xylophones	keyboard percussion instruments
+a performer	rock
+performer	rock
+pipe organ	an instrument
+guitar	an instrument
+the bass guitar player	genres
+player	genre
+Latin	styles
+Latin	style
+hard rock	genres
+the harpsichord	keyboard instruments
+ska	black music genres
+rocksteady	black music genres
+rocksteady	genre
+early reggae	black music genres
+country	popular music genres
+folk	popular music genres
+Chinese opera	art music
+Hindustani music	art music
+religious music styles	art music
+style	music
+indie rock	another particular music genre
+bands	the first punk rock
+glam metal	genres
+New Romanticism	genres
+Romanticism	genre
+Fairport Convention	electric folk rock
+Convention	rock
+a ballet	modern dance
+ballet	dance
+hip hop	musical style
+hop	style
+big beat	musical style
+beat	style
+electropop	musical style
+electropop	style
+Ed Pearl	music
+Pearl	music
+accordion	instruments
+concertina	instruments
+concertina	instrument
+flute	instruments
+tin whistle	instruments
+rock towards	styles
+towards	style
+psychedelia	styles
+psychedelia	style
+progressive rock	styles
+electric folk	styles
+neofolk	styles
+neofolk	style
+snare drum	instruments
+trumpet	instruments
+trombone	instruments
+baritone	instruments
+baritone	instrument
+sousaphone	instruments
+clarinet	instruments
+saxophone	instruments
+electric guitar	instruments
+koto	percussion instruments
+koto	instrument
+mbira	percussion instruments
+djembe	percussion instruments
+charango	percussion instruments
+charango	instrument
+balofon	percussion instruments
+balofon	instrument
+handmade wooden	instruments
+wooden	instrument
+slam death metal	styles
+timbales	traditional Latin percussion
+bongos	traditional Latin percussion
+classical guitar	instruments
+flamenco guitar	instruments
+acoustic guitar	instruments
+dance	electronic music
+noise	electronic music
+noise	music
+dubstep	electronic music
+dubstep	music
+drum	styles
+drum	style
+downbeat	styles
+downbeat	style
+bass	instruments
+post rock	genres
+ambient music	genres
+disco	genres
+post punk	rock
+garage	rock
+indie music	rock
+folk metal	genres
+baritone saxophone	other brass instruments
+percussion	other brass instruments
+blues	different music genres
+drum set	instruments
+Gologan	instruments
+Gologan	instrument
+reggae	genres
+roll	genres
+roll	genre
+pop punk	genres
+drums	instruments
+sax	instruments
+sax	instrument
+percussion	instruments
+chromatic harmonica	instruments
+theremin	instruments
+black metal	styles
+grind	styles
+grind	style
+the band	styles
+jazz fusion	styles
+guitar	classic rock instruments
+derbuka	percussions
+derbuka	percussion
+kettle	percussions
+kettle	percussion
+grindcore	some extreme music
+grindcore	music
+hardcore punk	some extreme music
+thrash	some extreme music
+thrash	music
+nu metal genres	some extreme music
+genre	music
+hip	music
+electric guitar	incorporated traditional rock instruments
+bass	incorporated traditional rock instruments
+keyboard	incorporated traditional rock instruments
+folk rock	genres
+breakbeats	acoustic music
+breakbeats	music
+ambient	acoustic music
+techno	music styles
+rock	music styles
+heavy metal	music styles
+toy piano	instruments
+metalophone	instruments
+metalophone	instrument
+groove metal	styles
+melodic death metal	styles
+industrial metal	styles
+elements	styles
+element	style
+classical music	music
+swing	entertainment music
+funk	entertainment music
+latin	entertainment music
+latin	music
+some big band arrangements	entertainment music
+arrangement	music
+hip	genres
+hip	genre
+indie pop	genres
+indie	genre
+spoons	instruments
+spoon	instrument
+breakbeat	dance music
+breakbeat	music
+disco	dance music
+funk	dance music
+Current	dance music
+Current	music
+indie	genres
+horns	instruments
+country	genres
+deathcore	genres
+deathcore	genre
+violin	instruments
+bass guitar	instruments
+old time	band music
+time	music
+bluegrass	band music
+early black string band music	band music
+goth	genres
+chromatic tambourine	percussion instruments
+guiro	percussion instruments
+guiro	instrument
+tupan	percussion instruments
+tupan	instrument
+khamok	percussion instruments
+khamok	instrument
+early electronic music	genres
+post punk	genres
+kosmische	genres
+kosmische	genre
+musique concrete	genres
+concrete	genre
+ska	styles
+dub	styles
+etc	styles
+etc	style
+wind	instruments
+wind	instrument
+idm	electronic music
+fusion	styles
+dutar	instruments
+dutar	instrument
+Eurobeat	electronic dance music
+Eurobeat	music
+bassoon	instruments
+guitars	instruments
+russian rock music	styles
+latino music	styles
+bongos	Asian percussion instruments
+timbales	Asian percussion instruments
+bata drums	Asian percussion instruments
+keyboard	instruments
+oboe	instruments
+mandolin	instruments
+sampler	instruments
+sampler	instrument
+thrash	Metal
+death	Metal
+sludge	Metal
+surf	genres
+surf	genre
+swing	genres
+dixieland	genres
+triphop	genres
+triphop	genre
+lounge	genres
+lounge	genre
+americana	genres
+metal	genres
+dub	genres
+Latin music	styles
+smooth pop	styles
+smooth	style
+theme	music
+tune	music
+sound	music
+drone rock	genres
+viola	instruments
+wood flutes	instruments
+various percussion instruments	instruments
+violin viola	instruments
+rap	styles
+cool jazz	jazz music
+hard bop	jazz music
+modal jazz	jazz music
+jazz fusion	jazz music
+chamber music	genres
+hurdy gurdy	instruments
+gurdy	instrument
+pop	styles
+rhythm	music genres
+rock	music genres
+roll	music genres
+soul	music genres
+gospel	music genres
+jazz	music genres
+afrobeat	styles
+afrobeat	style
+shoegaze	styles
+shoegaze	style
+dream pop	styles
+krautrock	styles
+drone	styles
+drone	style
+chamber music	pieces
+film scores	pieces
+reggae	styles
+dancehall und techno	styles
+Gypsy jazz	styles
+calypso	styles
+calypso	style
+bluegrass	genres
+techno	electro music
+DnB	electro music
+DnB	music
+disco	electro music
+alternativ	genres
+alternativ	genre
+modern rock	genres
+nu metal	genres
+metalcore	multiple heavy metal genres
+metalcore	genre
+progressive metal	multiple heavy metal genres
+alternative metal	multiple heavy metal genres
+groove metal	multiple heavy metal genres
+death metal	multiple heavy metal genres
+double bass	instruments
+tuned percussion	instruments
+death	styles
+death	style
+country	styles
+space rock	music
+psychedelia	music
+tambourine	instruments
+ranchera	country music
+World music	genres
+Latin	genres
+Latin	genre
+Jazz	genres
+Jazz	genre
+Classical music	genres
+OST	music
+world music	music
+punk	styles
+jungle	styles
+jungle	style
+doom metal	genres
+new age	genres
+death metal	extreme music
+norte	Mexican music
+norte	music
+progressive rock	genres
+house	genres
+afro etc	genres
+etc	genre
+koboz	instruments
+koboz	instrument
+harp	instruments
+the Australian didgeridoo	instruments
+didgeridoo	instrument
+harmonica	instruments
+keyboards	instruments
+sung poetry	genres
+poetry	genre
+trance	genres
+IDM	genres
+IDM	genre
+rhythm	genres
+popular music	genres
+vocals	instruments
+vocal	instrument
+alternative metal	genres
+bossanova	genres
+bossanova	genre
+adult contemporary pop	genres
+world music	genres
+electronica	styles
+screamo	styles
+screamo	style
+alternative metal	styles
+ambience	styles
+ambience	style
+hip hop	styles
+post	independent music
+post	music
+electronica	genres
+balalaika	instruments
+balalaika	instrument
+hip hop	music
+Cuban	music
+Haunted Heart	another standout track
+Heart	track
+soul	Black American music
+gospel	Black American music
+Keith	Black American music
+Keith	music
+Mary Wells	a soul singer
+Wells	singer
+Harlem incident	the only instrument
+incident	instrument
+country	formats
+country	format
+pop	formats
+pop	format
+violins	instruments
+triangles	instruments
+voices	instruments
+voice	instrument
+punk rock	genres
+bass drums	instruments
+acid rock	genres
+psychadelic	genres
+psychadelic	genre
+hints	genres
+hint	genre
+big band	genres
+zither	instruments
+others	instruments
+others	instrument
+San Fransisco beats	styles
+this album	a work
+the entire CD	a wonderful way
+CD	way
+i	the song
+i	song
+speed	styles
+speed	style
+trash metal	styles
+acoustic	genres
+acoustic	genre
+black metal	many metal genres
+melodic death metal	many metal genres
+others	many metal genres
+county	styles
+county	style
+others	styles
+others	style
+cello	instruments
+Lisa Marie	a powerful musician
+Marie	musician
+harp	plays every instrument
+dulcimer	plays every instrument
+sitar	plays every instrument
+cittarina	plays every instrument
+cittarina	instrument
+sandblocks	plays every instrument
+sandblocks	instrument
+kazoo	plays every instrument
+kazoo	instrument
+other instrumentation	keyboards
+instrumentation	keyboard
+South American vocal percussion	instruments
+Sharon sings	beautiful song
+sings	song
+thrash	heavy metal
+thrash	metal
+speed	heavy metal
+speed	metal
+groove	heavy metal
+groove	metal
+glam	genres
+grindcore	Genres
+crossover thrash	Genres
+thrash	Genres
+ambient music	popular music
+keyboard	the same instrument
+author song	songs
+jazz	formats
+jazz	format
+classical music	formats
+music	format
+fifes	instruments
+fife	instrument
+serpents	instruments
+serpent	instrument
+an instrument	instruments
+bass	rhythm instruments
+old	electronic dance music
+old	music
+dark techno	crossover electronic music
+banjo	instruments
+Ireland	a folk song
+Ireland	song
+bass	styles
+American jazz	styles
+electronic art music	several electronic music styles
+ambient	several electronic music styles
+space music	several electronic music styles
+djembe	percussions
+death metal	some extreme music
+bouzouki	instruments
+bouzouki	instrument
+technical death metal	genres
+guitar	every instrument
+a drum kit	every instrument
+black metal	Metal
+metal	Metal
+European classical music	styles
+Latin American music	styles
+Indian classical music	styles
+downtempo	electronic music
+downtempo	music
+thrash metal	multiple heavy metal genres
+that year	the resident band
+year	band
+backing vocals	a full band
+vocal	band
+something	a full band
+something	band
+minimal techno	styles
+drum	genres
+bass	genres
+a wind instrument	instruments
+bass clarinet	wind instruments
+flute	wind instruments
+b	wind instruments
+b	instrument
+guitar	the only instrument
+rock	formats
+Piano	keyboards
+Piano	keyboard
+traditional metal	heavy metal
+shawms	instruments
+the electric celeste	innovative percussion instruments
+celeste	instrument
+the quartet	the resident band
+bagpipe	instrument
+bagpipe	musical instrument
+bagpipe	pipe
+bagpipe	wind
+bagpipe	wind instrument
+bagpipe	aerophone
+coda	movement
+coda	end
+coda	ending
+coda	close
+coda	closing
+coda	cul-de-sac
+coda	conclusion
+coda	musical work
+coda	work
+coda	musical composition
+coda	composition
+coda	piece of music
+coda	piece
+coda	opus
+coda	freeway
+coda	thoroughfare
+coda	pike
+coda	turnpike
+coda	expressway
+coda	work of art
+coda	route
+coda	way
+coda	infrastructure
+coda	base
+coda	fund
+coda	store
+coda	stock
+preface	introduction
+heartland rock	musical style
+rock	style
+heartland rock	music genre
+rock	genre
+dance-rock	musical style
+dance-rock	style
+dance-rock	music genre
+dance-rock	genre
+gittler guitar	guitar
+gittler guitar	stringed instrument
+guitar	instrument
+gittler guitar	string instrument
+gittler guitar	plucked instrument
+gittler guitar	plucked string instrument
+gittler guitar	instrument
+gittler guitar	musical instrument
+latin hip-hop	latin music
+hip-hop	music
+latin hip-hop	music genre
+hip-hop	genre
+passage	musical composition
+passage	composition
+passage	piece of music
+passage	piece
+passage	opus
+passage	musical work
+passage	work
+passage	work of art
+keyboardist	musician
+keyboardist	person
+anticlimax	close
+anticlimax	closing
+anticlimax	conclusion
+anticlimax	end
+anticlimax	ending
+suspended cymbal	cymbal
+suspended cymbal	percussion
+cymbal	percussion
+suspended cymbal	percussive instrument
+cymbal	instrument
+suspended cymbal	percussion instrument
+suspended cymbal	idiophone
+cymbal	idiophone
+suspended cymbal	instrument
+suspended cymbal	musical instrument
+christian rock	rock and roll
+christian rock	rock music
+rock	music
+christian rock	rock-and-roll
+rock	rock-and-roll
+christian rock	rock
+christian rock	rock'n'roll
+rock	rock'n'roll
+christian rock	musical style
+christian rock	music genre
+christian rock	popular music
+christian rock	popular music genre
+russian guitar	seven-string guitar
+russian guitar	guitar
+russian guitar	stringed instrument
+russian guitar	string instrument
+russian guitar	plucked instrument
+russian guitar	plucked string instrument
+russian guitar	instrument
+russian guitar	musical instrument
+marimba	percussion
+marimba	percussive instrument
+marimba	instrument
+marimba	percussion instrument
+marimba	musical instrument
+marimba	idiophone
+taiwanese pop	musical style
+pop	style
+taiwanese pop	music genre
+pop	genre
+musical phrase	musical passage
+phrase	passage
+musical phrase	passage
+musical phrase	musical composition
+phrase	composition
+musical phrase	piece of music
+phrase	piece
+musical phrase	opus
+phrase	opus
+musical phrase	composition
+musical phrase	musical work
+phrase	work
+musical phrase	work of art
+operetta	opera
+operetta	opera buffa
+operetta	buffa
+operetta	bouffe
+operetta	buffo
+operetta	comic opera
+operetta	musical work
+operetta	work
+operetta	musical theater
+operetta	theater
+operetta	drama
+operetta	dramatic play
+operetta	play
+operetta	performing arts
+operetta	art
+operetta	classical
+operetta	classical music
+operetta	music
+operetta	serious music
+operetta	art music
+operetta	work of art
+operetta	theatre
+operetta	dramatics
+operetta	dramaturgy
+operetta	dramatic art
+operetta	musical style
+operetta	style
+operetta	music genre
+operetta	genre
+operetta	fine arts
+electric guitar	guitar
+electric guitar	stringed instrument
+electric guitar	string instrument
+electric guitar	plucked instrument
+electric guitar	plucked string instrument
+electric guitar	instrument
+electric guitar	musical instrument
+classic big band	jazz
+band	jazz
+classic big band	swing jazz
+classic big band	music genre
+band	genre
+christmas	music genre
+christmas	genre
+saxophone	instrument
+saxophone	musical instrument
+saxophone	wood
+saxophone	woodwind instrument
+saxophone	woodwind
+saxophone	reed
+saxophone	reed instrument
+saxophone	wind
+saxophone	wind instrument
+saxophone	aerophone
+soundtrack	musical work
+soundtrack	work
+soundtrack	audio recording
+soundtrack	recording
+soundtrack	sound recording
+soundtrack	sound
+soundtrack	audio
+soundtrack	flick
+soundtrack	picture
+soundtrack	movie
+soundtrack	pic
+soundtrack	picture show
+soundtrack	show
+soundtrack	film
+soundtrack	motion picture
+soundtrack	work of art
+soundtrack	social event
+soundtrack	event
+soundtrack	task
+soundtrack	music genre
+soundtrack	genre
+epigraph	quote
+epigraph	citation
+epigraph	quotation
+largo	musical passage
+largo	passage
+largo	musical composition
+largo	composition
+largo	piece of music
+largo	piece
+largo	opus
+largo	musical work
+largo	work
+largo	work of art
+pakistani rock	rock and roll
+pakistani rock	rock music
+pakistani rock	rock-and-roll
+pakistani rock	rock
+pakistani rock	rock'n'roll
+pakistani rock	popular music
+pakistani rock	popular music genre
+pakistani rock	musical style
+pakistani rock	music genre
+french rock	rock and roll
+french rock	rock music
+french rock	rock-and-roll
+french rock	rock
+french rock	rock'n'roll
+french rock	popular music
+french rock	popular music genre
+french rock	musical style
+french rock	music genre
+antiphonary	church music
+antiphonary	music
+antiphonary	religious music
+antiphonary	book
+antiphonary	christian music
+antiphonary	musical style
+antiphonary	style
+antiphonary	music genre
+antiphonary	genre
+antiphonary	medium
+antiphonary	opera
+antiphonary	piece of work
+antiphonary	piece
+antiphonary	storage
+heavy metal	rock and roll
+metal	rock
+heavy metal	rock music
+metal	music
+heavy metal	rock-and-roll
+metal	rock-and-roll
+heavy metal	rock
+heavy metal	rock'n'roll
+metal	rock'n'roll
+heavy metal	musical style
+metal	style
+heavy metal	music genre
+metal	genre
+heavy metal	popular music
+heavy metal	popular music genre
+seven-string guitar	guitar
+seven-string guitar	stringed instrument
+seven-string guitar	string instrument
+seven-string guitar	plucked instrument
+seven-string guitar	plucked string instrument
+seven-string guitar	instrument
+seven-string guitar	musical instrument
+hymn	religious song
+hymn	song
+hymn	vocal
+hymn	track
+hymn	human voice
+hymn	voice
+hymn	church music
+hymn	music
+hymn	religious music
+hymn	musical composition
+hymn	composition
+hymn	piece of music
+hymn	piece
+hymn	opus
+hymn	christian music
+hymn	musical style
+hymn	style
+hymn	music genre
+hymn	genre
+hymn	musical work
+hymn	work
+hymn	work of art
+temple blocks	idiophone
+block	idiophone
+temple blocks	instrument
+block	instrument
+temple blocks	musical instrument
+boogie	jazz
+boogie	note
+boogie	tone
+boogie	musical note
+boogie	blues
+boogie	blue
+boogie	rhythm
+boogie	beat
+boogie	beat level
+boogie	level
+boogie	musical rhythm
+boogie	popular music
+boogie	music
+boogie	popular music genre
+boogie	genre
+boogie	musical style
+boogie	style
+boogie	music genre
+boogie	musical notation
+boogie	notation
+boogie	music notation
+boogie	african-american music
+boogie	black music
+boogie	folk song
+boogie	song
+boogie	folk ballad
+boogie	ballad
+boogie	folksong
+boogie	musical time
+boogie	time
+boogie	traditional music
+boogie	folk
+boogie	folkie
+boogie	folk music
+boogie	ethnic music
+boogie	tune
+boogie	vocal
+boogie	track
+boogie	human voice
+boogie	voice
+boogie	musical composition
+boogie	composition
+boogie	piece of music
+boogie	piece
+boogie	opus
+boogie	musical work
+boogie	work
+boogie	specifications
+boogie	specification
+quintette	musical composition
+quintette	composition
+quintette	piece of music
+quintette	piece
+quintette	opus
+quintette	band
+quintette	musical group
+quintette	group
+quintette	musical organization
+quintette	organization
+quintette	music group
+quintette	bandmember
+quintette	rock group
+quintette	rock band
+quintette	team
+quintette	musical work
+quintette	work
+quintette	dance band
+quintette	dance orchestra
+quintette	orchestra
+quintette	work of art
+piccolo trumpet	instrument
+trumpet	instrument
+piccolo trumpet	musical instrument
+piccolo trumpet	aerophone
+trumpet	aerophone
+movement	musical work
+movement	work
+movement	musical composition
+movement	composition
+movement	piece of music
+movement	piece
+movement	opus
+movement	work of art
+christian	music genre
+christian	genre
+fugue	counterpoint
+fugue	classical
+fugue	classical music
+fugue	music
+fugue	serious music
+fugue	art music
+fugue	musical composition
+fugue	composition
+fugue	piece of music
+fugue	piece
+fugue	opus
+fugue	polyphonic music
+fugue	polyphony
+fugue	musical style
+fugue	style
+fugue	music genre
+fugue	genre
+fugue	musical work
+fugue	work
+fugue	texture
+fugue	work of art
+fugue	musicality
+minuets	classical
+minuet	classical
+minuets	music genre
+minuet	genre
+polyphonic music	texture
+music	texture
+polyphonic music	musicality
+music	musicality
+vibraphonist	musician
+vibraphonist	person
+preamble	introduction
+fantasies	classical
+fantasy	classical
+fantasies	music genre
+fantasy	genre
+golden oldie	vocal
+oldie	vocal
+golden oldie	song
+oldie	song
+golden oldie	track
+oldie	track
+golden oldie	human voice
+oldie	voice
+golden oldie	musical composition
+oldie	composition
+golden oldie	piece of music
+oldie	piece
+golden oldie	opus
+oldie	opus
+golden oldie	composition
+golden oldie	musical work
+oldie	work
+golden oldie	work of art
+shock rock	musical style
+shock rock	music genre
+bop	improvisation
+bop	extemporization
+bop	musical style
+bop	style
+bop	music genre
+bop	genre
+bop	jazz
+bop	performance
+bop	popular music
+bop	music
+bop	popular music genre
+bop	demonstration
+bop	presentation
+bop	show
+bop	entertainment
+bop	amusement
+study	musical work
+study	work
+study	musical composition
+study	composition
+study	piece of music
+study	piece
+study	opus
+study	work of art
+rock and roll	popular music
+rock and roll	popular music genre
+rock and roll	musical style
+rock and roll	music genre
+harmonisation	harmony
+harmonisation	musical harmony
+harmonisation	backup band
+harmonisation	band
+harmonisation	musical accompaniment
+harmonisation	accompaniment
+harmonisation	support
+harmonisation	backup
+harmonisation	vocalizing
+harmonisation	singer
+harmonisation	singing
+harmonisation	vocalist
+harmonisation	chord
+harmonisation	musical group
+harmonisation	group
+harmonisation	musical organization
+harmonisation	organization
+harmonisation	music group
+harmonisation	voice
+harmonisation	bandmember
+harmonisation	rock group
+harmonisation	rock band
+harmonisation	team
+harmonisation	vocal music
+harmonisation	music
+harmonisation	musical performance
+harmonisation	performance
+harmonisation	note
+harmonisation	tone
+harmonisation	musical note
+harmonisation	air
+harmonisation	strain
+harmonisation	melodic line
+harmonisation	line
+harmonisation	melodic phrase
+harmonisation	phrase
+harmonisation	melody
+harmonisation	tune
+harmonisation	dance band
+harmonisation	dance orchestra
+harmonisation	orchestra
+harmonisation	speech
+harmonisation	spoken language
+harmonisation	language
+harmonisation	performing arts
+harmonisation	art
+harmonisation	musical notation
+harmonisation	notation
+harmonisation	music notation
+harmonisation	musical work
+harmonisation	work
+harmonisation	line of succession
+harmonisation	human language
+harmonisation	demonstration
+harmonisation	presentation
+harmonisation	work of art
+harmonisation	show
+baritone horn	brass
+horn	brass
+baritone horn	brass instrument
+horn	instrument
+baritone horn	french horn
+baritone horn	horn
+baritone horn	instrument
+baritone horn	musical instrument
+baritone horn	wind
+horn	wind
+baritone horn	wind instrument
+baritone horn	aerophone
+horn	aerophone
+russian pop	pop musician
+pop	musician
+russian pop	pop music
+pop	music
+russian pop	pop
+russian pop	musical style
+russian pop	music genre
+russian pop	popular music
+russian pop	popular music genre
+rainstick	idiophone
+rainstick	instrument
+rainstick	musical instrument
+vihuela	plucked instrument
+vihuela	instrument
+vihuela	plucked string instrument
+vihuela	stringed instrument
+vihuela	string instrument
+vihuela	musical instrument
+sextet	band
+sextet	musical group
+sextet	group
+sextet	musical organization
+sextet	organization
+sextet	music group
+sextet	musical composition
+sextet	composition
+sextet	piece of music
+sextet	piece
+sextet	opus
+sextet	musical work
+sextet	work
+sextet	work of art
+lithuanian rock	rock and roll
+lithuanian rock	rock music
+lithuanian rock	rock-and-roll
+lithuanian rock	rock
+lithuanian rock	rock'n'roll
+lithuanian rock	popular music
+lithuanian rock	popular music genre
+lithuanian rock	musical style
+lithuanian rock	music genre
+singing	vocal music
+singing	music
+singing	musical performance
+singing	performance
+singing	speech
+singing	spoken language
+singing	language
+singing	performing arts
+singing	art
+singing	human language
+singing	demonstration
+singing	presentation
+singing	show
+singing	entertainment
+singing	amusement
+punk revival	alternative rock
+revival	rock
+punk revival	music genre
+revival	genre
+idyll	vocal
+idyll	song
+idyll	track
+idyll	human voice
+idyll	voice
+idyll	musical composition
+idyll	composition
+idyll	piece of music
+idyll	piece
+idyll	opus
+idyll	musical work
+idyll	work
+idyll	work of art
+celtic rock	celtic fusion
+rock	fusion
+celtic rock	musical style
+celtic rock	music genre
+introit	musical composition
+introit	composition
+introit	piece of music
+introit	piece
+introit	opus
+introit	musical work
+introit	work
+introit	work of art
+symphony	orchestra
+symphony	philharmonic orchestra
+symphony	musical work
+symphony	work
+symphony	sonata
+symphony	musical composition
+symphony	composition
+symphony	piece of music
+symphony	piece
+symphony	opus
+symphony	band
+symphony	musical group
+symphony	group
+symphony	musical organization
+symphony	organization
+symphony	music group
+symphony	bandmember
+symphony	rock group
+symphony	rock band
+symphony	team
+symphony	work of art
+symphony	classical
+symphony	classical music
+symphony	music
+symphony	serious music
+symphony	art music
+symphony	dance band
+symphony	dance orchestra
+symphony	musical style
+symphony	style
+symphony	music genre
+symphony	genre
+etude	musical work
+etude	work
+etude	musical composition
+etude	composition
+etude	piece of music
+etude	piece
+etude	opus
+etude	work of art
+panpipes	instrument
+panpipe	instrument
+panpipes	musical instrument
+panpipes	transverse flute
+panpipe	flute
+panpipes	flute
+panpipes	pipe
+panpipe	pipe
+panpipes	wood
+panpipe	wood
+panpipes	woodwind instrument
+panpipes	woodwind
+panpipe	woodwind
+panpipes	wind
+panpipe	wind
+panpipes	wind instrument
+panpipes	aerophone
+panpipe	aerophone
+straight edge	subculture
+edge	subculture
+straight edge	youth subculture
+straight edge	youth culture
+edge	culture
+straight edge	generation
+edge	generation
+straight edge	contemporary
+edge	contemporary
+straight edge	contemporaries
+straight edge	alternative rock
+edge	rock
+straight edge	music genre
+edge	genre
+freestyle	race
+freestyle	swim
+freestyle	swimming
+freestyle	contestant
+freestyle	competitor
+freestyle	competition
+freestyle	contest
+freestyle	track and field
+freestyle	track
+freestyle	group event
+freestyle	event
+freestyle	social event
+freestyle	music genre
+freestyle	genre
+crumhorn	instrument
+crumhorn	musical instrument
+crumhorn	double reed
+crumhorn	reed
+crumhorn	wood
+crumhorn	woodwind instrument
+crumhorn	woodwind
+crumhorn	reed instrument
+crumhorn	wind
+crumhorn	wind instrument
+crumhorn	aerophone
+a cappella singing	vocalizing
+singing	vocalizing
+a cappella singing	singer
+singing	singer
+a cappella singing	singing
+a cappella singing	vocalist
+singing	vocalist
+a cappella singing	vocal music
+a cappella singing	musical performance
+a cappella singing	speech
+a cappella singing	spoken language
+a cappella singing	language
+a cappella singing	performance
+a cappella singing	performing arts
+a cappella singing	human language
+a cappella singing	demonstration
+a cappella singing	presentation
+a cappella singing	show
+contemporary blues	blues
+contemporary blues	music genre
+blue	genre
+glockenspiel	percussion
+glockenspiel	percussive instrument
+glockenspiel	instrument
+glockenspiel	percussion instrument
+glockenspiel	idiophone
+glockenspiel	musical instrument
+karaoke	video game
+karaoke	game
+karaoke	pc game
+karaoke	computer game
+karaoke	vocalizing
+karaoke	singer
+karaoke	singing
+karaoke	vocalist
+karaoke	interactive entertainment
+karaoke	entertainment
+karaoke	computer program
+karaoke	program
+karaoke	software program
+karaoke	video game console
+karaoke	console
+karaoke	game console
+karaoke	application
+karaoke	app
+karaoke	vocal music
+karaoke	music
+karaoke	musical performance
+karaoke	performance
+karaoke	computer software
+karaoke	software
+karaoke	service
+karaoke	platform
+karaoke	computer
+karaoke	speech
+karaoke	spoken language
+karaoke	language
+karaoke	performing arts
+karaoke	art
+karaoke	code
+karaoke	computer system
+karaoke	system
+karaoke	human language
+karaoke	demonstration
+karaoke	presentation
+karaoke	show
+pop music	popular music
+pop music	popular music genre
+music	genre
+pop music	musical style
+music	style
+pop music	music genre
+soul	african-american music
+soul	music
+soul	black music
+soul	gospel singing
+soul	singing
+soul	gospel
+soul	gospel music
+soul	musical style
+soul	style
+soul	music genre
+soul	genre
+soul	traditional music
+soul	folk
+soul	folkie
+soul	folk music
+soul	ethnic music
+soul	tune
+soul	popular music
+soul	popular music genre
+soul	musical composition
+soul	composition
+soul	piece of music
+soul	piece
+soul	opus
+soul	musical work
+soul	work
+soul	work of art
+clavichord	stringed instrument
+clavichord	instrument
+clavichord	string instrument
+clavichord	keyboard instrument
+clavichord	keyboard
+clavichord	musical instrument
+wedding music	music genre
+piece of music	musical work
+piece	work
+piece of music	work of art
+ukelele	instrument
+ukelele	musical instrument
+phrase	musical passage
+phrase	musical composition
+phrase	piece of music
+phrase	musical work
+phrase	work of art
+flamenco	dance
+flamenco	dancing
+flamenco	dance music
+flamenco	music
+flamenco	musical style
+flamenco	style
+flamenco	music genre
+flamenco	genre
+flamenco	musical work
+flamenco	work
+flamenco	performing arts
+flamenco	art
+flamenco	flick
+flamenco	picture
+flamenco	movie
+flamenco	pic
+flamenco	picture show
+flamenco	show
+flamenco	film
+flamenco	motion picture
+flamenco	work of art
+flamenco	social event
+flamenco	event
+flamenco	latin music
+harmonium	keyboard instrument
+harmonium	instrument
+harmonium	keyboard
+harmonium	wind
+harmonium	wind instrument
+harmonium	free reed
+harmonium	reed
+harmonium	musical instrument
+harmonium	aerophone
+vocal blues	blues
+vocal blues	music genre
+old-time country	classic country
+old-time country	country
+old-time country	music genre
+country	genre
+lyre	bowed string instrument
+lyre	instrument
+lyre	string
+lyre	bowed instrument
+lyre	stringed instrument
+lyre	string instrument
+lyre	plucked instrument
+lyre	plucked string instrument
+lyre	harp
+lyre	musical instrument
+arrangement	composing
+arrangement	composition
+arrangement	musical composition
+arrangement	piece of music
+arrangement	piece
+arrangement	opus
+arrangement	musical work
+arrangement	work
+arrangement	work of art
+punk rock	rock and roll
+punk rock	rock music
+punk rock	rock-and-roll
+punk rock	rock
+punk rock	rock'n'roll
+punk rock	musical style
+punk rock	music genre
+punk rock	popular music
+punk rock	popular music genre
+signature	air
+signature	strain
+signature	melodic line
+signature	line
+signature	melodic phrase
+signature	phrase
+signature	melody
+signature	tune
+signature	musical composition
+signature	composition
+signature	piece of music
+signature	piece
+signature	opus
+signature	musical work
+signature	work
+signature	line of succession
+signature	work of art
+contemporary big band	swing jazz
+contemporary big band	jazz
+contemporary big band	music genre
+maracas	idiophone
+maraca	idiophone
+maracas	instrument
+maraca	instrument
+maracas	musical instrument
+salsa	condiment
+salsa	seasoning
+salsa	flavoring
+salsa	flavouring
+salsa	latin music
+salsa	music
+salsa	music genre
+salsa	genre
+flourish	air
+flourish	strain
+flourish	melodic line
+flourish	line
+flourish	melodic phrase
+flourish	phrase
+flourish	melody
+flourish	tune
+flourish	embellishment
+flourish	musical work
+flourish	work
+flourish	line of succession
+flourish	work of art
+four-part harmony	harmony
+four-part harmony	musical harmony
+four-part harmony	head voice
+harmony	voice
+four-part harmony	male voice
+four-part harmony	human voice
+four-part harmony	head register
+harmony	register
+four-part harmony	moan
+harmony	moan
+four-part harmony	groan
+harmony	groan
+four-part harmony	vocalism
+harmony	vocalism
+four-part harmony	phonation
+harmony	phonation
+four-part harmony	vocalization
+harmony	vocalization
+four-part harmony	vocalisation
+harmony	vocalisation
+four-part harmony	voice quality
+harmony	quality
+four-part harmony	voice
+four-part harmony	vox
+harmony	vox
+four-part harmony	vocal
+harmony	vocal
+four-part harmony	song
+harmony	song
+four-part harmony	track
+harmony	track
+four-part harmony	chord
+harmony	chord
+four-part harmony	register
+four-part harmony	utterance
+harmony	utterance
+four-part harmony	musical composition
+harmony	composition
+four-part harmony	piece of music
+harmony	piece
+four-part harmony	opus
+harmony	opus
+four-part harmony	composition
+four-part harmony	note
+harmony	note
+four-part harmony	tone
+harmony	tone
+four-part harmony	musical note
+four-part harmony	ambit
+harmony	ambit
+four-part harmony	reach
+harmony	reach
+four-part harmony	orbit
+harmony	orbit
+four-part harmony	range
+harmony	range
+four-part harmony	compass
+harmony	compass
+four-part harmony	scope
+harmony	scope
+four-part harmony	tessitura
+harmony	tessitura
+four-part harmony	timbre
+harmony	timbre
+four-part harmony	timber
+harmony	timber
+four-part harmony	musical work
+harmony	work
+four-part harmony	musical notation
+harmony	notation
+four-part harmony	music notation
+four-part harmony	extent
+harmony	extent
+four-part harmony	work of art
+four-part harmony	magnitude
+harmony	magnitude
+tarantella	dance
+tarantella	dance music
+tarantella	music
+tarantella	dancing
+tarantella	social dance
+tarantella	ballroom dance
+tarantella	ballroom
+tarantella	social dancing
+tarantella	musical work
+tarantella	work
+tarantella	performing arts
+tarantella	art
+tarantella	flick
+tarantella	picture
+tarantella	movie
+tarantella	pic
+tarantella	picture show
+tarantella	show
+tarantella	film
+tarantella	motion picture
+tarantella	work of art
+tarantella	social event
+tarantella	event
+jaw harp	instrument
+harp	instrument
+jaw harp	musical instrument
+jaw harp	present day
+harp	day
+jaw harp	plucked instrument
+jaw harp	plucked string instrument
+jaw harp	stringed instrument
+jaw harp	string instrument
+jaw harp	idiophone
+harp	idiophone
+serenade	musical style
+serenade	style
+serenade	music genre
+serenade	genre
+serenade	musical composition
+serenade	composition
+serenade	piece of music
+serenade	piece
+serenade	opus
+serenade	vocal
+serenade	song
+serenade	track
+serenade	human voice
+serenade	voice
+serenade	musical work
+serenade	work
+serenade	work of art
+gradual	chant
+gradual	hymn
+gradual	anthem
+gradual	antiphony
+gradual	antiphon
+gradual	religious song
+gradual	song
+gradual	vocalizing
+gradual	singer
+gradual	singing
+gradual	vocalist
+gradual	vocal
+gradual	track
+gradual	human voice
+gradual	voice
+gradual	responsory
+gradual	church music
+gradual	music
+gradual	religious music
+gradual	vocal music
+gradual	musical performance
+gradual	performance
+gradual	musical composition
+gradual	composition
+gradual	piece of music
+gradual	piece
+gradual	opus
+gradual	christian music
+gradual	musical style
+gradual	style
+gradual	music genre
+gradual	genre
+gradual	speech
+gradual	spoken language
+gradual	language
+gradual	performing arts
+gradual	art
+gradual	musical work
+gradual	work
+gradual	human language
+gradual	demonstration
+gradual	presentation
+gradual	work of art
+waltzes	classical
+waltz	classical
+waltzes	music genre
+waltz	genre
+cantillation	intonation
+cantillation	chanting
+cantillation	vocalizing
+cantillation	singer
+cantillation	singing
+cantillation	vocalist
+cantillation	vocal music
+cantillation	music
+cantillation	musical performance
+cantillation	performance
+cantillation	speech
+cantillation	spoken language
+cantillation	language
+cantillation	performing arts
+cantillation	art
+cantillation	human language
+cantillation	demonstration
+cantillation	presentation
+chansons	music genre
+chansons	genre
+hip-hop	popular music
+hip-hop	popular music genre
+hip-hop	african-american music
+hip-hop	black music
+hip-hop	musical style
+hip-hop	style
+hip-hop	music genre
+musical accompaniment	band
+accompaniment	band
+musical accompaniment	musical group
+accompaniment	group
+musical accompaniment	musical organization
+accompaniment	organization
+musical accompaniment	music group
+musical accompaniment	voice
+accompaniment	voice
+musical accompaniment	bandmember
+accompaniment	bandmember
+musical accompaniment	rock group
+musical accompaniment	rock band
+musical accompaniment	team
+accompaniment	team
+musical accompaniment	air
+accompaniment	air
+musical accompaniment	strain
+accompaniment	strain
+musical accompaniment	melodic line
+accompaniment	line
+musical accompaniment	melodic phrase
+accompaniment	phrase
+musical accompaniment	melody
+accompaniment	melody
+musical accompaniment	tune
+accompaniment	tune
+musical accompaniment	dance band
+musical accompaniment	dance orchestra
+accompaniment	orchestra
+musical accompaniment	musical work
+accompaniment	work
+musical accompaniment	line of succession
+musical accompaniment	work of art
+grand piano	instrument
+piano	instrument
+grand piano	musical instrument
+baroque pop	oldies
+pop	oldie
+baroque pop	pop
+baroque pop	music genre
+arias	music genre
+aria	genre
+monochord	instrument
+monochord	musical instrument
+funk rock	musical style
+funk rock	music genre
+funk rock	rock
+chamber music	classical
+music	classical
+chamber music	classical music
+chamber music	serious music
+chamber music	art music
+chamber music	musical style
+chamber music	music genre
+swing jazz	jazz
+swing jazz	music genre
+jazz	genre
+bouffe	opera
+bouffe	musical work
+bouffe	work
+bouffe	musical theater
+bouffe	theater
+bouffe	drama
+bouffe	dramatic play
+bouffe	play
+bouffe	performing arts
+bouffe	art
+bouffe	classical
+bouffe	classical music
+bouffe	music
+bouffe	serious music
+bouffe	art music
+bouffe	work of art
+bouffe	theatre
+bouffe	dramatics
+bouffe	dramaturgy
+bouffe	dramatic art
+bouffe	musical style
+bouffe	style
+bouffe	music genre
+bouffe	genre
+bouffe	fine arts
+negro spiritual	religious song
+negro spiritual	song
+negro spiritual	vocal
+negro spiritual	track
+negro spiritual	human voice
+negro spiritual	voice
+negro spiritual	church music
+negro spiritual	music
+negro spiritual	religious music
+negro spiritual	musical composition
+negro spiritual	composition
+negro spiritual	piece of music
+negro spiritual	piece
+negro spiritual	opus
+negro spiritual	christian music
+negro spiritual	musical style
+negro spiritual	style
+negro spiritual	music genre
+negro spiritual	genre
+negro spiritual	musical work
+negro spiritual	work
+negro spiritual	work of art
+mazurkas	classical
+mazurka	classical
+mazurkas	music genre
+mazurka	genre
+martial music	musical style
+martial music	music genre
+martial music	marching music
+martial music	march
+music	march
+martial music	musical work
+music	work
+martial music	musical composition
+music	composition
+martial music	piece of music
+music	piece
+martial music	opus
+music	opus
+martial music	composition
+martial music	work of art
+scat singing	jazz
+singing	jazz
+scat singing	vocalizing
+scat singing	singer
+scat singing	singing
+scat singing	vocalist
+scat singing	musical improvisation
+singing	improvisation
+scat singing	improvisation
+scat singing	popular music
+scat singing	popular music genre
+singing	genre
+scat singing	musical style
+singing	style
+scat singing	music genre
+scat singing	vocal music
+scat singing	musical performance
+scat singing	speech
+scat singing	spoken language
+scat singing	language
+scat singing	performance
+scat singing	performing arts
+scat singing	human language
+scat singing	demonstration
+scat singing	presentation
+scat singing	show
+theme song	air
+song	air
+theme song	strain
+song	strain
+theme song	melodic line
+song	line
+theme song	melodic phrase
+song	phrase
+theme song	melody
+song	melody
+theme song	tune
+song	tune
+theme song	musical composition
+song	composition
+theme song	piece of music
+song	piece
+theme song	opus
+song	opus
+theme song	composition
+theme song	musical work
+song	work
+theme song	line of succession
+theme song	work of art
+sonata	musical work
+sonata	work
+sonata	classical
+sonata	classical music
+sonata	music
+sonata	serious music
+sonata	art music
+sonata	work of art
+sonata	musical style
+sonata	style
+sonata	music genre
+sonata	genre
+cadenza	musical passage
+cadenza	passage
+cadenza	musical composition
+cadenza	composition
+cadenza	piece of music
+cadenza	piece
+cadenza	opus
+cadenza	musical work
+cadenza	work
+cadenza	work of art
+inversion	music theory
+inversion	theory
+inversion	variation
+inversion	theme
+inversion	melodic theme
+inversion	musical theme
+inversion	air
+inversion	strain
+inversion	melodic line
+inversion	line
+inversion	melodic phrase
+inversion	phrase
+inversion	melody
+inversion	tune
+inversion	musical work
+inversion	work
+inversion	line of succession
+inversion	work of art
+opera	musical work
+opera	work
+opera	musical theater
+opera	theater
+opera	drama
+opera	dramatic play
+opera	play
+opera	performing arts
+opera	art
+opera	classical
+opera	classical music
+opera	music
+opera	serious music
+opera	art music
+opera	work of art
+opera	theatre
+opera	dramatics
+opera	dramaturgy
+opera	dramatic art
+opera	musical style
+opera	style
+opera	music genre
+opera	genre
+opera	fine arts
+musical bow	instrument
+bow	instrument
+musical bow	musical instrument
+musical bow	present day
+bow	day
+musical bow	plucked instrument
+musical bow	plucked string instrument
+musical bow	stringed instrument
+musical bow	string instrument
+syncopation	rhythm
+syncopation	beat
+syncopation	beat level
+syncopation	level
+syncopation	musical rhythm
+syncopation	musical composition
+syncopation	composition
+syncopation	piece of music
+syncopation	piece
+syncopation	opus
+syncopation	musical time
+syncopation	time
+syncopation	musical work
+syncopation	work
+syncopation	work of art
+syncopation	specifications
+syncopation	specification
+violoncello	bowed string instrument
+violoncello	instrument
+violoncello	string
+violoncello	bowed instrument
+violoncello	stringed instrument
+violoncello	string instrument
+violoncello	musical instrument
+rock	popular music
+rock	popular music genre
+rock	musical style
+rock	music genre
+oratorio	musical work
+oratorio	work
+oratorio	classical
+oratorio	classical music
+oratorio	music
+oratorio	serious music
+oratorio	art music
+oratorio	musical composition
+oratorio	composition
+oratorio	piece of music
+oratorio	piece
+oratorio	opus
+oratorio	work of art
+oratorio	musical style
+oratorio	style
+oratorio	music genre
+oratorio	genre
+emo	rock and roll
+emo	rock
+emo	rock music
+emo	music
+emo	rock-and-roll
+emo	rock'n'roll
+emo	musical style
+emo	style
+emo	music genre
+emo	genre
+emo	popular music
+emo	popular music genre
+emo	alternative rock
+west coast blues	regional blues
+west coast blues	blues
+west coast blues	music genre
+kalimba	idiophone
+kalimba	instrument
+kalimba	musical instrument
+dubstep	musical style
+dubstep	style
+dubstep	music genre
+dubstep	genre
+blues	african-american music
+blue	music
+blues	black music
+blues	folk song
+blue	song
+blues	folk ballad
+blue	ballad
+blues	folksong
+blue	folksong
+blues	musical style
+blue	style
+blues	music genre
+blues	traditional music
+blues	folk
+blue	folk
+blues	folkie
+blue	folkie
+blues	folk music
+blues	ethnic music
+blues	tune
+blue	tune
+blues	vocal
+blue	vocal
+blues	song
+blues	track
+blue	track
+blues	human voice
+blue	voice
+blues	popular music
+blues	popular music genre
+blues	musical composition
+blue	composition
+blues	piece of music
+blue	piece
+blues	opus
+blue	opus
+blues	composition
+blues	musical work
+blue	work
+blues	work of art
+extract	passage
+electric blues	blues
+electric blues	music genre
+hard rock	rock and roll
+hard rock	rock music
+hard rock	rock-and-roll
+hard rock	rock
+hard rock	rock'n'roll
+hard rock	musical style
+hard rock	music genre
+hard rock	popular music
+hard rock	popular music genre
+celtic folk	folk
+celtic folk	music genre
+folk	genre
+electronica	musical style
+electronica	style
+electronica	music genre
+electronica	genre
+motet	musical composition
+motet	composition
+motet	piece of music
+motet	piece
+motet	opus
+motet	musical work
+motet	work
+motet	work of art
+delta blues	regional blues
+delta blues	blues
+delta blues	music genre
+basset horn	instrument
+basset horn	musical instrument
+basset horn	clarinet
+horn	clarinet
+basset horn	wood
+horn	wood
+basset horn	woodwind instrument
+basset horn	woodwind
+horn	woodwind
+basset horn	reed
+horn	reed
+basset horn	reed instrument
+basset horn	wind
+basset horn	wind instrument
+basset horn	aerophone
+antiphonal	church music
+antiphonal	music
+antiphonal	religious music
+antiphonal	book
+antiphonal	christian music
+antiphonal	musical style
+antiphonal	style
+antiphonal	music genre
+antiphonal	genre
+antiphonal	medium
+antiphonal	opera
+antiphonal	piece of work
+antiphonal	piece
+antiphonal	storage
+folk ballad	traditional music
+ballad	music
+folk ballad	folk
+ballad	folk
+folk ballad	folkie
+ballad	folkie
+folk ballad	folk music
+folk ballad	ethnic music
+folk ballad	tune
+ballad	tune
+folk ballad	vocal
+ballad	vocal
+folk ballad	song
+ballad	song
+folk ballad	track
+ballad	track
+folk ballad	human voice
+ballad	voice
+folk ballad	popular music
+folk ballad	popular music genre
+ballad	genre
+folk ballad	musical style
+ballad	style
+folk ballad	music genre
+folk ballad	musical composition
+ballad	composition
+folk ballad	piece of music
+ballad	piece
+folk ballad	opus
+ballad	opus
+folk ballad	composition
+folk ballad	musical work
+ballad	work
+folk ballad	work of art
+world dance	music genre
+dance	genre
+american alternative	alternative rock
+alternative	rock
+american alternative	music genre
+alternative	genre
+chamber pop	alternative rock
+pop	rock
+chamber pop	music genre
+yodeling	vocalizing
+yodeling	singer
+yodeling	singing
+yodeling	vocalist
+yodeling	vocal music
+yodeling	music
+yodeling	musical performance
+yodeling	performance
+yodeling	speech
+yodeling	spoken language
+yodeling	language
+yodeling	performing arts
+yodeling	art
+yodeling	human language
+yodeling	demonstration
+yodeling	presentation
+yodeling	show
+quickstep	military march
+quickstep	march
+quickstep	martial music
+quickstep	music
+quickstep	military music
+quickstep	musical style
+quickstep	style
+quickstep	music genre
+quickstep	genre
+quickstep	marching music
+quickstep	musical work
+quickstep	work
+quickstep	musical composition
+quickstep	composition
+quickstep	piece of music
+quickstep	piece
+quickstep	opus
+quickstep	work of art
+punk	teen
+punk	teenager
+punk	adolescent
+punk	subculture
+punk	youth subculture
+punk	rock and roll
+punk	rock
+punk	rock music
+punk	music
+punk	rock-and-roll
+punk	rock'n'roll
+punk	musical style
+punk	style
+punk	music genre
+punk	genre
+punk	juvenile
+punk	youth culture
+punk	culture
+punk	popular music
+punk	popular music genre
+punk	person
+punk	generation
+punk	contemporary
+punk	contemporaries
+punk	alternative rock
+pibroch	military march
+pibroch	march
+pibroch	martial music
+pibroch	music
+pibroch	military music
+pibroch	musical style
+pibroch	style
+pibroch	music genre
+pibroch	genre
+pibroch	marching music
+pibroch	musical work
+pibroch	work
+pibroch	musical composition
+pibroch	composition
+pibroch	piece of music
+pibroch	piece
+pibroch	opus
+pibroch	work of art
+swing	jazz
+swing	popular music
+swing	music
+swing	popular music genre
+swing	genre
+swing	musical style
+swing	style
+swing	music genre
+swing	specifications
+swing	specification
+concertos	classical
+concerto	classical
+concertos	music genre
+concerto	genre
+industrial	alternative rock
+industrial	rock
+industrial	music genre
+industrial	genre
+americana	country
+americana	music genre
+americana	genre
+tributes	pop
+tribute	pop
+tributes	music genre
+tribute	genre
+crooning	vocalizing
+crooning	singer
+crooning	singing
+crooning	vocalist
+crooning	vocal music
+crooning	music
+crooning	musical performance
+crooning	performance
+crooning	speech
+crooning	spoken language
+crooning	language
+crooning	performing arts
+crooning	art
+crooning	human language
+crooning	demonstration
+crooning	presentation
+crooning	show
+post hardcore	alternative rock
+hardcore	rock
+post hardcore	music genre
+hardcore	genre
+kick drum	instrument
+drum	instrument
+kick drum	membranophone
+drum	membranophone
+kick drum	musical instrument
+piano blues	blues
+piano blues	music genre
+jive	jazz
+jive	popular music
+jive	music
+jive	popular music genre
+jive	genre
+jive	musical style
+jive	style
+jive	music genre
+british punk	alternative rock
+british punk	music genre
+ballads	classical
+ballad	classical
+ballads	music genre
+preludes	classical
+prelude	classical
+preludes	music genre
+prelude	genre
+percussion	musician
+percussion	band
+percussion	musical group
+percussion	group
+percussion	musical organization
+percussion	organization
+percussion	music group
+percussion	person
+acid jazz	musical style
+jazz	style
+acid jazz	music genre
+acid jazz	jazz
+twee pop	alternative rock
+twee	rock
+twee pop	music genre
+twee	genre
+reggaeton	latin music
+reggaeton	music
+reggaeton	music genre
+reggaeton	genre
+shawm	instrument
+shawm	musical instrument
+shawm	hautbois
+shawm	oboe
+shawm	double reed
+shawm	reed
+shawm	wood
+shawm	woodwind instrument
+shawm	woodwind
+shawm	reed instrument
+shawm	wind
+shawm	wind instrument
+shawm	aerophone
+musical harmony	chord
+musical harmony	note
+musical harmony	tone
+musical harmony	musical note
+musical harmony	musical notation
+musical harmony	music notation
+regional blues	blues
+regional blues	music genre
+dulcimer	instrument
+dulcimer	musical instrument
+singsong	vocalizing
+singsong	singer
+singsong	singing
+singsong	vocalist
+singsong	vocal music
+singsong	music
+singsong	musical performance
+singsong	performance
+singsong	speech
+singsong	spoken language
+singsong	language
+singsong	performing arts
+singsong	art
+singsong	human language
+singsong	demonstration
+singsong	presentation
+singsong	show
+chantey	work song
+chantey	song
+chantey	vocal
+chantey	track
+chantey	human voice
+chantey	voice
+chantey	musical composition
+chantey	composition
+chantey	piece of music
+chantey	piece
+chantey	opus
+chantey	musical work
+chantey	work
+chantey	work of art
+proto punk	alternative rock
+proto punk	music genre
+death metal	musical style
+death metal	music genre
+death metal	heavy metal music
+death metal	heavy metal
+death metal	rock and roll
+death metal	rock music
+death metal	rock-and-roll
+death metal	rock
+death metal	rock'n'roll
+death metal	popular music
+death metal	popular music genre
+death metal	metal
+preparation	harmony
+preparation	musical harmony
+preparation	chord
+preparation	note
+preparation	tone
+preparation	musical note
+preparation	musical notation
+preparation	notation
+preparation	music notation
+thumb piano	idiophone
+piano	idiophone
+thumb piano	instrument
+thumb piano	musical instrument
+piano sonata	sonata
+piano sonata	musical work
+piano sonata	classical
+piano sonata	classical music
+piano sonata	serious music
+piano sonata	art music
+piano sonata	work of art
+piano sonata	musical style
+piano sonata	music genre
+tone poems	classical
+poem	classical
+tone poems	music genre
+poem	genre
+electronic pop	alternative rock
+electronic pop	music genre
+rag	dance
+rag	dance music
+rag	music
+rag	musical style
+rag	style
+rag	music genre
+rag	genre
+lullaby	vocal
+lullaby	song
+lullaby	track
+lullaby	human voice
+lullaby	voice
+lullaby	strain
+lullaby	musical composition
+lullaby	composition
+lullaby	piece of music
+lullaby	piece
+lullaby	opus
+lullaby	vocal music
+lullaby	music
+lullaby	musical work
+lullaby	work
+lullaby	speech
+lullaby	spoken language
+lullaby	language
+lullaby	work of art
+lullaby	human language
+cittern	lute
+cittern	stringed instrument
+cittern	instrument
+cittern	string instrument
+cittern	guitar
+cittern	plucked instrument
+cittern	plucked string instrument
+cittern	musical instrument
+drum set	percussion
+set	percussion
+drum set	percussive instrument
+set	instrument
+drum set	percussion instrument
+drum set	drum
+set	drum
+drum set	membranophone
+set	membranophone
+drum set	instrument
+drum set	musical instrument
+piccolo	transverse flute
+piccolo	flute
+piccolo	instrument
+piccolo	musical instrument
+piccolo	wood
+piccolo	woodwind instrument
+piccolo	woodwind
+piccolo	wind
+piccolo	wind instrument
+piccolo	aerophone
+djembe	darbuka
+djembe	darbouka
+djembe	drum
+djembe	membranophone
+djembe	percussion
+djembe	percussive instrument
+djembe	instrument
+djembe	percussion instrument
+djembe	musical instrument
+voices	music genre
+voice	genre
+rap	popular music
+rap	music
+rap	popular music genre
+rap	genre
+rap	african-american music
+rap	black music
+rap	musical style
+rap	style
+rap	music genre
+instrumentation	musical arrangement
+instrumentation	arrangement
+instrumentation	instrument
+instrumentation	musical instrument
+instrumentation	arranging
+instrumentation	transcription
+instrumentation	musical composition
+instrumentation	composition
+instrumentation	piece of music
+instrumentation	piece
+instrumentation	opus
+instrumentation	composing
+instrumentation	musical work
+instrumentation	work
+instrumentation	work of art
+new jack	music genre
+jack	genre
+trance	electronic dance music
+trance	music
+trance	musical style
+trance	style
+trance	music genre
+trance	genre
+trance	electronic music
+trance	dance
+trance	dance music
+trance	music technology
+trance	technology
+rap rock	musical style
+rap rock	music genre
+rap rock	rock
+art rock	rock and roll
+art rock	rock music
+art rock	rock-and-roll
+art rock	rock
+art rock	rock'n'roll
+art rock	musical style
+art rock	music genre
+art rock	popular music
+art rock	popular music genre
+tambourine	instrument
+tambourine	musical instrument
+tambourine	frame drum
+tambourine	drum
+tambourine	membranophone
+tambourine	percussion
+tambourine	percussive instrument
+tambourine	percussion instrument
+banjo	stringed instrument
+banjo	instrument
+banjo	string instrument
+banjo	plucked instrument
+banjo	plucked string instrument
+banjo	musical instrument
+reharmonization	harmonisation
+reharmonization	harmonization
+reharmonization	harmony
+reharmonization	musical harmony
+reharmonization	backup band
+reharmonization	band
+reharmonization	musical accompaniment
+reharmonization	accompaniment
+reharmonization	support
+reharmonization	backup
+reharmonization	chord
+reharmonization	musical group
+reharmonization	group
+reharmonization	musical organization
+reharmonization	organization
+reharmonization	music group
+reharmonization	voice
+reharmonization	bandmember
+reharmonization	rock group
+reharmonization	rock band
+reharmonization	team
+reharmonization	note
+reharmonization	tone
+reharmonization	musical note
+reharmonization	air
+reharmonization	strain
+reharmonization	melodic line
+reharmonization	line
+reharmonization	melodic phrase
+reharmonization	phrase
+reharmonization	melody
+reharmonization	tune
+reharmonization	dance band
+reharmonization	dance orchestra
+reharmonization	orchestra
+reharmonization	musical notation
+reharmonization	notation
+reharmonization	music notation
+reharmonization	musical work
+reharmonization	work
+reharmonization	line of succession
+andante	musical passage
+andante	passage
+andante	musical composition
+andante	composition
+andante	piece of music
+andante	piece
+andante	opus
+andante	tempo
+andante	pacing
+andante	laya
+andante	musical work
+andante	work
+andante	musical time
+andante	time
+andante	work of art
+andante	specifications
+andante	specification
+track	extract
+track	selection
+track	excerpt
+track	musical composition
+track	composition
+track	piece of music
+track	piece
+track	opus
+track	passage
+track	musical work
+track	work
+track	work of art
+quote	excerpt
+quote	selection
+quote	extract
+pan flute	instrument
+pan	instrument
+pan flute	musical instrument
+pan flute	transverse flute
+pan	flute
+pan flute	flute
+pan flute	pipe
+pan	pipe
+pan flute	wood
+pan	wood
+pan flute	woodwind instrument
+pan flute	woodwind
+pan	woodwind
+pan flute	wind
+pan	wind
+pan flute	wind instrument
+pan flute	aerophone
+pan	aerophone
+brazilian rock	musical style
+brazilian rock	music genre
+southern soul	music genre
+harmonization	harmony
+harmonization	musical harmony
+harmonization	backup band
+harmonization	band
+harmonization	musical accompaniment
+harmonization	accompaniment
+harmonization	support
+harmonization	backup
+harmonization	vocalizing
+harmonization	singer
+harmonization	singing
+harmonization	vocalist
+harmonization	chord
+harmonization	musical group
+harmonization	group
+harmonization	musical organization
+harmonization	organization
+harmonization	music group
+harmonization	voice
+harmonization	bandmember
+harmonization	rock group
+harmonization	rock band
+harmonization	team
+harmonization	vocal music
+harmonization	music
+harmonization	musical performance
+harmonization	performance
+harmonization	note
+harmonization	tone
+harmonization	musical note
+harmonization	air
+harmonization	strain
+harmonization	melodic line
+harmonization	line
+harmonization	melodic phrase
+harmonization	phrase
+harmonization	melody
+harmonization	tune
+harmonization	dance band
+harmonization	dance orchestra
+harmonization	orchestra
+harmonization	speech
+harmonization	spoken language
+harmonization	language
+harmonization	performing arts
+harmonization	art
+harmonization	musical notation
+harmonization	notation
+harmonization	music notation
+harmonization	musical work
+harmonization	work
+harmonization	line of succession
+harmonization	human language
+harmonization	demonstration
+harmonization	presentation
+harmonization	work of art
+harmonization	show
+swedish pop	euro pop
+pop	euro
+swedish pop	pop
+swedish pop	music genre
+traditional	religious ceremony
+traditional	ceremony
+traditional	religious ritual
+traditional	orthodoxy
+traditional	rite
+traditional	unoriginality
+traditional	observance
+traditional	ceremonial
+traditional	function
+traditional	affair
+traditional	social function
+traditional	occasion
+traditional	group event
+traditional	event
+traditional	social event
+traditional	gospel
+traditional	music genre
+traditional	genre
+southern rap	music genre
+italian pop	euro pop
+italian pop	pop
+italian pop	music genre
+latin jazz	jazz
+latin jazz	musical style
+latin jazz	music genre
+latin jazz	popular music
+jazz	music
+latin jazz	popular music genre
+spoken word	verse
+word	verse
+spoken word	poetry
+word	poetry
+spoken word	poesy
+word	poesy
+spoken word	music genre
+word	genre
+claves	percussion
+claves	percussive instrument
+claves	instrument
+claves	percussion instrument
+claves	musical instrument
+claves	idiophone
+western swing	country
+swing	country
+western swing	music genre
+intonation	vocalizing
+intonation	singer
+intonation	singing
+intonation	vocalist
+intonation	vocal music
+intonation	music
+intonation	musical performance
+intonation	performance
+intonation	speech
+intonation	spoken language
+intonation	language
+intonation	performing arts
+intonation	art
+intonation	human language
+intonation	demonstration
+intonation	presentation
+intonation	show
+arioso	vocalizing
+arioso	singer
+arioso	singing
+arioso	vocalist
+arioso	recitative
+arioso	vocal music
+arioso	music
+arioso	musical performance
+arioso	performance
+arioso	musical passage
+arioso	passage
+arioso	speech
+arioso	spoken language
+arioso	language
+arioso	performing arts
+arioso	art
+arioso	musical composition
+arioso	composition
+arioso	piece of music
+arioso	piece
+arioso	opus
+arioso	human language
+arioso	demonstration
+arioso	presentation
+arioso	musical work
+arioso	work
+arioso	show
+arioso	work of art
+melody	musical work
+melody	work
+melody	line of succession
+melody	line
+melody	musical perception
+melody	perception
+melody	work of art
+melody	psychoacoustics
+melody	auditory perception
+melody	psychology
+melody	methodology
+melody	method
+melody	way
+elegies	classical
+elegy	classical
+elegies	music genre
+elegy	genre
+lieder	music genre
+lied	genre
+cornet	instrument
+cornet	musical instrument
+cornet	brass
+cornet	brass instrument
+cornet	aerophone
+cornet	wind
+cornet	wind instrument
+pastoral	vocal
+pastoral	song
+pastoral	track
+pastoral	human voice
+pastoral	voice
+pastoral	musical composition
+pastoral	composition
+pastoral	piece of music
+pastoral	piece
+pastoral	opus
+pastoral	musical work
+pastoral	work
+pastoral	work of art
+northern	music genre
+northern	genre
+timpani	percussion
+timpani	percussive instrument
+timpani	instrument
+timpani	percussion instrument
+timpani	musical instrument
+timpani	membranophone
+pop metal	metal
+pop metal	music genre
+theme	air
+theme	strain
+theme	melodic line
+theme	line
+theme	melodic phrase
+theme	phrase
+theme	melody
+theme	tune
+theme	musical work
+theme	work
+theme	line of succession
+theme	work of art
+new jazz	jazz
+new jazz	musical style
+new jazz	music genre
+new jazz	popular music
+new jazz	popular music genre
+piano	softness
+piano	percussion
+piano	percussive instrument
+piano	percussion instrument
+piano	stringed instrument
+piano	string instrument
+piano	locale
+piano	musical instrument
+piano	keyboard instrument
+piano	keyboard
+piano	scene
+piano	country
+piano	specifications
+piano	specification
+piano	integral
+piano	magnitude
+black music	musical style
+black music	music genre
+programme music	musical composition
+programme music	piece of music
+programme music	opus
+programme music	composition
+programme music	musical work
+programme music	work of art
+sing-a-longs	music genre
+sing-a-longs	genre
+counterpoint	polyphonic music
+counterpoint	music
+counterpoint	polyphony
+counterpoint	texture
+counterpoint	musicality
+waltz	musical work
+waltz	work
+waltz	dance
+waltz	dance music
+waltz	music
+waltz	work of art
+instrumental music	recording
+music	recording
+instrumental music	musical composition
+instrumental music	piece of music
+instrumental music	opus
+instrumental music	composition
+instrumental music	musical work
+instrumental music	task
+music	task
+instrumental music	work of art
+solmization	proficiency
+solmization	technique
+solmization	musical technique
+solmization	vocalizing
+solmization	singer
+solmization	singing
+solmization	vocalist
+solmization	musical notation
+solmization	notation
+solmization	music notation
+solmization	vocal music
+solmization	music
+solmization	musical performance
+solmization	performance
+solmization	state
+solmization	speech
+solmization	spoken language
+solmization	language
+solmization	performing arts
+solmization	art
+solmization	human language
+solmization	demonstration
+solmization	presentation
+solmization	specifications
+solmization	specification
+solmization	show
+homophony	part music
+homophony	music
+organ	keyboard instrument
+organ	instrument
+organ	keyboard
+organ	wind
+organ	wind instrument
+organ	free reed
+organ	reed
+organ	musical instrument
+organ	aerophone
+organ	electronic instrument
+organ	electronic musical instrument
+finger cymbals	percussion
+finger cymbals	percussive instrument
+finger cymbals	percussion instrument
+finger cymbals	instrument
+finger cymbals	musical instrument
+finger cymbals	idiophone
+primo	voice
+primo	air
+primo	strain
+primo	melodic line
+primo	line
+primo	melodic phrase
+primo	phrase
+primo	melody
+primo	tune
+primo	musical work
+primo	work
+primo	line of succession
+primo	work of art
+disco	popular music
+disco	music
+disco	popular music genre
+disco	genre
+disco	musical style
+disco	style
+disco	music genre
+incidental music	musical composition
+incidental music	piece of music
+incidental music	opus
+incidental music	composition
+incidental music	musical work
+incidental music	work of art
+incidental music	classical
+incidental music	music genre
+southern gospel	christian
+gospel	christian
+southern gospel	music genre
+gospel	genre
+gospel	traditional music
+gospel	music
+gospel	folk
+gospel	folkie
+gospel	folk music
+gospel	ethnic music
+gospel	tune
+gospel	musical style
+gospel	style
+gospel	music genre
+gospel	popular music
+gospel	popular music genre
+gospel	musical composition
+gospel	composition
+gospel	piece of music
+gospel	piece
+gospel	opus
+gospel	musical work
+gospel	work
+gospel	work of art
+sleigh bells	idiophone
+bell	idiophone
+sleigh bells	instrument
+bell	instrument
+sleigh bells	musical instrument
+bachata	musical style
+bachata	style
+bachata	music genre
+bachata	genre
+bachata	latin music
+bachata	music
+etudes	classical
+etude	classical
+etudes	music genre
+etude	genre
+shoegazing	alternative rock
+shoegazing	rock
+shoegazing	music genre
+shoegazing	genre
+traditional pop	pop
+traditional pop	oldies
+traditional pop	music genre
+recitative	musical passage
+recitative	passage
+recitative	musical composition
+recitative	composition
+recitative	piece of music
+recitative	piece
+recitative	opus
+recitative	musical work
+recitative	work
+recitative	work of art
+salutation	opening
+mbira	idiophone
+mbira	instrument
+mbira	musical instrument
+cabaret	show
+cabaret	entertainment
+cabaret	amusement
+cabaret	musical style
+cabaret	style
+cabaret	music genre
+cabaret	genre
+barcarolle	vocal
+barcarolle	song
+barcarolle	track
+barcarolle	human voice
+barcarolle	voice
+barcarolle	musical composition
+barcarolle	composition
+barcarolle	piece of music
+barcarolle	piece
+barcarolle	opus
+barcarolle	musical work
+barcarolle	work
+barcarolle	work of art
+motown	music genre
+motown	genre
+canons	classical
+canon	classical
+canons	music genre
+canon	genre
+score	sheet music
+score	music
+score	musical notation
+score	notation
+score	music notation
+score	musical composition
+score	composition
+score	piece of music
+score	piece
+score	opus
+score	musical work
+score	work
+score	work of art
+recessional	hymn
+recessional	anthem
+solo	musical composition
+solo	composition
+solo	piece of music
+solo	piece
+solo	opus
+solo	musical work
+solo	work
+solo	work of art
+dixieland	jazz
+dixieland	music genre
+dixieland	genre
+symphonic music	musical work
+symphonic music	sonata
+music	sonata
+symphonic music	musical composition
+symphonic music	piece of music
+symphonic music	opus
+symphonic music	composition
+symphonic music	work of art
+symphonic music	classical
+symphonic music	classical music
+symphonic music	serious music
+symphonic music	art music
+symphonic music	musical style
+symphonic music	music genre
+leitmotif	musical work
+leitmotif	work
+leitmotif	air
+leitmotif	strain
+leitmotif	melodic line
+leitmotif	line
+leitmotif	melodic phrase
+leitmotif	phrase
+leitmotif	melody
+leitmotif	tune
+leitmotif	work of art
+leitmotif	line of succession
+prelude	musical work
+prelude	work
+prelude	musical composition
+prelude	composition
+prelude	piece of music
+prelude	piece
+prelude	opus
+prelude	work of art
+habanera	dance
+habanera	dance music
+habanera	music
+adagio	musical passage
+adagio	passage
+adagio	musical composition
+adagio	composition
+adagio	piece of music
+adagio	piece
+adagio	opus
+adagio	musical work
+adagio	work
+adagio	work of art
+torch song	vocal
+song	vocal
+torch song	song
+torch song	track
+song	track
+torch song	human voice
+song	voice
+torch song	musical composition
+torch song	piece of music
+torch song	opus
+torch song	composition
+torch song	musical work
+torch song	work of art
+masses	music genre
+mass	genre
+pop	popular music
+pop	popular music genre
+pop	musical style
+pop	music genre
+fugues	classical
+fugues	music genre
+melodic line	musical work
+line	work
+melodic line	line of succession
+melodic line	work of art
+ranchera	latin music
+ranchera	music
+ranchera	music genre
+ranchera	genre
+scherzo	musical work
+scherzo	work
+scherzo	movement
+scherzo	musical composition
+scherzo	composition
+scherzo	piece of music
+scherzo	piece
+scherzo	opus
+scherzo	work of art
+scherzo	classical
+scherzo	music genre
+scherzo	genre
+humming	vocalizing
+humming	singer
+humming	singing
+humming	vocalist
+humming	sound
+humming	sound wave
+humming	wave
+humming	noise
+humming	vocal music
+humming	music
+humming	musical performance
+humming	performance
+humming	undulation
+humming	speech
+humming	spoken language
+humming	language
+humming	performing arts
+humming	art
+humming	vibration
+humming	oscillation
+humming	motion
+humming	movement
+humming	human language
+humming	demonstration
+humming	presentation
+humming	show
+impromptu	lecture
+impromptu	speech
+impromptu	talk
+impromptu	address
+impromptu	musical passage
+impromptu	passage
+impromptu	musical composition
+impromptu	composition
+impromptu	piece of music
+impromptu	piece
+impromptu	opus
+impromptu	musician
+impromptu	musical work
+impromptu	work
+impromptu	person
+impromptu	work of art
+odes	music genre
+ode	genre
+chorale prelude	prelude
+chorale prelude	musical composition
+chorale prelude	piece of music
+chorale prelude	opus
+chorale prelude	composition
+chorale prelude	musical work
+chorale prelude	work of art
+musical saw	idiophone
+saw	idiophone
+musical saw	instrument
+saw	instrument
+musical saw	musical instrument
+quintet	musical composition
+quintet	composition
+quintet	piece of music
+quintet	piece
+quintet	opus
+quintet	band
+quintet	musical group
+quintet	group
+quintet	musical organization
+quintet	organization
+quintet	music group
+quintet	bandmember
+quintet	rock group
+quintet	rock band
+quintet	team
+quintet	musical work
+quintet	work
+quintet	dance band
+quintet	dance orchestra
+quintet	orchestra
+quintet	work of art
+work song	vocal
+work song	song
+work song	track
+work song	human voice
+work song	musical composition
+work song	piece of music
+work song	opus
+work song	composition
+work song	musical work
+work song	work of art
+singalong	vocalizing
+singalong	singer
+singalong	singing
+singalong	vocalist
+singalong	vocal music
+singalong	music
+singalong	musical performance
+singalong	performance
+singalong	speech
+singalong	spoken language
+singalong	language
+singalong	performing arts
+singalong	art
+singalong	human language
+singalong	demonstration
+singalong	presentation
+singalong	show
+french pop	euro pop
+french pop	pop
+french pop	music genre
+overture	musical work
+overture	work
+overture	work of art
+orchestral jazz	jazz
+orchestral jazz	music genre
+soft rock	musical style
+soft rock	music genre
+soft rock	pop
+rock	pop
+rock'n'roll	popular music
+rock'n'roll	music
+rock'n'roll	popular music genre
+rock'n'roll	genre
+rock'n'roll	musical style
+rock'n'roll	style
+rock'n'roll	music genre
+adult alternative	pop
+alternative	pop
+adult alternative	music genre
+fado	folk song
+fado	song
+fado	folk ballad
+fado	ballad
+fado	folksong
+fado	musical style
+fado	style
+fado	music genre
+fado	genre
+fado	traditional music
+fado	music
+fado	folk
+fado	folkie
+fado	folk music
+fado	ethnic music
+fado	tune
+fado	vocal
+fado	track
+fado	human voice
+fado	voice
+fado	popular music
+fado	popular music genre
+fado	musical composition
+fado	composition
+fado	piece of music
+fado	piece
+fado	opus
+fado	musical work
+fado	work
+fado	work of art
+merengue	latin music
+merengue	music
+merengue	music genre
+merengue	genre
+shanty	work song
+shanty	song
+shanty	vocal
+shanty	track
+shanty	human voice
+shanty	voice
+shanty	musical composition
+shanty	composition
+shanty	piece of music
+shanty	piece
+shanty	opus
+shanty	musical work
+shanty	work
+shanty	work of art
+baritone guitar	guitar
+baritone guitar	stringed instrument
+baritone guitar	string instrument
+baritone guitar	plucked instrument
+baritone guitar	plucked string instrument
+baritone guitar	instrument
+baritone guitar	musical instrument
+ratchet	mechanism
+ratchet	idiophone
+ratchet	instrument
+ratchet	musical instrument
+voice	singer
+voice	vocalist
+voice	air
+voice	strain
+voice	melodic line
+voice	line
+voice	melodic phrase
+voice	phrase
+voice	melody
+voice	tune
+voice	musician
+voice	musical work
+voice	work
+voice	line of succession
+voice	work of art
+voice	person
+bolero	dance
+bolero	dance music
+bolero	music
+keyed trumpet	instrument
+keyed trumpet	musical instrument
+keyed trumpet	aerophone
+monody	texture
+monody	musicality
+industrial dance	alternative rock
+dance	rock
+industrial dance	industrial
+dance	industrial
+industrial dance	music genre
+descant	backup band
+descant	band
+descant	musical accompaniment
+descant	accompaniment
+descant	support
+descant	backup
+descant	musical group
+descant	group
+descant	musical organization
+descant	organization
+descant	music group
+descant	voice
+descant	bandmember
+descant	rock group
+descant	rock band
+descant	team
+descant	air
+descant	strain
+descant	melodic line
+descant	line
+descant	melodic phrase
+descant	phrase
+descant	melody
+descant	tune
+descant	dance band
+descant	dance orchestra
+descant	orchestra
+descant	musical work
+descant	work
+descant	line of succession
+descant	work of art
+canon	musical composition
+canon	composition
+canon	piece of music
+canon	piece
+canon	opus
+canon	musical work
+canon	work
+canon	work of art
+postlude	voluntary
+postlude	solo
+postlude	musical composition
+postlude	composition
+postlude	piece of music
+postlude	piece
+postlude	opus
+postlude	musical work
+postlude	work
+postlude	work of art
+rock guitarists	rock
+guitarist	rock
+rock guitarists	music genre
+guitarist	genre
+violin	bowed string instrument
+violin	instrument
+violin	string
+violin	bowed instrument
+violin	stringed instrument
+violin	string instrument
+violin	musical instrument
+snare drum	instrument
+snare drum	musical instrument
+snare drum	drum
+snare drum	membranophone
+snare drum	percussion
+drum	percussion
+snare drum	percussive instrument
+snare drum	percussion instrument
+grand opera	opera
+grand opera	musical work
+grand opera	musical theater
+grand opera	drama
+grand opera	dramatic play
+grand opera	performing arts
+grand opera	classical
+grand opera	classical music
+grand opera	serious music
+grand opera	art music
+grand opera	work of art
+grand opera	theater
+grand opera	theatre
+grand opera	dramatics
+grand opera	dramaturgy
+grand opera	dramatic art
+grand opera	musical style
+grand opera	music genre
+grand opera	fine arts
+surf rock	rock
+surf rock	music genre
+flageolet	instrument
+flageolet	musical instrument
+flageolet	aerophone
+harmony	musical note
+harmony	musical notation
+harmony	music notation
+composition	musical work
+composition	work
+composition	work of art
+plainsong	chant
+plainsong	choral
+plainsong	chorale
+plainsong	religious song
+plainsong	song
+plainsong	vocalizing
+plainsong	singer
+plainsong	singing
+plainsong	vocalist
+plainsong	musical work
+plainsong	work
+plainsong	hymn
+plainsong	anthem
+plainsong	church music
+plainsong	music
+plainsong	religious music
+plainsong	vocal
+plainsong	track
+plainsong	human voice
+plainsong	voice
+plainsong	vocal music
+plainsong	musical performance
+plainsong	performance
+plainsong	work of art
+plainsong	christian music
+plainsong	musical style
+plainsong	style
+plainsong	music genre
+plainsong	genre
+plainsong	musical composition
+plainsong	composition
+plainsong	piece of music
+plainsong	piece
+plainsong	opus
+plainsong	speech
+plainsong	spoken language
+plainsong	language
+plainsong	performing arts
+plainsong	art
+plainsong	human language
+plainsong	demonstration
+plainsong	presentation
+crwth	stringed instrument
+crwth	instrument
+crwth	string instrument
+crwth	plucked instrument
+crwth	plucked string instrument
+crwth	musical instrument
+love-song	vocal
+love-song	song
+love-song	track
+love-song	human voice
+love-song	voice
+love-song	musical composition
+love-song	composition
+love-song	piece of music
+love-song	piece
+love-song	opus
+love-song	musical work
+love-song	work
+love-song	work of art
+disco music	popular music
+disco music	popular music genre
+disco music	musical style
+disco music	music genre
+cymbal	percussive instrument
+cymbal	percussion instrument
+cymbal	musical instrument
+tune	musical work
+tune	work
+tune	line of succession
+tune	line
+tune	work of art
+traditional folk	folk
+traditional folk	music genre
+country music	traditional music
+country music	folk
+music	folk
+country music	folkie
+music	folkie
+country music	folk music
+country music	ethnic music
+country music	tune
+music	tune
+country music	pop musician
+music	musician
+country music	pop music
+country music	pop
+music	pop
+country music	musical style
+country music	music genre
+country music	popular music
+country music	popular music genre
+country music	musical composition
+country music	piece of music
+country music	opus
+country music	composition
+country music	musical work
+country music	work of art
+figured bass	bass part
+bass	part
+figured bass	bass
+figured bass	voice
+bass	voice
+figured bass	air
+bass	air
+figured bass	strain
+bass	strain
+figured bass	melodic line
+bass	line
+figured bass	melodic phrase
+bass	phrase
+figured bass	melody
+bass	melody
+figured bass	tune
+bass	tune
+figured bass	musical work
+bass	work
+figured bass	line of succession
+figured bass	work of art
+musical composition	musical work
+musical composition	work of art
+jazz fusion	jazz
+fusion	jazz
+jazz fusion	musical style
+fusion	style
+jazz fusion	music genre
+fusion	genre
+jazz fusion	popular music
+fusion	music
+jazz fusion	popular music genre
+serial music	proficiency
+music	proficiency
+serial music	technique
+music	technique
+serial music	musical technique
+serial music	series
+music	series
+serial music	work of art
+serial music	state
+music	state
+serial music	specifications
+music	specification
+korean pop	pop
+korean pop	music genre
+twelve-tone system	serialism
+system	serialism
+twelve-tone system	serial music
+system	music
+twelve-tone system	proficiency
+system	proficiency
+twelve-tone system	technique
+system	technique
+twelve-tone system	musical technique
+twelve-tone system	series
+system	series
+twelve-tone system	work of art
+system	work
+twelve-tone system	state
+system	state
+comedic music	music genre
+musical drama	opera
+drama	opera
+musical drama	musical work
+drama	work
+musical drama	musical theater
+drama	theater
+musical drama	drama
+musical drama	dramatic play
+drama	play
+musical drama	performing arts
+drama	art
+musical drama	classical
+drama	classical
+musical drama	classical music
+drama	music
+musical drama	serious music
+musical drama	art music
+musical drama	work of art
+musical drama	theater
+musical drama	theatre
+drama	theatre
+musical drama	dramatics
+drama	dramatics
+musical drama	dramaturgy
+drama	dramaturgy
+musical drama	dramatic art
+musical drama	musical style
+drama	style
+musical drama	music genre
+drama	genre
+musical drama	fine arts
+ska	alternative rock
+ska	rock
+ska	music genre
+ska	genre
+vocalizing	vocal music
+vocalizing	music
+vocalizing	musical performance
+vocalizing	performance
+vocalizing	speech
+vocalizing	spoken language
+vocalizing	language
+vocalizing	performing arts
+vocalizing	art
+vocalizing	human language
+vocalizing	demonstration
+vocalizing	presentation
+vocalizing	show
+vocalizing	entertainment
+vocalizing	amusement
+teen pop	pop musician
+teen pop	pop music
+teen pop	pop
+teen pop	musical style
+teen pop	music genre
+teen pop	popular music
+teen pop	popular music genre
+melodic theme	air
+melodic theme	strain
+melodic theme	melodic line
+melodic theme	melodic phrase
+melodic theme	melody
+melodic theme	tune
+melodic theme	musical work
+melodic theme	line of succession
+melodic theme	work of art
+country rock	musical style
+country rock	music genre
+country rock	rock
+brazilian jazz	jazz
+brazilian jazz	music genre
+rider	article
+rider	clause
+chorus	band
+chorus	musical group
+chorus	group
+chorus	musical organization
+chorus	organization
+chorus	music group
+chorus	vocal
+chorus	song
+chorus	track
+chorus	human voice
+chorus	voice
+chorus	bandmember
+chorus	rock group
+chorus	rock band
+chorus	team
+chorus	troupe
+chorus	company
+chorus	musical composition
+chorus	composition
+chorus	piece of music
+chorus	piece
+chorus	opus
+chorus	dance band
+chorus	dance orchestra
+chorus	orchestra
+chorus	musical work
+chorus	work
+chorus	work of art
+serious music	musical style
+serious music	music genre
+clipping	excerpt
+clipping	selection
+clipping	extract
+big beat	music genre
+beat	genre
+motive	theme
+motive	melodic theme
+motive	musical theme
+motive	air
+motive	strain
+motive	melodic line
+motive	line
+motive	melodic phrase
+motive	phrase
+motive	melody
+motive	tune
+motive	musical work
+motive	work
+motive	line of succession
+motive	work of art
+vallenato	traditional music
+vallenato	music
+vallenato	folk
+vallenato	folkie
+vallenato	folk music
+vallenato	ethnic music
+vallenato	tune
+vallenato	musical style
+vallenato	style
+vallenato	music genre
+vallenato	genre
+vallenato	popular music
+vallenato	popular music genre
+vallenato	musical composition
+vallenato	composition
+vallenato	piece of music
+vallenato	piece
+vallenato	opus
+vallenato	musical work
+vallenato	work
+vallenato	work of art
+vallenato	latin music
+bongos	instrument
+bongo	instrument
+bongos	membranophone
+bongo	membranophone
+bongos	musical instrument
+nocturnes	short forms
+nocturne	form
+nocturnes	classical
+nocturne	classical
+nocturnes	music genre
+nocturne	genre
+gregorian chant	chant
+tuba	brass
+tuba	brass instrument
+tuba	instrument
+tuba	wind
+tuba	wind instrument
+tuba	bass instrument
+tuba	bass
+tuba	musical instrument
+tuba	aerophone
+bongo drums	instrument
+bongo drums	membranophone
+bongo drums	musical instrument
+morceau	musical composition
+morceau	composition
+morceau	piece of music
+morceau	piece
+morceau	opus
+morceau	musical work
+morceau	work
+morceau	work of art
+songstress	songster
+songstress	singer
+songstress	vocalist
+songstress	musician
+turntablists	music genre
+turntablists	genre
+requiem	musical work
+requiem	work
+requiem	musical composition
+requiem	composition
+requiem	piece of music
+requiem	piece
+requiem	opus
+requiem	hymn
+requiem	anthem
+requiem	soulfulness
+requiem	vocal
+requiem	song
+requiem	track
+requiem	human voice
+requiem	voice
+requiem	work of art
+requiem	religious ceremony
+requiem	ceremony
+requiem	religious ritual
+requiem	cult
+requiem	religious song
+requiem	psyche
+requiem	mind
+requiem	nous
+requiem	organized religion
+requiem	religion
+requiem	church music
+requiem	music
+requiem	religious music
+requiem	christian music
+requiem	musical style
+requiem	style
+requiem	music genre
+requiem	genre
+carol	strain
+carol	religious song
+carol	song
+movie soundtrack	soundtrack
+movie soundtrack	music genre
+drumming	percussion
+cowboy	country
+cowboy	music genre
+cowboy	genre
+folk songs	music genre
+song	genre
+american punk	alternative rock
+american punk	music genre
+backup	band
+backup	musical group
+backup	group
+backup	musical organization
+backup	organization
+backup	music group
+backup	voice
+backup	bandmember
+backup	rock group
+backup	rock band
+backup	team
+backup	air
+backup	strain
+backup	melodic line
+backup	line
+backup	melodic phrase
+backup	phrase
+backup	melody
+backup	tune
+backup	dance band
+backup	dance orchestra
+backup	orchestra
+backup	musical work
+backup	work
+backup	line of succession
+backup	work of art
+castanets	percussion
+castanets	percussive instrument
+castanets	instrument
+castanets	percussion instrument
+castanets	musical instrument
+castanets	idiophone
+radio shows	special interest
+show	interest
+radio shows	music genre
+show	genre
+polka	dance
+polka	dance music
+polka	music
+polka	musical style
+polka	style
+polka	music genre
+polka	genre
+smooth jazz	jazz
+smooth jazz	music genre
+tenor saxophone	saxist
+saxophone	saxist
+tenor saxophone	saxophonist
+saxophone	saxophonist
+tenor saxophone	wind
+tenor saxophone	wind instrument
+tenor saxophone	saxophone
+tenor saxophone	sax
+saxophone	sax
+tenor saxophone	musician
+saxophone	musician
+tenor saxophone	instrument
+tenor saxophone	musical instrument
+tenor saxophone	aerophone
+tenor saxophone	wood
+tenor saxophone	woodwind instrument
+tenor saxophone	woodwind
+tenor saxophone	reed
+tenor saxophone	reed instrument
+tenor saxophone	person
+saxophone	person
+drum & bass	music genre
+drum	genre
+obbligato	motif
+obbligato	theme
+obbligato	melodic theme
+obbligato	musical theme
+obbligato	air
+obbligato	strain
+obbligato	melodic line
+obbligato	line
+obbligato	melodic phrase
+obbligato	phrase
+obbligato	melody
+obbligato	tune
+obbligato	musical work
+obbligato	work
+obbligato	line of succession
+obbligato	work of art
+obligato	motif
+obligato	theme
+obligato	melodic theme
+obligato	musical theme
+obligato	air
+obligato	strain
+obligato	melodic line
+obligato	line
+obligato	melodic phrase
+obligato	phrase
+obligato	melody
+obligato	tune
+obligato	musical work
+obligato	work
+obligato	line of succession
+obligato	work of art
+rap music	popular music
+rap music	popular music genre
+rap music	african-american music
+rap music	black music
+rap music	musical style
+rap music	music genre
+math rock	rock and roll
+math rock	rock music
+math rock	rock-and-roll
+math rock	rock
+math rock	rock'n'roll
+math rock	musical style
+math rock	music genre
+math rock	popular music
+math rock	popular music genre
+math rock	alternative rock
+quartette	musical composition
+quartette	composition
+quartette	piece of music
+quartette	piece
+quartette	opus
+quartette	band
+quartette	musical group
+quartette	group
+quartette	musical organization
+quartette	organization
+quartette	music group
+quartette	bandmember
+quartette	rock group
+quartette	rock band
+quartette	team
+quartette	musical work
+quartette	work
+quartette	dance band
+quartette	dance orchestra
+quartette	orchestra
+quartette	work of art
+adult contemporary	popular music
+adult	music
+adult contemporary	popular music genre
+adult	genre
+adult contemporary	radio format
+adult	format
+adult contemporary	musical style
+adult	style
+adult contemporary	music genre
+adult contemporary	pop
+adult	pop
+lullabies	music genre
+lullaby	genre
+discant	backup band
+discant	band
+discant	musical accompaniment
+discant	accompaniment
+discant	support
+discant	backup
+discant	musical group
+discant	group
+discant	musical organization
+discant	organization
+discant	music group
+discant	voice
+discant	bandmember
+discant	rock group
+discant	rock band
+discant	team
+discant	air
+discant	strain
+discant	melodic line
+discant	line
+discant	melodic phrase
+discant	phrase
+discant	melody
+discant	tune
+discant	dance band
+discant	dance orchestra
+discant	orchestra
+discant	musical work
+discant	work
+discant	line of succession
+discant	work of art
+trad	jazz
+trad	popular music
+trad	music
+trad	popular music genre
+trad	genre
+trad	musical style
+trad	style
+trad	music genre
+ground bass	ostinato
+bass	ostinato
+ground bass	bass part
+ground bass	bass
+ground bass	phrase
+ground bass	musical phrase
+ground bass	motif
+bass	motif
+ground bass	voice
+ground bass	musical passage
+bass	passage
+ground bass	passage
+ground bass	theme
+bass	theme
+ground bass	melodic theme
+ground bass	musical theme
+ground bass	air
+ground bass	strain
+ground bass	melodic line
+ground bass	melodic phrase
+ground bass	melody
+ground bass	tune
+ground bass	musical composition
+bass	composition
+ground bass	piece of music
+bass	piece
+ground bass	opus
+bass	opus
+ground bass	composition
+ground bass	musical work
+ground bass	line of succession
+ground bass	work of art
+christmas carol	religious song
+surf guitar	music genre
+guitar	genre
+surf guitar	rock guitarists
+guitar	guitarist
+surf guitar	rock
+guitar	rock
+boogie-woogie	jazz
+boogie-woogie	note
+boogie-woogie	tone
+boogie-woogie	musical note
+boogie-woogie	blues
+boogie-woogie	blue
+boogie-woogie	rhythm
+boogie-woogie	beat
+boogie-woogie	beat level
+boogie-woogie	level
+boogie-woogie	musical rhythm
+boogie-woogie	popular music
+boogie-woogie	music
+boogie-woogie	popular music genre
+boogie-woogie	genre
+boogie-woogie	musical style
+boogie-woogie	style
+boogie-woogie	music genre
+boogie-woogie	musical notation
+boogie-woogie	notation
+boogie-woogie	music notation
+boogie-woogie	african-american music
+boogie-woogie	black music
+boogie-woogie	folk song
+boogie-woogie	song
+boogie-woogie	folk ballad
+boogie-woogie	ballad
+boogie-woogie	folksong
+boogie-woogie	musical time
+boogie-woogie	time
+boogie-woogie	traditional music
+boogie-woogie	folk
+boogie-woogie	folkie
+boogie-woogie	folk music
+boogie-woogie	ethnic music
+boogie-woogie	tune
+boogie-woogie	vocal
+boogie-woogie	track
+boogie-woogie	human voice
+boogie-woogie	voice
+boogie-woogie	musical composition
+boogie-woogie	composition
+boogie-woogie	piece of music
+boogie-woogie	piece
+boogie-woogie	opus
+boogie-woogie	musical work
+boogie-woogie	work
+boogie-woogie	specifications
+boogie-woogie	specification
+twelve-tone music	serialism
+music	serialism
+twelve-tone music	serial music
+twelve-tone music	proficiency
+twelve-tone music	technique
+twelve-tone music	musical technique
+twelve-tone music	series
+twelve-tone music	work of art
+twelve-tone music	state
+bass part	voice
+part	voice
+bass part	air
+part	air
+bass part	strain
+part	strain
+bass part	melodic line
+part	line
+bass part	melodic phrase
+part	phrase
+bass part	melody
+part	melody
+bass part	tune
+part	tune
+bass part	musical work
+part	work
+bass part	line of succession
+bass part	work of art
+harmonica blues	blues
+harmonica blues	music genre
+variations	classical
+variation	classical
+variations	music genre
+variation	genre
+texas blues	blues
+texas blues	regional blues
+texas blues	music genre
+duet	band
+duet	musical group
+duet	group
+duet	musical organization
+duet	organization
+duet	music group
+duet	musical composition
+duet	composition
+duet	piece of music
+duet	piece
+duet	opus
+duet	musical work
+duet	work
+duet	work of art
+arena rock	classic rock
+arena rock	music genre
+soprano saxophone	instrument
+soprano saxophone	musical instrument
+soprano saxophone	aerophone
+gittern	lute
+gittern	stringed instrument
+gittern	instrument
+gittern	string instrument
+gittern	guitar
+gittern	plucked instrument
+gittern	plucked string instrument
+gittern	musical instrument
+ballroom music	popular music
+ballroom music	popular music genre
+ballroom music	musical style
+ballroom music	music genre
+alto flute	instrument
+alto	instrument
+alto flute	musical instrument
+alto flute	aerophone
+alto	aerophone
+blues rock	musical style
+blues rock	music genre
+blues rock	rock
+southern rock	classic rock
+southern rock	music genre
+book	theater
+book	theatre
+book	dramatics
+book	dramaturgy
+book	dramatic art
+book	art
+book	fine arts
+program music	classical
+program music	classical music
+program music	serious music
+program music	art music
+program music	musical composition
+program music	piece of music
+program music	opus
+program music	composition
+program music	musical style
+program music	music genre
+program music	musical work
+program music	work of art
+hymnody	vocalizing
+hymnody	singer
+hymnody	singing
+hymnody	vocalist
+hymnody	vocal music
+hymnody	music
+hymnody	musical performance
+hymnody	performance
+hymnody	speech
+hymnody	spoken language
+hymnody	language
+hymnody	performing arts
+hymnody	art
+hymnody	human language
+hymnody	demonstration
+hymnody	presentation
+hymnody	show
+jangle pop	alternative rock
+jangle pop	music genre
+reggae	popular music
+reggae	music
+reggae	popular music genre
+reggae	genre
+reggae	musical style
+reggae	style
+reggae	music genre
+operettas	music genre
+finale	finishing
+finale	finish
+finale	movement
+finale	end
+finale	ending
+finale	close
+finale	closing
+finale	cul-de-sac
+finale	conclusion
+finale	completion
+finale	culmination
+finale	windup
+finale	musical work
+finale	work
+finale	musical composition
+finale	composition
+finale	piece of music
+finale	piece
+finale	opus
+finale	freeway
+finale	thoroughfare
+finale	pike
+finale	turnpike
+finale	expressway
+finale	termination
+finale	work of art
+finale	route
+finale	way
+finale	infrastructure
+finale	base
+finale	fund
+finale	store
+finale	stock
+whistling	signal
+whistling	sign
+whistling	signaling
+whistling	sound
+whistling	sound wave
+whistling	wave
+whistling	depiction
+whistling	portrayal
+whistling	depicting
+whistling	portraying
+whistling	undulation
+whistling	vibration
+whistling	oscillation
+whistling	motion
+whistling	movement
+improvisation	performance
+improvisation	demonstration
+improvisation	presentation
+improvisation	show
+improvisation	entertainment
+improvisation	amusement
+improvisation	classical
+improvisation	music genre
+improvisation	genre
+melodic phrase	musical work
+melodic phrase	line of succession
+phrase	line
+melodic phrase	work of art
+gavotte	dance
+gavotte	dancing
+gavotte	dance music
+gavotte	music
+gavotte	musical work
+gavotte	work
+gavotte	performing arts
+gavotte	art
+gavotte	flick
+gavotte	picture
+gavotte	movie
+gavotte	pic
+gavotte	picture show
+gavotte	show
+gavotte	film
+gavotte	motion picture
+gavotte	work of art
+gavotte	social event
+gavotte	event
+antiphon	responsory
+antiphon	church music
+antiphon	music
+antiphon	religious music
+antiphon	chant
+antiphon	christian music
+antiphon	musical style
+antiphon	style
+antiphon	music genre
+antiphon	genre
+antiphon	religious song
+antiphon	song
+antiphon	vocalizing
+antiphon	singer
+antiphon	singing
+antiphon	vocalist
+antiphon	vocal
+antiphon	track
+antiphon	human voice
+antiphon	voice
+antiphon	vocal music
+antiphon	musical performance
+antiphon	performance
+antiphon	musical composition
+antiphon	composition
+antiphon	piece of music
+antiphon	piece
+antiphon	opus
+antiphon	speech
+antiphon	spoken language
+antiphon	language
+antiphon	performing arts
+antiphon	art
+recapitulation	composing
+recapitulation	composition
+solfeggio	proficiency
+solfeggio	technique
+solfeggio	musical technique
+solfeggio	vocalizing
+solfeggio	singer
+solfeggio	singing
+solfeggio	vocalist
+solfeggio	vocal music
+solfeggio	music
+solfeggio	musical performance
+solfeggio	performance
+solfeggio	state
+solfeggio	speech
+solfeggio	spoken language
+solfeggio	language
+solfeggio	performing arts
+solfeggio	art
+solfeggio	human language
+solfeggio	demonstration
+solfeggio	presentation
+solfeggio	specifications
+solfeggio	specification
+solfeggio	show
+dance pop	pop
+dance pop	music genre
+zydeco	country
+zydeco	country music
+zydeco	music
+zydeco	country-western music
+zydeco	country and western
+zydeco	musical style
+zydeco	style
+zydeco	music genre
+zydeco	genre
+zydeco	traditional music
+zydeco	folk
+zydeco	folkie
+zydeco	folk music
+zydeco	ethnic music
+zydeco	tune
+zydeco	pop musician
+zydeco	musician
+zydeco	pop music
+zydeco	pop
+zydeco	popular music
+zydeco	popular music genre
+zydeco	musical composition
+zydeco	composition
+zydeco	piece of music
+zydeco	piece
+zydeco	opus
+zydeco	musical work
+zydeco	work
+zydeco	work of art
+air	musical work
+air	work
+air	hip hop music
+air	music
+air	hip hop
+air	hop
+air	rap
+air	rap music
+air	hip-hop
+air	band
+air	musical group
+air	group
+air	musical organization
+air	organization
+air	music group
+air	rock group
+air	rock band
+air	team
+air	musical composition
+air	composition
+air	piece of music
+air	piece
+air	opus
+air	work of art
+air	popular music
+air	popular music genre
+air	genre
+air	musical style
+air	style
+air	african-american music
+air	black music
+air	music genre
+air	dance band
+air	dance orchestra
+air	orchestra
+musical	music genre
+musical	genre
+musical	musical style
+musical	style
+theremin	electronic instrument
+theremin	instrument
+theremin	electronic musical instrument
+theremin	musical instrument
+glam	classic rock
+glam	rock
+glam	music genre
+glam	genre
+glam	musical style
+glam	style
+shred	rock
+shred	music genre
+shred	genre
+shred	musical style
+shred	style
+jam bands	rock
+band	rock
+jam bands	music genre
+jam bands	musical style
+band	style
+cello	bowed string instrument
+cello	instrument
+cello	string
+cello	bowed instrument
+cello	stringed instrument
+cello	string instrument
+cello	musical instrument
+dream pop	musical style
+dream pop	music genre
+dream pop	alternative rock
+solfege	proficiency
+solfege	technique
+solfege	musical technique
+solfege	vocalizing
+solfege	singer
+solfege	singing
+solfege	vocalist
+solfege	vocal music
+solfege	music
+solfege	musical performance
+solfege	performance
+solfege	state
+solfege	speech
+solfege	spoken language
+solfege	language
+solfege	performing arts
+solfege	art
+solfege	human language
+solfege	demonstration
+solfege	presentation
+solfege	specifications
+solfege	specification
+solfege	show
+wood block	plate
+block	plate
+wood block	black and white
+block	black and white
+wood block	idiophone
+wood block	instrument
+wood block	musical instrument
+tin pan alley	pop
+alley	pop
+tin pan alley	oldies
+alley	oldie
+tin pan alley	music genre
+alley	genre
+tin pan alley	musical style
+alley	style
+classical	musical style
+classical	style
+classical	music genre
+classical	genre
+trio sonata	sonata
+trio sonata	classical
+trio sonata	music genre
+trio sonata	musical style
+bell lyre	idiophone
+lyre	idiophone
+bell lyre	instrument
+bell lyre	musical instrument
+rhumba	dance
+rhumba	dancing
+rhumba	song and dance
+rhumba	song
+rhumba	dance music
+rhumba	music
+rhumba	rhythm
+rhumba	beat
+rhumba	beat level
+rhumba	level
+rhumba	musical rhythm
+rhumba	musical work
+rhumba	work
+rhumba	performing arts
+rhumba	art
+rhumba	flick
+rhumba	musical theatre
+rhumba	theatre
+rhumba	musical
+rhumba	musical theater
+rhumba	theater
+rhumba	musical comedy
+rhumba	comedy
+rhumba	musical time
+rhumba	time
+rhumba	work of art
+rhumba	show
+rhumba	dramatics
+rhumba	dramatic art
+rhumba	fine arts
+rhumba	specifications
+rhumba	specification
+autoharp	stringed instrument
+autoharp	instrument
+autoharp	string instrument
+autoharp	plucked instrument
+autoharp	plucked string instrument
+autoharp	musical instrument
+harp	stringed instrument
+harp	string instrument
+harp	plucked instrument
+harp	plucked string instrument
+harp	musical instrument
+antique cymbals	idiophone
+antique cymbals	instrument
+antique cymbals	musical instrument
+grupero	latin music
+grupero	music
+grupero	music genre
+grupero	genre
+grupero	musical style
+grupero	style
+national anthem	hymn
+anthem	hymn
+national anthem	anthem
+national anthem	musical composition
+anthem	composition
+national anthem	piece of music
+anthem	piece
+national anthem	opus
+anthem	opus
+national anthem	composition
+national anthem	national symbol
+anthem	symbol
+national anthem	religious song
+anthem	song
+national anthem	vocal
+anthem	vocal
+national anthem	song
+national anthem	track
+anthem	track
+national anthem	human voice
+anthem	voice
+national anthem	musical work
+anthem	work
+national anthem	church music
+anthem	music
+national anthem	religious music
+national anthem	work of art
+national anthem	christian music
+national anthem	musical style
+anthem	style
+national anthem	music genre
+anthem	genre
+sonatina	sonata
+sonatina	musical work
+sonatina	work
+sonatina	classical
+sonatina	classical music
+sonatina	music
+sonatina	serious music
+sonatina	art music
+sonatina	work of art
+sonatina	musical style
+sonatina	style
+sonatina	music genre
+sonatina	genre
+drumstick	instrument
+drumstick	musical instrument
+sheet music	musical notation
+music	notation
+sheet music	music notation
+sheet music	musical composition
+sheet music	piece of music
+sheet music	opus
+sheet music	composition
+sheet music	musical work
+sheet music	work of art
+fiddle	bowed string instrument
+fiddle	instrument
+fiddle	string
+fiddle	bowed instrument
+fiddle	stringed instrument
+fiddle	string instrument
+fiddle	musical instrument
+macumba	popular music
+macumba	music
+macumba	popular music genre
+macumba	genre
+macumba	musical style
+macumba	style
+macumba	music genre
+folk	popular music
+folk	music
+folk	popular music genre
+folk	musical style
+folk	style
+folk	music genre
+folk	musical composition
+folk	composition
+folk	piece of music
+folk	piece
+folk	opus
+folk	musical work
+folk	work
+folk	work of art
+funk	jazz
+funk	musical style
+funk	style
+funk	music genre
+funk	genre
+funk	popular music
+funk	music
+funk	popular music genre
+latin pop	latin music
+latin pop	music genre
+latin pop	musical style
+zither	lute
+zither	stringed instrument
+zither	instrument
+zither	string instrument
+zither	guitar
+zither	plucked instrument
+zither	plucked string instrument
+zither	musical instrument
+new age	music genre
+age	genre
+new age	musical style
+age	style
+rondo	classical
+rondo	classical music
+rondo	music
+rondo	serious music
+rondo	art music
+rondo	musical style
+rondo	style
+rondo	music genre
+rondo	genre
+guitar gods	music genre
+god	genre
+guitar gods	musical style
+god	style
+guitar gods	rock guitarists
+god	guitarist
+guitar gods	rock
+god	rock
+doo wop	oldies
+wop	oldie
+doo wop	pop
+wop	pop
+doo wop	music genre
+wop	genre
+doo wop	musical style
+wop	style
+scat	jazz
+scat	vocalizing
+scat	singer
+scat	singing
+scat	vocalist
+scat	musical improvisation
+scat	improvisation
+scat	popular music
+scat	music
+scat	popular music genre
+scat	genre
+scat	musical style
+scat	style
+scat	music genre
+scat	vocal music
+scat	musical performance
+scat	performance
+scat	speech
+scat	spoken language
+scat	language
+scat	performing arts
+scat	art
+scat	human language
+scat	demonstration
+scat	presentation
+scat	show
+vibraphone	percussion
+vibraphone	percussive instrument
+vibraphone	instrument
+vibraphone	percussion instrument
+vibraphone	musical instrument
+vibraphone	idiophone
+alternative metal	alternative rock
+alternative metal	musical style
+alternative metal	music genre
+alternative metal	heavy metal music
+alternative metal	heavy metal
+alternative metal	rock and roll
+alternative metal	rock music
+alternative metal	rock-and-roll
+alternative metal	rock
+alternative metal	rock'n'roll
+alternative metal	popular music
+alternative metal	popular music genre
+alternative metal	metal
+riot grrl	alternative rock
+grrl	rock
+riot grrl	rock
+riot grrl	music genre
+grrl	genre
+riot grrl	musical style
+grrl	style
+folksong	traditional music
+folksong	music
+folksong	folk
+folksong	folkie
+folksong	folk music
+folksong	ethnic music
+folksong	tune
+folksong	vocal
+folksong	song
+folksong	track
+folksong	human voice
+folksong	voice
+folksong	popular music
+folksong	popular music genre
+folksong	genre
+folksong	musical style
+folksong	style
+folksong	music genre
+folksong	musical composition
+folksong	composition
+folksong	piece of music
+folksong	piece
+folksong	opus
+folksong	musical work
+folksong	work
+folksong	work of art
+fantasia	musical composition
+fantasia	composition
+fantasia	piece of music
+fantasia	piece
+fantasia	opus
+fantasia	musical work
+fantasia	work
+fantasia	work of art
+minuet	dance
+minuet	dance music
+minuet	music
+minuet	social dance
+minuet	ballroom dance
+minuet	ballroom
+minuet	social dancing
+minuet	dancing
+minuet	musical work
+minuet	work
+minuet	performing arts
+minuet	art
+minuet	flick
+minuet	work of art
+minuet	show
+crash cymbals	idiophone
+crash cymbals	instrument
+crash cymbals	musical instrument
+tenor tuba	instrument
+tenor tuba	musical instrument
+tenor tuba	aerophone
+garage punk	alternative rock
+garage punk	rock
+garage punk	music genre
+garage punk	musical style
+euphony	sound
+euphony	sensation
+euphony	perception
+aria	air
+aria	strain
+aria	melodic line
+aria	line
+aria	melodic phrase
+aria	phrase
+aria	melody
+aria	tune
+aria	vocal
+aria	song
+aria	track
+aria	human voice
+aria	voice
+aria	musical work
+aria	work
+aria	musical composition
+aria	composition
+aria	piece of music
+aria	piece
+aria	opus
+aria	work of art
+opening	introduction
+drum cadence	musical composition
+cadence	composition
+drum cadence	piece of music
+cadence	piece
+drum cadence	opus
+cadence	opus
+drum cadence	composition
+drum cadence	musical work
+cadence	work
+drum cadence	work of art
+clapper	idiophone
+clapper	instrument
+clapper	musical instrument
+accordion	instrument
+accordion	musical instrument
+accordion	keyboard instrument
+accordion	keyboard
+accordion	free reed
+accordion	reed
+accordion	wind
+accordion	wind instrument
+accordion	aerophone
+viola	bowed string instrument
+viola	instrument
+viola	string
+viola	bowed instrument
+viola	guitar
+viola	stringed instrument
+viola	string instrument
+viola	plucked instrument
+viola	plucked string instrument
+viola	musical instrument
+contralto	singing voice
+contralto	voice
+contralto	voice type
+contralto	type
+contralto	singer
+contralto	vocalist
+contralto	vocalism
+contralto	phonation
+contralto	human voice
+contralto	vocalization
+contralto	vocalisation
+contralto	voice quality
+contralto	quality
+contralto	vox
+contralto	musician
+contralto	person
+swing music	jazz
+music	jazz
+swing music	popular music
+swing music	popular music genre
+swing music	musical style
+swing music	music genre
+opus	musical work
+opus	work
+opus	work of art
+septet	musical composition
+septet	composition
+septet	piece of music
+septet	piece
+septet	opus
+septet	band
+septet	musical group
+septet	group
+septet	musical organization
+septet	organization
+septet	music group
+septet	musical work
+septet	work
+septet	work of art
+slide	proficiency
+slide	technique
+slide	musical technique
+slide	traditional music
+slide	music
+slide	folk
+slide	folkie
+slide	folk music
+slide	ethnic music
+slide	tune
+slide	baroque dance
+slide	dance
+slide	dance music
+slide	folk dance
+slide	folk dancing
+slide	glissando
+slide	popular music
+slide	popular music genre
+slide	genre
+slide	musical style
+slide	style
+slide	music genre
+slide	musical composition
+slide	composition
+slide	piece of music
+slide	piece
+slide	opus
+slide	dancing
+slide	social dance
+slide	ballroom dance
+slide	ballroom
+slide	social dancing
+slide	air
+slide	strain
+slide	melodic line
+slide	line
+slide	melodic phrase
+slide	phrase
+slide	melody
+slide	state
+slide	musical work
+slide	work
+slide	performing arts
+slide	art
+slide	flick
+slide	work of art
+slide	show
+slide	specifications
+slide	specification
+mouth organ	wind
+mouth organ	wind instrument
+mouth organ	free reed
+mouth organ	instrument
+mouth organ	musical instrument
+mouth organ	aerophone
+tin whistle	recorder
+whistle	recorder
+tin whistle	wood
+whistle	wood
+tin whistle	woodwind instrument
+whistle	instrument
+tin whistle	woodwind
+whistle	woodwind
+tin whistle	transverse flute
+whistle	flute
+tin whistle	flute
+tin whistle	pipe
+whistle	pipe
+tin whistle	instrument
+tin whistle	musical instrument
+tin whistle	wind
+whistle	wind
+tin whistle	wind instrument
+tin whistle	aerophone
+whistle	aerophone
+short form	classical
+form	classical
+short form	music genre
+form	genre
+short form	musical style
+form	style
+electronic	rock
+electronic	progressive
+electronic	music genre
+electronic	genre
+electronic	musical style
+electronic	style
+tubular bells	idiophone
+tubular bells	instrument
+tubular bells	musical instrument
+disney	music genre
+disney	genre
+disney	musical style
+disney	style
+augmentation	theme
+augmentation	melodic theme
+augmentation	musical theme
+augmentation	air
+augmentation	strain
+augmentation	melodic line
+augmentation	line
+augmentation	melodic phrase
+augmentation	phrase
+augmentation	melody
+augmentation	tune
+augmentation	musical work
+augmentation	work
+augmentation	work of art
+religious song	church music
+song	music
+religious song	religious music
+religious song	vocal
+religious song	song
+religious song	track
+religious song	human voice
+religious song	christian music
+religious song	musical style
+song	style
+religious song	music genre
+religious song	musical composition
+religious song	piece of music
+religious song	opus
+religious song	composition
+religious song	musical work
+religious song	work of art
+latin rock	rock
+latin rock	latin music
+latin rock	music genre
+latin rock	musical style
+alto saxophone	saxist
+alto saxophone	saxophonist
+alto saxophone	wind
+alto saxophone	wind instrument
+alto saxophone	saxophone
+alto saxophone	sax
+alto saxophone	musician
+alto saxophone	instrument
+alto saxophone	musical instrument
+alto saxophone	aerophone
+alto saxophone	wood
+alto saxophone	woodwind instrument
+alto saxophone	woodwind
+alto saxophone	reed
+alto saxophone	reed instrument
+alto saxophone	person
+urban folk	folk
+urban folk	music genre
+urban folk	musical style
+bebop	improvisation
+bebop	extemporization
+bebop	musical style
+bebop	style
+bebop	music genre
+bebop	genre
+bebop	jazz
+bebop	performance
+bebop	popular music
+bebop	music
+bebop	popular music genre
+bebop	demonstration
+bebop	presentation
+bebop	show
+bebop	entertainment
+bebop	amusement
+country and western	traditional music
+country	music
+country and western	folk
+country	folk
+country and western	folkie
+country	folkie
+country and western	folk music
+country and western	ethnic music
+country and western	tune
+country	tune
+country and western	pop musician
+country	musician
+country and western	pop music
+country and western	pop
+country	pop
+country and western	musical style
+country	style
+country and western	music genre
+country and western	popular music
+country and western	popular music genre
+country and western	musical composition
+country	composition
+country and western	piece of music
+country	piece
+country and western	opus
+country	opus
+country and western	composition
+country and western	musical work
+country	work
+country and western	work of art
+washboard	idiophone
+washboard	instrument
+washboard	musical instrument
+lead sheet	musical notation
+sheet	notation
+lead sheet	music notation
+lead sheet	sheet music
+sheet	music
+lead sheet	musical composition
+sheet	composition
+lead sheet	piece of music
+sheet	piece
+lead sheet	opus
+sheet	opus
+lead sheet	composition
+lead sheet	musical work
+sheet	work
+lead sheet	work of art
+trumpet	musical instrument
+trombone	instrument
+trombone	musical instrument
+trombone	brass
+trombone	brass instrument
+trombone	wind
+trombone	wind instrument
+trombone	aerophone
+sea chantey	work song
+sea chantey	vocal
+sea chantey	song
+sea chantey	track
+sea chantey	human voice
+sea chantey	musical composition
+sea chantey	piece of music
+sea chantey	opus
+sea chantey	composition
+sea chantey	musical work
+sea chantey	work of art
+bass saxophone	wind
+bass saxophone	wind instrument
+bass saxophone	saxophone
+bass saxophone	sax
+bass saxophone	instrument
+bass saxophone	musical instrument
+bass saxophone	aerophone
+bass saxophone	wood
+bass saxophone	woodwind instrument
+bass saxophone	woodwind
+bass saxophone	reed
+bass saxophone	reed instrument
+alternative rock	rock and roll
+alternative rock	rock music
+alternative rock	rock-and-roll
+alternative rock	rock
+alternative rock	rock'n'roll
+alternative rock	musical style
+alternative rock	music genre
+alternative rock	popular music
+alternative rock	popular music genre
+post-punk	musical style
+post-punk	style
+post-punk	music genre
+post-punk	genre
+post-punk	alternative rock
+post-punk	rock
+pastiche	musical composition
+pastiche	composition
+pastiche	piece of music
+pastiche	piece
+pastiche	opus
+pastiche	work of art
+pastiche	work
+pastiche	musical work
+support	band
+support	musical group
+support	group
+support	musical organization
+support	organization
+support	music group
+support	voice
+support	bandmember
+support	rock group
+support	rock band
+support	team
+support	air
+support	strain
+support	melodic line
+support	line
+support	melodic phrase
+support	phrase
+support	melody
+support	tune
+support	musical work
+support	work
+support	work of art
+power pop	musical style
+power pop	music genre
+power pop	rock
+folk rock	traditional music
+folk rock	folk
+rock	folk
+folk rock	folkie
+rock	folkie
+folk rock	folk music
+folk rock	ethnic music
+folk rock	tune
+rock	tune
+folk rock	rock and roll
+folk rock	rock music
+folk rock	rock-and-roll
+folk rock	rock
+folk rock	rock'n'roll
+folk rock	musical style
+folk rock	music genre
+folk rock	popular music
+folk rock	popular music genre
+folk rock	musical composition
+rock	composition
+folk rock	piece of music
+rock	piece
+folk rock	opus
+rock	opus
+folk rock	composition
+folk rock	musical work
+rock	work
+folk rock	work of art
+contrabassoon	bassoon
+contrabassoon	double reed
+contrabassoon	reed
+contrabassoon	wood
+contrabassoon	woodwind instrument
+contrabassoon	instrument
+contrabassoon	woodwind
+contrabassoon	reed instrument
+contrabassoon	musical instrument
+contrabassoon	wind
+contrabassoon	wind instrument
+contrabassoon	aerophone
+hardcore	alternative rock
+hardcore	music genre
+hardcore	musical style
+hardcore	style
+comic opera	opera
+comic opera	musical work
+comic opera	musical theater
+comic opera	drama
+comic opera	dramatic play
+comic opera	performing arts
+comic opera	classical
+comic opera	classical music
+comic opera	serious music
+comic opera	art music
+comic opera	work of art
+comic opera	theater
+comic opera	theatre
+comic opera	dramatics
+comic opera	dramatic art
+comic opera	musical style
+comic opera	music genre
+comic opera	fine arts
+character piece	short forms
+piece	form
+character piece	classical
+piece	classical
+character piece	music genre
+piece	genre
+character piece	musical style
+piece	style
+bluegrass	country
+bluegrass	country music
+bluegrass	music
+bluegrass	country-western music
+bluegrass	country and western
+bluegrass	american folk music
+bluegrass	musical style
+bluegrass	style
+bluegrass	music genre
+bluegrass	genre
+bluegrass	traditional music
+bluegrass	folk
+bluegrass	folkie
+bluegrass	folk music
+bluegrass	ethnic music
+bluegrass	tune
+bluegrass	pop musician
+bluegrass	musician
+bluegrass	pop music
+bluegrass	pop
+bluegrass	popular music
+bluegrass	popular music genre
+bluegrass	musical composition
+bluegrass	composition
+bluegrass	piece of music
+bluegrass	piece
+bluegrass	opus
+bluegrass	musical work
+bluegrass	work
+bluegrass	work of art
+skiffle	popular music
+skiffle	music
+skiffle	popular music genre
+skiffle	genre
+skiffle	musical style
+skiffle	style
+skiffle	music genre
+section	band
+section	musical group
+section	group
+section	musical organization
+section	organization
+section	music group
+drum kit	percussion
+kit	percussion
+drum kit	percussive instrument
+kit	instrument
+drum kit	percussion instrument
+drum kit	drum
+kit	drum
+drum kit	membranophone
+kit	membranophone
+drum kit	instrument
+drum kit	musical instrument
+rumba	dance
+rumba	dancing
+rumba	song and dance
+rumba	song
+rumba	dance music
+rumba	music
+rumba	rhythm
+rumba	beat
+rumba	beat level
+rumba	level
+rumba	musical rhythm
+rumba	musical work
+rumba	work
+rumba	performing arts
+rumba	art
+rumba	flick
+rumba	musical theatre
+rumba	theatre
+rumba	musical
+rumba	musical theater
+rumba	theater
+rumba	musical comedy
+rumba	comedy
+rumba	musical time
+rumba	time
+rumba	work of art
+rumba	show
+rumba	dramatics
+rumba	dramatic art
+rumba	fine arts
+rumba	specifications
+rumba	specification
+lyricist	writer
+lyricist	songwriter
+lyricist	songster
+lyricist	poet
+lyricist	poetess
+lyricist	person
+lyricist	composer
+lyricist	musician
+chimes	idiophone
+chime	idiophone
+chimes	instrument
+chime	instrument
+chimes	musical instrument
+playback	sound reproduction
+playback	reproduction
+playback	repeating
+playback	repetition
+playback	continuance
+tango	musical style
+tango	style
+tango	music genre
+tango	genre
+tango	partner dance
+tango	dance
+tango	dance music
+tango	music
+tango	dancing
+tango	musical work
+tango	work
+tango	performing arts
+tango	art
+tango	flick
+tango	work of art
+tango	show
+tango	latin music
+horn	musical instrument
+musical theme	air
+musical theme	strain
+musical theme	melodic line
+musical theme	melodic phrase
+musical theme	melody
+musical theme	tune
+musical theme	musical work
+musical theme	work of art
+pastorale	vocal
+pastorale	song
+pastorale	track
+pastorale	human voice
+pastorale	voice
+pastorale	musical composition
+pastorale	composition
+pastorale	piece of music
+pastorale	piece
+pastorale	opus
+pastorale	musical work
+pastorale	work
+pastorale	work of art
+ambient pop	pop
+ambient pop	music genre
+ambient pop	musical style
+cumbia	latin music
+cumbia	music
+cumbia	music genre
+cumbia	genre
+cumbia	musical style
+cumbia	style
+pavan	dance
+pavan	dance music
+pavan	music
+sousaphone	brass
+sousaphone	brass instrument
+sousaphone	instrument
+sousaphone	wind
+sousaphone	wind instrument
+sousaphone	bass instrument
+sousaphone	bass
+sousaphone	musical instrument
+sousaphone	aerophone
+classic rock	radio format
+rock	format
+classic rock	music genre
+classic rock	musical style
+rackett	wind
+rackett	wind instrument
+rackett	instrument
+rackett	musical instrument
+rackett	aerophone
+ballad	verse
+ballad	verse line
+ballad	line
+ballad	musical style
+ballad	music genre
+ballad	human voice
+ballad	musical composition
+ballad	piece of music
+ballad	text
+ballad	musical work
+ballad	work of art
+rock-and-roll	popular music
+rock-and-roll	music
+rock-and-roll	popular music genre
+rock-and-roll	genre
+rock-and-roll	musical style
+rock-and-roll	style
+rock-and-roll	music genre
+mariachi	traditional music
+mariachi	music
+mariachi	folk
+mariachi	folkie
+mariachi	folk music
+mariachi	ethnic music
+mariachi	tune
+mariachi	ensemble
+mariachi	popular music
+mariachi	popular music genre
+mariachi	genre
+mariachi	musical style
+mariachi	style
+mariachi	music genre
+mariachi	musical composition
+mariachi	composition
+mariachi	piece of music
+mariachi	piece
+mariachi	opus
+mariachi	band
+mariachi	musical group
+mariachi	group
+mariachi	musical organization
+mariachi	organization
+mariachi	music group
+mariachi	musical work
+mariachi	work
+mariachi	work of art
+mariachi	latin music
+gigue	traditional music
+gigue	music
+gigue	folk
+gigue	folkie
+gigue	folk music
+gigue	ethnic music
+gigue	tune
+gigue	baroque dance
+gigue	dance
+gigue	dance music
+gigue	folk dance
+gigue	folk dancing
+gigue	popular music
+gigue	popular music genre
+gigue	genre
+gigue	musical style
+gigue	style
+gigue	music genre
+gigue	musical composition
+gigue	composition
+gigue	piece of music
+gigue	piece
+gigue	opus
+gigue	dancing
+gigue	social dance
+gigue	ballroom dance
+gigue	ballroom
+gigue	social dancing
+gigue	musical work
+gigue	work
+gigue	performing arts
+gigue	art
+gigue	flick
+gigue	work of art
+gigue	show
+gigue	classical
+vamp	backup band
+vamp	band
+vamp	musical accompaniment
+vamp	accompaniment
+vamp	support
+vamp	backup
+vamp	musical group
+vamp	group
+vamp	musical organization
+vamp	organization
+vamp	music group
+vamp	voice
+vamp	bandmember
+vamp	rock group
+vamp	rock band
+vamp	team
+vamp	air
+vamp	strain
+vamp	melodic line
+vamp	line
+vamp	melodic phrase
+vamp	phrase
+vamp	melody
+vamp	tune
+vamp	musical work
+vamp	work
+vamp	work of art
+orchestra	musical group
+orchestra	group
+orchestra	musical organization
+orchestra	organization
+chant	religious song
+chant	song
+chant	vocalizing
+chant	singer
+chant	singing
+chant	vocalist
+chant	church music
+chant	music
+chant	religious music
+chant	vocal
+chant	track
+chant	human voice
+chant	voice
+chant	vocal music
+chant	musical performance
+chant	performance
+chant	christian music
+chant	musical style
+chant	style
+chant	music genre
+chant	genre
+chant	musical composition
+chant	composition
+chant	piece of music
+chant	piece
+chant	opus
+chant	speech
+chant	spoken language
+chant	language
+chant	performing arts
+chant	art
+chant	musical work
+chant	work
+chant	human language
+chant	demonstration
+chant	presentation
+chant	work of art
+chant	show
+monophony	texture
+monophony	musicality
+chanting	vocalizing
+chanting	singer
+chanting	singing
+chanting	vocalist
+chanting	vocal music
+chanting	music
+chanting	musical performance
+chanting	performance
+chanting	speech
+chanting	spoken language
+chanting	language
+chanting	performing arts
+chanting	art
+chanting	human language
+chanting	demonstration
+chanting	presentation
+chanting	show
+minstrelsy	ballad
+minstrelsy	lay
+minstrelsy	verse
+minstrelsy	verse line
+minstrelsy	line
+minstrelsy	musical style
+minstrelsy	style
+minstrelsy	music genre
+minstrelsy	genre
+minstrelsy	vocal
+minstrelsy	song
+minstrelsy	track
+minstrelsy	human voice
+minstrelsy	voice
+minstrelsy	musical composition
+minstrelsy	composition
+minstrelsy	piece of music
+minstrelsy	piece
+minstrelsy	opus
+minstrelsy	text
+minstrelsy	musical work
+minstrelsy	work
+minstrelsy	work of art
+ethnic music	popular music
+ethnic music	popular music genre
+ethnic music	musical style
+ethnic music	music genre
+ethnic music	musical composition
+ethnic music	piece of music
+ethnic music	opus
+ethnic music	composition
+ethnic music	musical work
+ethnic music	work of art
+east coast	music genre
+coast	genre
+east coast	musical style
+coast	style
+hornpipe	dance
+hornpipe	dance music
+hornpipe	music
+hornpipe	instrument
+hornpipe	musical instrument
+hornpipe	aerophone
+singer-songwriter	alternative rock
+singer-songwriter	rock
+singer-songwriter	pop
+singer-songwriter	music genre
+singer-songwriter	genre
+singer-songwriter	musical style
+singer-songwriter	style
+dance music	popular music
+dance music	popular music genre
+dance music	musical style
+dance music	music genre
+foreword	introduction
+fanfare	air
+fanfare	strain
+fanfare	melodic line
+fanfare	line
+fanfare	melodic phrase
+fanfare	phrase
+fanfare	melody
+fanfare	tune
+fanfare	musical work
+fanfare	work
+fanfare	work of art
+progressive rock	rock and roll
+progressive rock	rock music
+progressive rock	rock-and-roll
+progressive rock	rock
+progressive rock	rock'n'roll
+progressive rock	musical style
+progressive rock	music genre
+progressive rock	popular music
+progressive rock	popular music genre
+progressive rock	progressive
+rock	progressive
+west coast	music genre
+west coast	musical style
+vocal jazz	jazz
+vocal jazz	music genre
+vocal jazz	musical style
+rock music	popular music
+rock music	popular music genre
+rock music	musical style
+rock music	music genre
+leitmotiv	musical work
+leitmotiv	work
+leitmotiv	air
+leitmotiv	strain
+leitmotiv	melodic line
+leitmotiv	line
+leitmotiv	melodic phrase
+leitmotiv	phrase
+leitmotiv	melody
+leitmotiv	tune
+leitmotiv	work of art
+carioca	dance
+carioca	dance music
+carioca	music
+carioca	popular music
+carioca	popular music genre
+carioca	genre
+carioca	musical style
+carioca	style
+carioca	vocal
+carioca	song
+carioca	track
+carioca	human voice
+carioca	voice
+carioca	ballroom dancing
+carioca	dancing
+carioca	social dance
+carioca	ballroom dance
+carioca	ballroom
+carioca	music genre
+carioca	musical composition
+carioca	composition
+carioca	piece of music
+carioca	piece
+carioca	opus
+carioca	partner dance
+carioca	social dancing
+carioca	musical work
+carioca	work
+carioca	performing arts
+carioca	art
+carioca	flick
+carioca	work of art
+carioca	show
+cadence	musical passage
+cadence	passage
+cadence	musical composition
+cadence	piece of music
+cadence	musical work
+cadence	work of art
+rave	critique
+rave	critical review
+rave	review
+rave	party
+rave	electronic dance music
+rave	music
+rave	house music
+rave	dance
+rave	social
+rave	occasion
+rave	group event
+rave	event
+rave	electronic music
+rave	dance music
+rave	musical style
+rave	style
+rave	music genre
+rave	genre
+rave	music technology
+rave	technology
+mandolin	lute
+mandolin	instrument
+mandolin	musical instrument
+mandolin	plucked instrument
+mandolin	plucked string instrument
+mandolin	stringed instrument
+mandolin	string instrument
+music box	instrument
+box	instrument
+music box	musical instrument
+music box	idiophone
+box	idiophone
+heavy metal music	rock and roll
+music	rock
+heavy metal music	rock music
+heavy metal music	rock-and-roll
+music	rock-and-roll
+heavy metal music	rock
+heavy metal music	rock'n'roll
+music	rock'n'roll
+heavy metal music	musical style
+heavy metal music	music genre
+heavy metal music	popular music
+heavy metal music	popular music genre
+gospel singing	traditional music
+gospel singing	folk
+singing	folk
+gospel singing	folkie
+singing	folkie
+gospel singing	folk music
+gospel singing	ethnic music
+gospel singing	tune
+singing	tune
+gospel singing	musical style
+gospel singing	music genre
+gospel singing	popular music
+gospel singing	popular music genre
+gospel singing	musical composition
+singing	composition
+gospel singing	piece of music
+singing	piece
+gospel singing	opus
+singing	opus
+gospel singing	composition
+gospel singing	musical work
+singing	work
+gospel singing	work of art
+misquote	quote
+misquote	citation
+misquote	quotation
+misquote	extract
+misquote	selection
+misquote	excerpt
+misquote	text
+misquote	passage
+intro	musical passage
+intro	passage
+intro	musical composition
+intro	composition
+intro	piece of music
+intro	piece
+intro	opus
+intro	musical work
+intro	work
+intro	work of art
+oldies	pop
+oldie	pop
+oldies	music genre
+oldie	genre
+oldies	musical style
+oldie	style
+gong	idiophone
+gong	instrument
+gong	musical instrument
+modern blues	blues
+modern blues	music genre
+modern blues	musical style
+trios	chamber music
+trio	music
+trios	classical
+trio	classical
+trios	music genre
+trio	genre
+trios	musical style
+trio	style
+triangle	percussion
+triangle	percussive instrument
+triangle	instrument
+triangle	percussion instrument
+triangle	musical instrument
+triangle	idiophone
+jazz	popular music
+jazz	popular music genre
+jazz	musical style
+jazz	music genre
+jazz	dance
+jazz	dance music
+britpop	music genre
+britpop	genre
+britpop	musical style
+britpop	style
+britpop	pop
+britpop	movement
+britpop	cultural movement
+britpop	alternative rock
+britpop	rock
+microphone	chamber music
+microphone	music
+microphone	classical
+microphone	music genre
+microphone	genre
+microphone	musical style
+microphone	style
+steel drums	idiophone
+drum	idiophone
+steel drums	instrument
+steel drums	musical instrument
+clarinette basse	instrument
+basse	instrument
+clarinette basse	musical instrument
+clarinette basse	aerophone
+basse	aerophone
+acid rock	rock and roll
+acid rock	rock music
+acid rock	rock-and-roll
+acid rock	rock
+acid rock	rock'n'roll
+acid rock	popular music
+acid rock	popular music genre
+acid rock	musical style
+acid rock	music genre
+strain	musical work
+strain	work
+strain	vocal music
+strain	music
+strain	work of art
+strain	speech
+strain	spoken language
+strain	language
+strain	human language
+orchestra bells	idiophone
+orchestra bells	instrument
+orchestra bells	musical instrument
+quotation	excerpt
+quotation	selection
+quotation	extract
+piece	musical work
+piece	work of art
+experimental rap	music genre
+experimental rap	musical style
+giro	idiophone
+giro	instrument
+giro	musical instrument
+chicago blues	blues
+chicago blues	regional blues
+chicago blues	music genre
+chicago blues	musical style
+coloratura	singing voice
+coloratura	voice
+coloratura	voice type
+coloratura	type
+coloratura	soprano
+coloratura	vocalizing
+coloratura	singer
+coloratura	singing
+coloratura	vocalist
+coloratura	vocalism
+coloratura	phonation
+coloratura	human voice
+coloratura	vocalization
+coloratura	vocalisation
+coloratura	voice quality
+coloratura	quality
+coloratura	vox
+coloratura	vocal music
+coloratura	music
+coloratura	musical performance
+coloratura	performance
+coloratura	musician
+coloratura	person
+coloratura	speech
+coloratura	spoken language
+coloratura	language
+coloratura	performing arts
+coloratura	art
+coloratura	human language
+coloratura	demonstration
+coloratura	presentation
+coloratura	show
+jamaican ska	reggae
+ska	reggae
+jamaican ska	music genre
+jamaican ska	musical style
+ska	style
+r and b	african-american music
+r	music
+r and b	black music
+r and b	popular music
+r and b	popular music genre
+r	genre
+r and b	musical style
+r	style
+ocarina	wind
+ocarina	wind instrument
+ocarina	instrument
+ocarina	musical instrument
+ocarina	aerophone
+madrigal	musical composition
+madrigal	composition
+madrigal	piece of music
+madrigal	piece
+madrigal	opus
+madrigal	14th century
+madrigal	century
+madrigal	choir
+madrigal	chorus
+madrigal	vocal
+madrigal	song
+madrigal	track
+madrigal	human voice
+madrigal	voice
+madrigal	musical work
+madrigal	work
+madrigal	work of art
+mazurka	dance
+mazurka	dance music
+mazurka	music
+mazurka	folk dance
+mazurka	folk dancing
+mazurka	folk
+mazurka	dancing
+mazurka	social dance
+mazurka	ballroom dance
+mazurka	ballroom
+mazurka	social dancing
+mazurka	musical work
+mazurka	work
+mazurka	performing arts
+mazurka	art
+mazurka	flick
+mazurka	work of art
+mazurka	show
+variation	theme
+variation	melodic theme
+variation	musical theme
+variation	air
+variation	strain
+variation	melodic line
+variation	line
+variation	melodic phrase
+variation	phrase
+variation	melody
+variation	tune
+variation	musical work
+variation	work
+variation	work of art
+new wave	musical style
+wave	style
+new wave	music genre
+wave	genre
+new wave	artistic movement
+wave	movement
+new wave	art movement
+new wave	front
+wave	front
+new wave	social movement
+new wave	movement
+new wave	proclivity
+wave	proclivity
+new wave	predisposition
+wave	predisposition
+new wave	propensity
+wave	propensity
+new wave	predilection
+wave	predilection
+new wave	tendency
+wave	tendency
+new wave	inclination
+wave	inclination
+new wave	social action
+wave	action
+new wave	sociology
+wave	sociology
+new wave	experiment
+wave	experiment
+new wave	experimentation
+wave	experimentation
+new wave	alternative rock
+wave	rock
+bass clarinet	instrument
+clarinet	instrument
+bass clarinet	musical instrument
+bass clarinet	clarinet
+bass clarinet	wood
+clarinet	wood
+bass clarinet	woodwind instrument
+bass clarinet	woodwind
+clarinet	woodwind
+bass clarinet	reed
+clarinet	reed
+bass clarinet	reed instrument
+bass clarinet	wind
+clarinet	wind
+bass clarinet	wind instrument
+bass clarinet	aerophone
+clarinet	aerophone
+sarabande	dance
+sarabande	dancing
+sarabande	musical work
+sarabande	work
+sarabande	performing arts
+sarabande	art
+sarabande	flick
+sarabande	work of art
+sarabande	show
+sarabande	classical
+sarabande	music genre
+sarabande	genre
+sarabande	musical style
+sarabande	style
+dub	sound
+dub	sensation
+dub	perception
+dub	reggae
+dub	music genre
+dub	genre
+dub	musical style
+dub	style
+european jazz	jazz
+european jazz	music genre
+european jazz	musical style
+sextets	chamber music
+sextet	music
+sextets	classical
+sextet	classical
+sextets	music genre
+sextet	genre
+sextets	musical style
+sextet	style
+marching music	musical work
+marching music	musical style
+marching music	music genre
+marching music	musical composition
+marching music	piece of music
+marching music	opus
+marching music	composition
+marching music	work of art
+anthem	religious song
+anthem	human voice
+anthem	church music
+anthem	religious music
+anthem	musical composition
+anthem	piece of music
+anthem	christian music
+anthem	musical style
+anthem	music genre
+anthem	musical work
+anthem	work of art
+cutting	excerpt
+cutting	selection
+cutting	extract
+military music	musical style
+military music	music genre
+military music	marching music
+military music	march
+military music	musical work
+military music	musical composition
+military music	piece of music
+military music	opus
+military music	composition
+military music	work of art
+popular music	musical style
+popular music	music genre
+classical music	musical style
+classical music	music genre
+mallet	drumstick
+mallet	stick
+mallet	implement
+duranguense	latin music
+duranguense	music
+duranguense	music genre
+duranguense	genre
+duranguense	musical style
+duranguense	style
+choral	musical work
+choral	work
+choral	hymn
+choral	anthem
+choral	work of art
+choral	religious song
+choral	song
+choral	vocal
+choral	track
+choral	human voice
+choral	voice
+choral	church music
+choral	music
+choral	religious music
+choral	musical composition
+choral	composition
+choral	piece of music
+choral	piece
+choral	opus
+choral	christian music
+choral	musical style
+choral	style
+choral	music genre
+choral	genre
+duette	musical composition
+duette	composition
+duette	piece of music
+duette	piece
+duette	opus
+duette	band
+duette	musical group
+duette	group
+duette	musical organization
+duette	organization
+duette	music group
+duette	musical work
+duette	work
+duette	work of art
+chorale	musical work
+chorale	work
+chorale	hymn
+chorale	anthem
+chorale	work of art
+chorale	religious song
+chorale	song
+chorale	vocal
+chorale	track
+chorale	human voice
+chorale	voice
+chorale	church music
+chorale	music
+chorale	religious music
+chorale	musical composition
+chorale	composition
+chorale	piece of music
+chorale	piece
+chorale	opus
+chorale	christian music
+chorale	musical style
+chorale	style
+chorale	music genre
+chorale	genre
+ska punk	musical style
+ska punk	music genre
+ska punk	alternative rock
+acoustic blues	blues
+acoustic blues	music genre
+acoustic blues	musical style
+cantata	musical work
+cantata	work
+cantata	classical
+cantata	classical music
+cantata	music
+cantata	serious music
+cantata	art music
+cantata	musical composition
+cantata	composition
+cantata	piece of music
+cantata	piece
+cantata	opus
+cantata	work of art
+cantata	musical style
+cantata	style
+cantata	music genre
+cantata	genre
+rockabilly	popular music
+rockabilly	music
+rockabilly	popular music genre
+rockabilly	genre
+rockabilly	musical style
+rockabilly	style
+rockabilly	rock and roll
+rockabilly	rock
+rockabilly	rock music
+rockabilly	rock-and-roll
+rockabilly	rock'n'roll
+rockabilly	music genre
+flute	instrument
+flute	musical instrument
+flute	aerophone
+gramophone	record player
+gramophone	player
+gramophone	media player
+techno	electronic dance music
+techno	music
+techno	dance
+techno	dance music
+techno	musical style
+techno	style
+techno	music genre
+techno	genre
+techno	electronic music
+techno	music technology
+techno	technology
+light opera	opera
+light opera	opera buffa
+opera	buffa
+light opera	bouffe
+opera	bouffe
+light opera	buffa
+light opera	buffo
+opera	buffo
+light opera	comic opera
+light opera	musical work
+light opera	musical theater
+light opera	drama
+light opera	dramatic play
+light opera	performing arts
+light opera	classical
+light opera	classical music
+light opera	serious music
+light opera	art music
+light opera	work of art
+light opera	theater
+light opera	theatre
+light opera	dramatics
+light opera	dramatic art
+light opera	musical style
+light opera	music genre
+light opera	fine arts
+concerto	classical music
+concerto	music
+concerto	serious music
+concerto	art music
+concerto	musical composition
+concerto	composition
+concerto	piece of music
+concerto	piece
+concerto	opus
+concerto	musical style
+concerto	style
+concerto	music genre
+concerto	musical work
+concerto	work
+concerto	work of art
+rondeau	verse
+rondeau	poetry
+rondeau	poesy
+rondeau	poem
+rondeau	verse form
+rondeau	form
+rondeau	classical
+rondeau	classical music
+rondeau	music
+rondeau	serious music
+rondeau	art music
+rondeau	literary work
+rondeau	work
+rondeau	musical style
+rondeau	style
+rondeau	music genre
+rondeau	genre
+voice part	voice
+voice part	air
+voice part	strain
+voice part	melodic line
+voice part	melodic phrase
+voice part	melody
+voice part	tune
+voice part	musical work
+voice part	work of art
+irish folk	folk
+irish folk	music genre
+irish folk	musical style
+conga	hand drum
+conga	drum
+conga	dance
+conga	dance music
+conga	music
+conga	membranophone
+conga	percussion
+conga	percussive instrument
+conga	instrument
+conga	percussion instrument
+conga	musical instrument
+vocal music	speech
+music	speech
+vocal music	spoken language
+music	language
+vocal music	language
+vocal music	human language
+neotraditional	country
+neotraditional	music genre
+neotraditional	genre
+neotraditional	musical style
+neotraditional	style
+octet	musical composition
+octet	composition
+octet	piece of music
+octet	piece
+octet	opus
+octet	band
+octet	musical group
+octet	group
+octet	musical organization
+octet	organization
+octet	music group
+octet	musical work
+octet	work
+octet	work of art
+polyphony	texture
+polyphony	musicality
+slapstick	idiophone
+slapstick	instrument
+slapstick	musical instrument
+riff	ostinato
+riff	phrase
+riff	musical phrase
+riff	motif
+riff	musical passage
+riff	passage
+riff	theme
+riff	melodic theme
+riff	musical theme
+riff	musical composition
+riff	composition
+riff	piece of music
+riff	piece
+riff	opus
+riff	air
+riff	strain
+riff	melodic line
+riff	line
+riff	melodic phrase
+riff	melody
+riff	tune
+riff	musical work
+riff	work
+xylophone	percussion
+xylophone	percussive instrument
+xylophone	instrument
+xylophone	percussion instrument
+xylophone	musical instrument
+xylophone	idiophone
+recital	live show
+recital	show
+recital	performance
+recital	public presentation
+recital	presentation
+recital	concert
+recital	group event
+recital	event
+pedal	musical instrument
+pedal	instrument
+contrabass clarinet	wind
+contrabass clarinet	wind instrument
+contrabass clarinet	instrument
+contrabass clarinet	musical instrument
+contrabass clarinet	aerophone
+rock opera	concept album
+opera	album
+rock opera	opera
+rock opera	rock and roll
+opera	rock
+rock opera	rock music
+rock opera	rock-and-roll
+opera	rock-and-roll
+rock opera	rock
+rock opera	rock'n'roll
+opera	rock'n'roll
+rock opera	album
+rock opera	record album
+rock opera	studio album
+rock opera	musical work
+rock opera	musical theater
+rock opera	drama
+rock opera	dramatic play
+rock opera	performing arts
+rock opera	classical
+rock opera	classical music
+rock opera	serious music
+rock opera	art music
+rock opera	popular music
+rock opera	popular music genre
+rock opera	musical style
+rock opera	music genre
+rock opera	audio signal
+opera	signal
+rock opera	medium
+opera	medium
+rock opera	work of art
+rock opera	theater
+rock opera	theatre
+rock opera	dramatics
+rock opera	dramatic art
+rock opera	signal
+rock opera	fine arts
+rock opera	storage
+opera	storage
+celesta	keyboard instrument
+celesta	instrument
+celesta	keyboard
+celesta	idiophone
+celesta	musical instrument
+metalhead	enthusiast
+metalhead	devotee
+metalhead	aficionado
+metalhead	fan
+metalhead	lover
+metalhead	buff
+metalhead	follower
+metalhead	person
+drinking song	vocal
+drinking song	song
+drinking song	track
+drinking song	human voice
+drinking song	musical composition
+drinking song	piece of music
+drinking song	opus
+drinking song	composition
+drinking song	musical work
+drinking song	work of art
+jump blues	blues
+jump blues	music genre
+jump blues	musical style
+dance	classical
+dance	music genre
+dance	musical style
+dance	style
+modern jazz	jazz
+modern jazz	musical style
+modern jazz	music genre
+modern jazz	popular music
+modern jazz	popular music genre
+basso continuo	bass part
+continuo	part
+basso continuo	bass
+continuo	bass
+basso continuo	voice
+continuo	voice
+basso continuo	air
+continuo	air
+basso continuo	strain
+continuo	strain
+basso continuo	melodic line
+continuo	line
+basso continuo	melodic phrase
+continuo	phrase
+basso continuo	melody
+continuo	melody
+basso continuo	tune
+continuo	tune
+basso continuo	musical work
+continuo	work
+basso continuo	work of art
+serialism	proficiency
+serialism	technique
+serialism	musical technique
+serialism	series
+serialism	work of art
+serialism	work
+serialism	state
+serialism	specifications
+serialism	specification
+kickdrum	drum
+kickdrum	membranophone
+kickdrum	percussion
+kickdrum	percussive instrument
+kickdrum	instrument
+kickdrum	percussion instrument
+kickdrum	musical instrument
+bugler	cornetist
+bugler	trumpeter
+bugler	musician
+bugler	person
+piano music	sheet music
+piano music	musical notation
+piano music	music notation
+piano music	musical composition
+piano music	piece of music
+piano music	opus
+piano music	composition
+piano music	musical work
+piano music	work of art
+timbales	drum
+timbale	drum
+timbales	membranophone
+timbale	membranophone
+timbales	percussion
+timbale	percussion
+timbales	percussive instrument
+timbale	instrument
+timbales	percussion instrument
+timbales	instrument
+timbales	musical instrument
+refrain	vocal
+refrain	song
+refrain	track
+refrain	human voice
+refrain	voice
+refrain	musical composition
+refrain	composition
+refrain	piece of music
+refrain	piece
+refrain	opus
+refrain	musical work
+refrain	work
+refrain	work of art
+continuo	bass part
+continuo	melodic line
+continuo	melodic phrase
+continuo	musical work
+continuo	work of art
+diminution	theme
+diminution	melodic theme
+diminution	musical theme
+diminution	air
+diminution	strain
+diminution	melodic line
+diminution	line
+diminution	melodic phrase
+diminution	phrase
+diminution	melody
+diminution	tune
+diminution	musical work
+diminution	work
+diminution	work of art
+drums	musical instrument
+drums	percussion instrument
+drums	instrument
+vocal	musical composition
+vocal	composition
+vocal	piece of music
+vocal	piece
+vocal	opus
+vocal	musical work
+vocal	work
+vocal	work of art
+tone poem	musical composition
+poem	composition
+tone poem	piece of music
+poem	piece
+tone poem	opus
+poem	opus
+tone poem	composition
+tone poem	musical work
+poem	work
+tone poem	work of art
+folk song	traditional music
+folk song	folk
+song	folk
+folk song	folkie
+song	folkie
+folk song	folk music
+folk song	ethnic music
+folk song	tune
+folk song	vocal
+folk song	song
+folk song	track
+folk song	human voice
+folk song	popular music
+folk song	popular music genre
+folk song	musical style
+folk song	music genre
+folk song	musical composition
+folk song	piece of music
+folk song	opus
+folk song	composition
+folk song	musical work
+folk song	work of art
+euro pop	pop
+euro	pop
+euro pop	music genre
+euro	genre
+euro pop	musical style
+euro	style
+vocal pop	pop
+vocal pop	music genre
+vocal pop	musical style
+double bass	viola da gamba
+bass	gamba
+double bass	viol
+bass	viol
+double bass	bass viol
+double bass	bowed string instrument
+bass	instrument
+double bass	string
+bass	string
+double bass	bowed instrument
+double bass	bass instrument
+double bass	bass
+double bass	stringed instrument
+double bass	string instrument
+double bass	instrument
+double bass	musical instrument
+progressive metal	musical style
+progressive metal	music genre
+progressive metal	rock
+progressive metal	progressive
+metal	progressive
+toccata	musical work
+toccata	work
+toccata	musical composition
+toccata	composition
+toccata	piece of music
+toccata	piece
+toccata	opus
+toccata	work of art
+church music	christian music
+church music	musical style
+church music	music genre
+bongo drum	percussion
+bongo drum	percussive instrument
+bongo drum	percussion instrument
+bongo drum	drum
+bongo drum	membranophone
+bongo drum	instrument
+bongo drum	musical instrument
+schottische	traditional music
+schottische	music
+schottische	folk
+schottische	folkie
+schottische	folk music
+schottische	ethnic music
+schottische	tune
+schottische	popular music
+schottische	popular music genre
+schottische	genre
+schottische	musical style
+schottische	style
+schottische	music genre
+schottische	musical composition
+schottische	composition
+schottische	piece of music
+schottische	piece
+schottische	opus
+schottische	musical work
+schottische	work
+schottische	work of art
+psalmody	vocalizing
+psalmody	singer
+psalmody	singing
+psalmody	vocalist
+psalmody	vocal music
+psalmody	music
+psalmody	musical performance
+psalmody	performance
+psalmody	speech
+psalmody	spoken language
+psalmody	language
+psalmody	performing arts
+psalmody	art
+psalmody	human language
+psalmody	demonstration
+psalmody	presentation
+psalmody	show
+traditional blues	blues
+traditional blues	music genre
+traditional blues	musical style
+signature tune	air
+tune	air
+signature tune	strain
+tune	strain
+signature tune	melodic line
+signature tune	melodic phrase
+tune	phrase
+signature tune	melody
+tune	melody
+signature tune	tune
+signature tune	musical composition
+tune	composition
+signature tune	piece of music
+tune	piece
+signature tune	opus
+tune	opus
+signature tune	composition
+signature tune	musical work
+signature tune	work of art
+epilogue	close
+epilogue	closing
+epilogue	conclusion
+epilogue	end
+epilogue	ending
+dithyramb	lecture
+dithyramb	speech
+dithyramb	talk
+dithyramb	musician
+dithyramb	person
+dithyramb	hymn
+dithyramb	anthem
+country	traditional music
+country	folk music
+country	ethnic music
+country	pop musician
+country	pop music
+country	musical style
+country	music genre
+country	popular music
+country	popular music genre
+country	musical composition
+country	piece of music
+country	musical work
+country	work of art
+psychedelic rock	rock and roll
+psychedelic rock	rock music
+psychedelic rock	rock-and-roll
+psychedelic rock	rock
+psychedelic rock	rock'n'roll
+psychedelic rock	popular music
+psychedelic rock	popular music genre
+psychedelic rock	musical style
+psychedelic rock	music genre
+psychedelic rock	classic rock
+choir	band
+choir	musical group
+choir	group
+choir	musical organization
+choir	organization
+choir	music group
+choir	rock group
+choir	rock band
+choir	team
+choir	gospel
+choir	music genre
+choir	genre
+choir	musical style
+choir	style
+neo-soul	music genre
+neo-soul	genre
+neo-soul	musical style
+neo-soul	style
+quadrille	dance
+quadrille	dancing
+quadrille	dance music
+quadrille	music
+quadrille	musical work
+quadrille	work
+quadrille	performing arts
+quadrille	art
+quadrille	flick
+quadrille	work of art
+quadrille	show
+partita	suite
+partita	variation
+partita	musical work
+partita	work
+partita	series
+partita	musical composition
+partita	composition
+partita	piece of music
+partita	piece
+partita	opus
+partita	theme
+partita	melodic theme
+partita	musical theme
+partita	work of art
+partita	air
+partita	strain
+partita	melodic line
+partita	line
+partita	melodic phrase
+partita	phrase
+partita	melody
+partita	tune
+psalm	music genre
+psalm	genre
+psalm	musical style
+psalm	style
+modulation	musical passage
+modulation	passage
+modulation	musical composition
+modulation	composition
+modulation	piece of music
+modulation	piece
+modulation	opus
+modulation	musical work
+modulation	work
+modulation	work of art
+psytrance	electronic music
+psytrance	music
+psytrance	trance
+psytrance	trance music
+psytrance	musical style
+psytrance	style
+psytrance	music genre
+psytrance	genre
+psytrance	music technology
+psytrance	technology
+psytrance	electronic dance music
+psytrance	dance
+psytrance	dance music
+mezzo-soprano	singing voice
+mezzo-soprano	voice
+mezzo-soprano	voice type
+mezzo-soprano	type
+mezzo-soprano	soprano
+mezzo-soprano	vocalism
+mezzo-soprano	phonation
+mezzo-soprano	human voice
+mezzo-soprano	vocalization
+mezzo-soprano	vocalisation
+mezzo-soprano	voice quality
+mezzo-soprano	quality
+mezzo-soprano	vox
+mezzo-soprano	singer
+mezzo-soprano	vocalist
+mezzo-soprano	musician
+mezzo-soprano	person
+lament	musical work
+lament	work
+lament	work of art
+lament	performance
+lament	audio signal
+lament	signal
+lament	medium
+lament	vocal
+concert grand piano	piano
+concert grand piano	instrument
+concert grand piano	musical instrument
+rebec	instrument
+rebec	musical instrument
+euphonium	brass
+euphonium	brass instrument
+euphonium	instrument
+euphonium	sousaphone
+euphonium	serpent
+euphonium	tuba
+euphonium	musical instrument
+euphonium	wind
+euphonium	wind instrument
+euphonium	bass instrument
+euphonium	bass
+euphonium	aerophone
+potpourri	musical composition
+potpourri	composition
+potpourri	piece of music
+potpourri	piece
+potpourri	opus
+potpourri	musical work
+potpourri	work
+potpourri	work of art
+musical arrangement	musical composition
+musical arrangement	piece of music
+musical arrangement	opus
+musical arrangement	composition
+musical arrangement	musical work
+musical arrangement	work of art
+hot jazz	jazz
+hot jazz	popular music
+hot jazz	popular music genre
+hot jazz	musical style
+hot jazz	music genre
+capriccio	musical composition
+capriccio	composition
+capriccio	piece of music
+capriccio	piece
+capriccio	opus
+capriccio	musical work
+capriccio	work
+capriccio	work of art
+polonaise	classical
+polonaise	music genre
+polonaise	genre
+polonaise	musical style
+polonaise	style
+amplifier	electronic equipment
+amplifier	equipment
+amplifier	electronic device
+amplifier	device
+invention	classical
+invention	music genre
+invention	genre
+invention	musical style
+invention	style
+accompaniment	musical group
+accompaniment	musical organization
+accompaniment	music group
+accompaniment	rock group
+accompaniment	rock band
+accompaniment	melodic line
+accompaniment	melodic phrase
+accompaniment	musical work
+accompaniment	work of art
+accompaniment	music genre
+accompaniment	genre
+accompaniment	musical style
+accompaniment	style
+dance hall	reggae
+hall	reggae
+dance hall	music genre
+hall	genre
+dance hall	musical style
+hall	style
+trip-hop	music genre
+trip-hop	genre
+trip-hop	musical style
+trip-hop	style
+vocal harmony	vocal music
+harmony	music
+vocal harmony	harmony
+vocal harmony	musical harmony
+vocal harmony	speech
+harmony	speech
+vocal harmony	spoken language
+harmony	language
+vocal harmony	language
+vocal harmony	chord
+vocal harmony	human language
+vocal harmony	note
+vocal harmony	tone
+vocal harmony	musical note
+vocal harmony	musical notation
+vocal harmony	music notation
+orchestration	musical arrangement
+orchestration	arrangement
+orchestration	instrument
+orchestration	musical instrument
+orchestration	arranging
+orchestration	transcription
+orchestration	musical composition
+orchestration	composition
+orchestration	piece of music
+orchestration	piece
+orchestration	opus
+orchestration	composing
+orchestration	musical work
+orchestration	work
+orchestration	work of art
+part	melodic line
+part	melodic phrase
+part	musical work
+part	work of art
+metal	musical style
+metal	music genre
+metal	popular music
+metal	popular music genre
+stride piano	jazz
+piano	jazz
+stride piano	music genre
+piano	genre
+stride piano	musical style
+piano	style
+nocturne	musical work
+nocturne	work
+nocturne	musical composition
+nocturne	composition
+nocturne	piece of music
+nocturne	piece
+nocturne	opus
+nocturne	work of art
+bassoon	double reed
+bassoon	reed
+bassoon	wood
+bassoon	woodwind instrument
+bassoon	instrument
+bassoon	woodwind
+bassoon	reed instrument
+bassoon	musical instrument
+bassoon	wind
+bassoon	wind instrument
+bassoon	aerophone
+renaissance music	vocal music
+renaissance music	instrumental music
+doo-wop	gospel singing
+doo-wop	singing
+doo-wop	gospel
+doo-wop	gospel music
+doo-wop	music
+doo-wop	traditional music
+doo-wop	folk
+doo-wop	folkie
+doo-wop	folk music
+doo-wop	ethnic music
+doo-wop	tune
+doo-wop	musical style
+doo-wop	style
+doo-wop	music genre
+doo-wop	genre
+doo-wop	popular music
+doo-wop	popular music genre
+doo-wop	musical composition
+doo-wop	composition
+doo-wop	piece of music
+doo-wop	piece
+doo-wop	opus
+doo-wop	musical work
+doo-wop	work
+doo-wop	work of art
+rhythm and blues	popular music
+rhythm	music
+rhythm and blues	popular music genre
+rhythm	genre
+rhythm and blues	musical style
+rhythm	style
+rhythm and blues	african-american music
+rhythm and blues	black music
+rhythm and blues	music genre
+bass	musical notation
+bass	notation
+bass	music notation
+bass	pitch
+bass	musical instrument
+bass	singer
+bass	vocalist
+bass	singing voice
+bass	voice type
+bass	type
+bass	head voice
+bass	male voice
+bass	human voice
+bass	head register
+bass	register
+bass	vocalism
+bass	phonation
+bass	vocalization
+bass	vocalisation
+bass	voice quality
+bass	quality
+bass	vox
+bass	vocal
+bass	song
+bass	track
+bass	melodic line
+bass	melodic phrase
+bass	musician
+bass	musical composition
+bass	piece of music
+bass	musical work
+bass	ambit
+bass	range
+bass	compass
+bass	scope
+bass	tessitura
+bass	timbre
+bass	tone
+bass	timber
+bass	work of art
+bass	extent
+bass	specifications
+bass	specification
+bass	person
+bass	magnitude
+bass	music genre
+bass	genre
+bass	musical style
+bass	style
+caroling	vocalizing
+caroling	singer
+caroling	singing
+caroling	vocalist
+caroling	vocal music
+caroling	music
+caroling	musical performance
+caroling	performance
+caroling	speech
+caroling	spoken language
+caroling	language
+caroling	performing arts
+caroling	art
+caroling	human language
+caroling	demonstration
+caroling	presentation
+caroling	show
+chanson	song
+chanson	musical work
+chanson	work
+chanson	work of art
+chanson	performance
+chanson	audio signal
+chanson	signal
+chanson	medium
+plainchant	chant
+plainchant	choral
+plainchant	chorale
+plainchant	religious song
+plainchant	song
+plainchant	vocalizing
+plainchant	singing
+plainchant	musical work
+plainchant	work
+plainchant	hymn
+plainchant	anthem
+plainchant	church music
+plainchant	music
+plainchant	religious music
+plainchant	vocal
+plainchant	track
+plainchant	human voice
+plainchant	voice
+plainchant	vocal music
+plainchant	musical performance
+plainchant	performance
+plainchant	work of art
+plainchant	christian music
+plainchant	musical style
+plainchant	style
+plainchant	music genre
+plainchant	genre
+plainchant	musical composition
+plainchant	composition
+plainchant	piece of music
+plainchant	piece
+plainchant	opus
+plainchant	speech
+plainchant	spoken language
+plainchant	language
+plainchant	performing arts
+plainchant	art
+plainchant	human language
+plainchant	demonstration
+plainchant	presentation
+cover song	recording
+song	recording
+cover song	live show
+song	show
+cover song	performance
+song	performance
+cover song	concert
+song	concert
+cover song	public presentation
+song	presentation
+cover song	show
+cover song	group event
+song	event
+krautrock	alternative rock
+krautrock	rock
+krautrock	electronic music
+krautrock	music
+krautrock	music genre
+krautrock	genre
+krautrock	musical style
+krautrock	style
+passion	music genre
+passion	genre
+passion	musical style
+passion	style
+bass guitar	stringed instrument
+bass guitar	string instrument
+bass guitar	guitar
+bass guitar	plucked instrument
+bass guitar	plucked string instrument
+bass guitar	bass instrument
+bass guitar	bass
+guitar	bass
+bass guitar	instrument
+bass guitar	musical instrument
+antiphony	responsory
+antiphony	church music
+antiphony	music
+antiphony	religious music
+antiphony	chant
+antiphony	christian music
+antiphony	musical style
+antiphony	style
+antiphony	music genre
+antiphony	genre
+antiphony	religious song
+antiphony	song
+antiphony	vocalizing
+antiphony	singer
+antiphony	singing
+antiphony	vocalist
+antiphony	vocal
+antiphony	track
+antiphony	human voice
+antiphony	voice
+antiphony	vocal music
+antiphony	musical performance
+antiphony	performance
+antiphony	musical composition
+antiphony	composition
+antiphony	piece of music
+antiphony	piece
+antiphony	opus
+antiphony	speech
+antiphony	spoken language
+antiphony	language
+antiphony	performing arts
+antiphony	art
+paean	hymn
+paean	anthem
+paean	musical work
+paean	work
+paean	work of art
+paean	performance
+paean	audio signal
+paean	signal
+paean	medium
+lo-fi	alternative rock
+lo-fi	rock
+lo-fi	music genre
+lo-fi	genre
+lo-fi	musical style
+lo-fi	style
+excerpt	passage
+excerpt	musical work
+excerpt	work
+excerpt	work of art
+excerpt	performance
+excerpt	audio signal
+excerpt	signal
+excerpt	medium
+lyricism	expression
+lyricism	ebullience
+lyricism	exuberance
+lyricism	enthusiasm
+lyricism	musicality
+outlaw country	musical style
+outlaw country	music genre
+outlaw country	country
+latin music	music genre
+latin music	musical style
+punk-pop	alternative rock
+punk-pop	rock
+punk-pop	punk rock
+punk-pop	punk
+punk-pop	pop
+punk-pop	music genre
+punk-pop	genre
+punk-pop	musical style
+punk-pop	style
+ground	variations
+ground	variation
+ground	classical
+ground	music genre
+ground	genre
+ground	musical style
+ground	style
+samba	dance
+samba	dancing
+samba	dance music
+samba	music
+samba	musical style
+samba	style
+samba	music genre
+samba	genre
+samba	musical work
+samba	work
+samba	performing arts
+samba	art
+samba	flick
+samba	work of art
+samba	show
+samba	latin music
+canticle	hymn
+canticle	anthem
+canticle	vocalizing
+canticle	singer
+canticle	singing
+canticle	vocalist
+canticle	vocal
+canticle	song
+canticle	track
+canticle	human voice
+canticle	voice
+canticle	religious song
+canticle	vocal music
+canticle	music
+canticle	musical performance
+canticle	performance
+canticle	musical composition
+canticle	composition
+canticle	piece of music
+canticle	piece
+canticle	opus
+canticle	church music
+canticle	religious music
+canticle	speech
+canticle	spoken language
+canticle	language
+canticle	performing arts
+canticle	art
+canticle	musical work
+canticle	work
+canticle	christian music
+canticle	musical style
+canticle	style
+canticle	music genre
+canticle	genre
+canticle	human language
+canticle	demonstration
+canticle	presentation
+canticle	work of art
+canticle	show
+grate	noise
+grate	sound
+lied	vocal
+lied	song
+lied	track
+lied	human voice
+lied	voice
+lied	musical composition
+lied	composition
+lied	piece of music
+lied	piece
+lied	opus
+lied	musical work
+lied	work
+lied	work of art
+songbook	book
+songbook	medium
+songbook	opera
+songbook	piece of work
+songbook	piece
+songbook	storage
+scottish folk	folk
+scottish folk	music genre
+scottish folk	musical style
+classic country	country
+classic country	music genre
+classic country	musical style
+musical passage	musical composition
+musical passage	piece of music
+musical passage	opus
+musical passage	composition
+musical passage	musical work
+musical passage	work of art
+kithara	instrument
+kithara	musical instrument
+instrumental	recording
+instrumental	musical composition
+instrumental	composition
+instrumental	piece of music
+instrumental	piece
+instrumental	opus
+instrumental	musical work
+instrumental	work
+instrumental	work of art
+instrumental	new age
+instrumental	age
+instrumental	country
+instrumental	gospel
+instrumental	music genre
+instrumental	genre
+instrumental	musical style
+instrumental	style
+house	electronic dance music
+house	music
+house	musical style
+house	style
+house	music genre
+house	genre
+house	electronic music
+house	dance
+house	dance music
+house	music technology
+house	technology
+sitar	lute
+sitar	stringed instrument
+sitar	instrument
+sitar	string instrument
+sitar	plucked instrument
+sitar	plucked string instrument
+sitar	musical instrument
+recorder	equipment
+recorder	electronic device
+recorder	device
+recorder	transverse flute
+recorder	flute
+recorder	pipe
+recorder	instrument
+recorder	musical instrument
+recorder	wood
+recorder	woodwind instrument
+recorder	woodwind
+recorder	wind
+recorder	wind instrument
+recorder	aerophone
+train whistle	instrument
+train whistle	musical instrument
+train whistle	aerophone
+easy listening	pop
+listening	pop
+easy listening	music genre
+listening	genre
+easy listening	musical style
+listening	style
+chanty	work song
+chanty	song
+chanty	vocal
+chanty	track
+chanty	human voice
+chanty	voice
+chanty	musical composition
+chanty	composition
+chanty	piece of music
+chanty	piece
+chanty	opus
+chanty	musical work
+chanty	work
+chanty	work of art
+progressive	rock and roll
+progressive	rock
+progressive	rock music
+progressive	music
+progressive	rock-and-roll
+progressive	rock'n'roll
+progressive	musical style
+progressive	style
+progressive	music genre
+progressive	genre
+progressive	popular music
+progressive	popular music genre
+ballet	classical
+ballet	music genre
+ballet	genre
+ballet	musical style
+ballet	style
+symphonic poem	musical composition
+symphonic poem	piece of music
+symphonic poem	opus
+symphonic poem	composition
+symphonic poem	musical work
+symphonic poem	work of art
+ragtime	dance
+ragtime	dance music
+ragtime	music
+ragtime	musical style
+ragtime	style
+ragtime	music genre
+ragtime	genre
+ragtime	jazz
+glissando	air
+glissando	strain
+glissando	melodic line
+glissando	line
+glissando	melodic phrase
+glissando	phrase
+glissando	melody
+glissando	tune
+glissando	musical work
+glissando	work
+glissando	work of art
+march	musical work
+march	work
+march	musical style
+march	style
+march	music genre
+march	genre
+march	musical composition
+march	composition
+march	piece of music
+march	piece
+march	opus
+march	work of art
+reel	dance
+reel	dance music
+reel	music
+reel	square dance
+reel	square dancing
+reel	square
+reel	dancing
+reel	contra dance
+reel	contredanse
+reel	country dance
+reel	contradance
+reel	musical work
+reel	work
+reel	performing arts
+reel	art
+reel	flick
+reel	folk dance
+reel	folk dancing
+reel	folk
+reel	work of art
+reel	show
+reel	social dance
+reel	ballroom dance
+reel	ballroom
+reel	social dancing
+realisation	musical composition
+realisation	composition
+realisation	piece of music
+realisation	piece
+realisation	opus
+realisation	composing
+realisation	musical work
+realisation	work
+realisation	work of art
+allegro	musical passage
+allegro	passage
+allegro	musical composition
+allegro	composition
+allegro	piece of music
+allegro	piece
+allegro	opus
+allegro	tempo
+allegro	pacing
+allegro	musical work
+allegro	work
+allegro	musical time
+allegro	time
+allegro	work of art
+allegro	specifications
+allegro	specification
+garage rock	rock and roll
+garage rock	rock music
+garage rock	rock-and-roll
+garage rock	rock
+garage rock	rock'n'roll
+garage rock	musical style
+garage rock	music genre
+garage rock	popular music
+garage rock	popular music genre
+epistle	book
+ambient	electronic music
+ambient	music
+ambient	musical style
+ambient	style
+ambient	music genre
+ambient	genre
+ambient	music technology
+ambient	technology
+cacophony	noise
+cacophony	sound
+harmonica	instrument
+harmonica	musical instrument
+harmonica	aerophone
+contemporary folk	folk
+contemporary folk	music genre
+contemporary folk	musical style
+conductor	leader
+conductor	musician
+conductor	person
+goth	subculture
+goth	rock and roll
+goth	rock
+goth	rock music
+goth	music
+goth	rock-and-roll
+goth	rock'n'roll
+goth	musical style
+goth	style
+goth	music genre
+goth	genre
+goth	popular music
+goth	popular music genre
+goth	alternative rock
+alphorn	brass
+alphorn	brass instrument
+alphorn	instrument
+alphorn	musical instrument
+alphorn	wind
+alphorn	wind instrument
+alphorn	aerophone
+threnody	musical work
+threnody	work
+threnody	musical composition
+threnody	composition
+threnody	piece of music
+threnody	piece
+threnody	opus
+threnody	hymn
+threnody	anthem
+threnody	soulfulness
+threnody	vocal
+threnody	song
+threnody	track
+threnody	human voice
+threnody	voice
+threnody	work of art
+threnody	religious ceremony
+threnody	ceremony
+threnody	religious ritual
+threnody	cult
+threnody	religious song
+threnody	psyche
+threnody	mind
+threnody	nous
+threnody	organized religion
+threnody	religion
+threnody	church music
+threnody	music
+threnody	religious music
+threnody	christian music
+threnody	musical style
+threnody	style
+threnody	music genre
+threnody	genre
+oboe	instrument
+oboe	musical instrument
+oboe	double reed
+oboe	reed
+oboe	wood
+oboe	woodwind instrument
+oboe	woodwind
+oboe	reed instrument
+oboe	wind
+oboe	wind instrument
+oboe	aerophone
+trio	band
+trio	musical group
+trio	group
+trio	musical organization
+trio	organization
+trio	music group
+trio	bandmember
+trio	rock group
+trio	rock band
+trio	team
+trio	musical composition
+trio	composition
+trio	piece of music
+trio	piece
+trio	opus
+trio	musical work
+trio	work
+trio	work of art
+baton	stick
+tenor	male voice
+tenor	voice
+tenor	singing voice
+tenor	singer
+tenor	person
+bel canto	vocalizing
+canto	vocalizing
+bel canto	singer
+canto	singer
+bel canto	singing
+canto	singing
+bel canto	vocalist
+canto	vocalist
+bel canto	vocal music
+canto	music
+bel canto	musical performance
+canto	performance
+bel canto	speech
+canto	speech
+bel canto	spoken language
+canto	language
+bel canto	language
+bel canto	performance
+bel canto	performing arts
+canto	art
+bel canto	human language
+bel canto	demonstration
+canto	demonstration
+bel canto	presentation
+canto	presentation
+bel canto	show
+canto	show
+musette	bagpipes
+musette	bagpipe
+musette	instrument
+musette	musical instrument
+musette	pipe
+musette	wind
+musette	wind instrument
+musette	aerophone
+duo	band
+duo	musical group
+duo	group
+duo	musical organization
+duo	organization
+duo	music group
+duo	musical composition
+duo	composition
+duo	piece of music
+duo	piece
+duo	opus
+duo	musical work
+duo	work
+duo	work of art
+guitar	stringed instrument
+guitar	string instrument
+guitar	plucked instrument
+guitar	plucked string instrument
+guitar	musical instrument
+medley	musical composition
+medley	composition
+medley	piece of music
+medley	piece
+medley	opus
+medley	musical work
+medley	work
+medley	work of art
+roots rock	rock and roll
+roots rock	rock music
+roots rock	rock-and-roll
+roots rock	rock
+roots rock	rock'n'roll
+roots rock	musical style
+roots rock	music genre
+roots rock	popular music
+roots rock	popular music genre
+prologue	introduction
+prologue	musical work
+prologue	work
+prologue	work of art
+prologue	performance
+prologue	audio signal
+prologue	signal
+prologue	medium
+ligature	phrase
+ligature	musical phrase
+pavane	dance
+pavane	dance music
+pavane	music
+pavane	music genre
+pavane	genre
+pavane	musical style
+pavane	style
+love song	vocal
+love song	song
+love song	track
+love song	human voice
+love song	musical composition
+love song	piece of music
+love song	opus
+love song	composition
+love song	musical work
+love song	work of art
+glam rock	rock and roll
+glam rock	rock music
+glam rock	rock-and-roll
+glam rock	rock
+glam rock	rock'n'roll
+glam rock	pop musician
+rock	musician
+glam rock	pop music
+glam rock	pop
+glam rock	musical style
+glam rock	music genre
+glam rock	popular music
+glam rock	popular music genre
+flugelhorn	brass
+flugelhorn	brass instrument
+flugelhorn	instrument
+flugelhorn	musical instrument
+flugelhorn	wind
+flugelhorn	wind instrument
+flugelhorn	aerophone
+kwela	dance
+kwela	dance music
+kwela	music
+kwela	music genre
+kwela	genre
+kwela	musical style
+kwela	style
+acoustic guitar	guitar
+acoustic guitar	stringed instrument
+acoustic guitar	string instrument
+acoustic guitar	plucked instrument
+acoustic guitar	plucked string instrument
+acoustic guitar	instrument
+acoustic guitar	musical instrument
+transverse flute	flute
+transverse flute	pipe
+flute	pipe
+transverse flute	instrument
+transverse flute	musical instrument
+transverse flute	wood
+flute	wood
+transverse flute	woodwind instrument
+transverse flute	woodwind
+flute	woodwind
+transverse flute	wind
+flute	wind
+transverse flute	wind instrument
+transverse flute	aerophone
+bugle	instrument
+bugle	musical instrument
+bugle	aerophone
+religious music	musical style
+religious music	music genre
+tenor drum	drum
+tenor drum	membranophone
+tenor drum	percussion
+tenor drum	percussive instrument
+tenor drum	percussion instrument
+tenor drum	instrument
+tenor drum	musical instrument
+dirge	musical work
+dirge	work
+dirge	musical composition
+dirge	composition
+dirge	piece of music
+dirge	piece
+dirge	opus
+dirge	hymn
+dirge	anthem
+dirge	soulfulness
+dirge	vocal
+dirge	song
+dirge	track
+dirge	human voice
+dirge	voice
+dirge	work of art
+dirge	religious ceremony
+dirge	ceremony
+dirge	religious ritual
+dirge	cult
+dirge	religious song
+dirge	psyche
+dirge	mind
+dirge	nous
+dirge	organized religion
+dirge	religion
+dirge	church music
+dirge	music
+dirge	religious music
+dirge	christian music
+dirge	musical style
+dirge	style
+dirge	music genre
+dirge	genre
+idm	music genre
+idm	genre
+idm	musical style
+idm	style
+idm	popular music
+idm	music
+idm	popular music genre
+intermezzo	opera
+intermezzo	musical composition
+intermezzo	composition
+intermezzo	piece of music
+intermezzo	piece
+intermezzo	opus
+intermezzo	movement
+intermezzo	musical work
+intermezzo	work
+intermezzo	musical theater
+intermezzo	theater
+intermezzo	drama
+intermezzo	dramatic play
+intermezzo	play
+intermezzo	performing arts
+intermezzo	art
+intermezzo	classical
+intermezzo	classical music
+intermezzo	music
+intermezzo	serious music
+intermezzo	art music
+intermezzo	work of art
+intermezzo	theatre
+intermezzo	dramatics
+intermezzo	dramatic art
+intermezzo	musical style
+intermezzo	style
+intermezzo	music genre
+intermezzo	genre
+intermezzo	fine arts
+military march	musical style
+military march	music genre
+military march	marching music
+march	music
+military march	march
+military march	musical work
+military march	musical composition
+military march	piece of music
+military march	opus
+military march	composition
+military march	work of art
+divertimento	musical style
+divertimento	style
+divertimento	music genre
+divertimento	genre
+divertimento	musical composition
+divertimento	composition
+divertimento	piece of music
+divertimento	piece
+divertimento	opus
+divertimento	musical work
+divertimento	work
+divertimento	work of art
+transition	musical passage
+transition	passage
+transition	musical composition
+transition	composition
+transition	piece of music
+transition	piece
+transition	opus
+transition	musical work
+transition	work
+transition	work of art
+canto	voice part
+canto	part
+canto	song
+canto	musical work
+canto	work
+canto	work of art
+canto	audio signal
+canto	signal
+canto	medium
+soundtrack album	soundtrack
+album	soundtrack
+soundtrack album	album
+soundtrack album	record album
+soundtrack album	studio album
+soundtrack album	musical work
+album	work
+soundtrack album	audio recording
+album	recording
+soundtrack album	sound recording
+album	sound
+soundtrack album	audio
+album	audio
+soundtrack album	flick
+album	flick
+soundtrack album	audio signal
+album	signal
+soundtrack album	medium
+album	medium
+soundtrack album	work of art
+soundtrack album	recording
+soundtrack album	show
+album	show
+soundtrack album	signal
+soundtrack album	storage
+album	storage
+folk music	popular music
+folk music	popular music genre
+folk music	musical style
+folk music	music genre
+folk music	musical composition
+folk music	piece of music
+folk music	opus
+folk music	composition
+folk music	musical work
+folk music	work of art
+blue-eyed soul	musical style
+blue-eyed soul	music genre
+blue-eyed soul	soul music
+blue-eyed soul	african-american music
+blue-eyed soul	black music
+blue-eyed soul	gospel singing
+blue-eyed soul	gospel
+blue-eyed soul	gospel music
+blue-eyed soul	traditional music
+blue-eyed soul	folk
+blue-eyed soul	folkie
+blue-eyed soul	folk music
+blue-eyed soul	ethnic music
+blue-eyed soul	tune
+blue-eyed soul	popular music
+blue-eyed soul	popular music genre
+blue-eyed soul	musical composition
+blue-eyed soul	piece of music
+blue-eyed soul	opus
+blue-eyed soul	composition
+blue-eyed soul	musical work
+musical score	sheet music
+musical score	musical notation
+musical score	music notation
+musical score	musical composition
+musical score	piece of music
+musical score	opus
+musical score	composition
+musical score	musical work
+musical score	work of art
+quartet	musical composition
+quartet	composition
+quartet	piece of music
+quartet	piece
+quartet	opus
+quartet	band
+quartet	musical group
+quartet	group
+quartet	musical organization
+quartet	organization
+quartet	music group
+quartet	bandmember
+quartet	rock group
+quartet	rock band
+quartet	team
+quartet	musical work
+quartet	work
+quartet	work of art
+sheng	free reed
+sheng	reed
+sheng	instrument
+sheng	musical instrument
+sheng	wind
+sheng	wind instrument
+sheng	aerophone
+british invasion	classic rock
+invasion	rock
+british invasion	rock
+british invasion	music genre
+invasion	genre
+british invasion	musical style
+invasion	style
+hillbilly music	country
+music	country
+hillbilly music	country music
+hillbilly music	country-western music
+hillbilly music	country and western
+hillbilly music	musical style
+hillbilly music	music genre
+hillbilly music	traditional music
+hillbilly music	folk
+hillbilly music	folkie
+hillbilly music	folk music
+hillbilly music	ethnic music
+hillbilly music	tune
+hillbilly music	pop musician
+hillbilly music	pop music
+hillbilly music	pop
+hillbilly music	popular music
+hillbilly music	popular music genre
+hillbilly music	musical composition
+hillbilly music	piece of music
+hillbilly music	opus
+hillbilly music	composition
+hillbilly music	musical work
+hillbilly music	work of art
+tom-tom	drum
+tom-tom	membranophone
+tom-tom	percussion
+tom-tom	percussive instrument
+tom-tom	instrument
+tom-tom	percussion instrument
+tom-tom	musical instrument
+clarinet	woodwind instrument
+clarinet	musical instrument
+clarinet	reed instrument
+clarinet	wind instrument
+cool jazz	jazz
+cool jazz	popular music
+cool jazz	popular music genre
+cool jazz	musical style
+cool jazz	music genre
