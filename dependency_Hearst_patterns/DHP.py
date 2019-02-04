@@ -28,10 +28,9 @@ def get_couples(parsed_sentence, hyper_index, hypo_index):
         if str(parsed_word.dep_rel).__contains__("conj") and parsed_word.parent_index == hypo_index:
             new_hypo_index = parsed_word.index
             new_hypo_np = get_NP(parsed_sentence.NPs, new_hypo_index)
-            if hyper_np != "" and hypo_np != "" and hypo_np != hyper_np:
+            if hyper_np != "" and hypo_np != "" and new_hypo_np != hyper_np:
                 new_hh = HH.HHCouple(new_hypo_np, hyper_np)
                 couples.append(new_hh)
-
     return couples
 
 
@@ -149,6 +148,7 @@ def A_such_as_B(parsed_sentence):
     return False, []
 
 def sentence_couples_annotation(sentence, couples):
+    sentence = sentence.replace("_hypo", "").replace("_hyper", "").replace("_", " ")
     for couple in couples:
         hyper = couple.hypernym
         hyper2 = hyper.replace(" ", "_")
@@ -197,4 +197,3 @@ def DHP_matching(parsed_sentence, sentence = ""):
     if len(couples) == 0:
         return False, "", "", ""
     return True, couples, patterns, sentence_couples_annotation(sentence, couples)
-
