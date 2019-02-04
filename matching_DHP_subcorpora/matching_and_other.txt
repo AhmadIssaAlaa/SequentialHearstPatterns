@@ -1,0 +1,16 @@
+<s>
+typically it is performed on violin , cymbalom or clarinet , though it has been done on banjo , xylophone , flute , cornet , saxophone , tuba_hypo , and many other instruments_hyper .
+[(tuba, instruments)]
+</s>
+<s>
+these vendors often associate it with re-edits of original-era disco_hypo music , as well as with music from european producers who make dance music inspired by original-era american disco_hypo , electro and other genres_hyper popular in the late 1970s and early 1980s .
+[(disco, genres)]
+</s>
+<s>
+while a plurality of filk is rooted firmly in acoustic-instrument folk music , other pieces and artists draw inspiration_hypo from rock , a_cappella_hypo vocal groups , or other styles_hyper .
+[(inspiration, styles), (a cappella, styles)]
+</s>
+<s>
+these distinctions can be blurred : ezio pinza_hypo and other opera singers_hyper have appeared on broadway .
+[(pinza, singers)]
+</s>
