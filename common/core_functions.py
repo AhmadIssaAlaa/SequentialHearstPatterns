@@ -13,13 +13,11 @@ stopWords = set(STOP_WORDS)
 lemma = WordNetLemmatizer()
 
 
-def write_sentence_matching_result_into_file(f, ann_sent, couples, label, predicted, predicted_by):
+def write_sentence_matching_result_into_file(f, ann_sent, couples, label):
     f.write("<s>\n")
     f.write(ann_sent + "\n")
     f.write(str(couples) + "\n")
     f.write("Label: " + label + "\n")
-    f.write("Predicted: " + str(predicted) + "\n")
-    f.write("Predicted by: " + str(predicted_by) + "\n")
     f.write("</s>\n")
 
 def check_extracted_couples(extracted_couples, dataset_path):
@@ -34,7 +32,22 @@ def check_extracted_couples(extracted_couples, dataset_path):
             return True, "dataset"
         if check_wordNet_hypernymy(lemma_extC.hyponym, lemma_extC.hypernym):
             return True, "wordNet"
+        if check_structural_hypernym_relation(extC.hyponym, extC.hypernym):
+            return True, "structural"
     return False, "None"
+
+def check_structural_hypernym_relation(hypo, hyper):
+    if len(hypo.split()) == 1 or len(hypo) <= len(hyper) or not str(hypo + " ").endswith(" " + hyper + " "):
+        return False
+    tokens = word_tokenize(hypo)
+    tags = pos_tag(tokens)
+    print tags
+    hypo2 = str(hypo).replace(" " + hyper, "")
+    hypos = hypo2.split()
+    for tag in tags:
+        if tag[0] == hypos[len(hypos) - 1] and (tag[1].__contains__("NN") or tag[1].__contains__("JJ")):
+           return True
+    return False
 
 def check_wordNet_hypernymy(hypo, hyper):
     hypos = wn.synsets(hypo)
@@ -51,7 +64,6 @@ def check_wordNet_hypernymy(hypo, hyper):
     else:
         return False
 
-
 def get_couples_from_string(couples_string): #[(sonatas, works), (symphonies, works)]
     """
     get a string of couples and return them as list of HH couples
@@ -62,7 +74,7 @@ def get_couples_from_string(couples_string): #[(sonatas, works), (symphonies, wo
     couples_temp = couples_string.replace("[", "").replace("]", "").split("),")
     for co in couples_temp:
         hypo, hyper = str(co).replace("(", "").replace(")", "").split(",")
-        hh = HH.HHCouple(hypo.strip(), hyper.strip)
+        hh = HH.HHCouple(hypo.strip(), hyper.strip())
         couples.append(hh)
     return couples
 
@@ -74,7 +86,6 @@ def get_result_sentences(result_file):
     """
     sent = ps.parsed_sentence()
     # Read all the sentences in the file
-
     with open(result_file, 'r') as f_in:
         i = 0
         ann_sent = ""
@@ -109,6 +120,7 @@ def get_result_sentences(result_file):
                 elif i == 5:
                     predicted_by = line.split(":")[1].strip()
                 i += 1
+                
 def get_sentences(corpus_file):
     """
     Returns all the (content) sentences in a processed corpus file
@@ -300,3 +312,4 @@ def HeadWithLemma(couple_term):
     if word == "":
         return couple_term
     return word
+
