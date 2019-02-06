@@ -197,3 +197,4 @@ def DHP_matching(parsed_sentence, sentence = ""):
     if len(couples) == 0:
         return False, "", "", ""
     return True, couples, patterns, sentence_couples_annotation(sentence, couples)
+
