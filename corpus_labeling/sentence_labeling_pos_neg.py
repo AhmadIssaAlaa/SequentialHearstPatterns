@@ -1,8 +1,8 @@
 from nltk import word_tokenize
-from nltk import sent_tokenize
 from nltk import WordNetLemmatizer
-import spacy
-nlp = spacy.load('en_core_web_sm')
+from spacy.lang.en import English
+nlp = English()
+nlp.add_pipe(nlp.create_pipe('sentencizer'))
 from spacy.lang.en.stop_words import STOP_WORDS
 stopWords = set(STOP_WORDS)
 lemma = WordNetLemmatizer()
@@ -24,8 +24,8 @@ def main():
     #inputs
     corpusFilesInput = [r"E:\SemEvalData\SemEval18-Task9\corpuses\2B_music_bioreviews_tokenized_Training.txt",
                     r"E:\SemEvalData\SemEval18-Task9\corpuses\2B_music_bioreviews_tokenized_Testing.txt"]
-    posSentOutputFile = r"..\labeled_corpus\Music_Pos2.txt"
-    negSentOutputFile = r"..\labeled_corpus\Music_Neg2.txt"
+    posSentOutputFile = r"..\labeled_corpus\Music_Pos.txt"
+    negSentOutputFile = r"..\labeled_corpus\Music_Neg.txt"
     datasetFilePath = r"..\datasets\Music.txt"
     minTokens = 5
     maxTokens = 50
@@ -45,8 +45,9 @@ def main():
                 line = line.decode("ascii", "ignore")
                 i += 1
                 print i
-                sentences = sent_tokenize(line)
-                for sentence in sentences:
+                sentences = nlp(line.decode("ascii", "ignore"))
+                for sentence in sentences.sents:
+                    sentence = sentence.string.strip()
                     tokens = word_tokenize(sentence)
                     if len(tokens) < minTokens or len(tokens) > maxTokens:
                         continue
