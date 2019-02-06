@@ -25,6 +25,7 @@ import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.trees.TreebankLanguagePack;
 import edu.stanford.nlp.trees.TypedDependency;
 import edu.stanford.nlp.util.CoreMap;
+import edu.stanford.nlp.util.StringUtils;
 
 public class CorpusPreprocessing {
 	private final static String PCG_MODEL = "edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz";
@@ -131,13 +132,12 @@ public class CorpusPreprocessing {
 			return;
 		}
 		if (tree.value().trim().equals("NP") && tree.getLeaves().size() < 10) {
-			System.out.println(tree.toString());
-			int NPFlag = tree.toString().replace("NNP", "NN").split("NP").length;
+			int nbOfNP = tree.toString().replace("NNP", "NN").split("NP").length - 1;
 			String NP = "";
 			for (Tree tree2 : tree.getLeaves()) {
 				NP += tree2.toString() + " ";
 			}
-			if (NPFlag == 2 && !NP.trim().contains("such as")
+			if (nbOfNP == 1 && !NP.trim().contains("such as")
 					&& !NP.trim().contains("including")
 					&& !NP.trim().contains("especially")
 					&& !NP.trim().contains("and") && !NP.trim().contains("or")
@@ -170,7 +170,8 @@ public class CorpusPreprocessing {
 				}
 			}
 			if (flag) {
-				newli.add(NP.trim());
+				if (StringUtils.isAlphanumeric(NP))
+					newli.add(NP.trim());
 			}
 		}
 		return newli;
@@ -211,6 +212,7 @@ public class CorpusPreprocessing {
 		Tree tree = parser.parse(line);
 		List<String> NPs = new ArrayList<String>();
 		NPs = distinctNounPhrases(tree);
+		System.out.println(NPs);
 		List<String> heads = NounPhrasesHead(NPs);
 		GrammaticalStructure gs = gsf.newGrammaticalStructure(tree);
 		Collection<TypedDependency> tdl = gs.typedDependenciesCollapsed();
